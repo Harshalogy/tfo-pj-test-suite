@@ -1,0 +1,58 @@
+{
+  "page": { "title": "Redemption", "description": "Redemption" },
+  "myLiquidHolding": {
+    "title": "My liquid holdings",
+    "description": "Please select the fund you would like to redeem from",
+    "estimationText": "Estimated balance",
+    "header": "Select a fund"
+  },
+  "redemptionDetails": {
+    "title": "Redemption details",
+    "description": "Please enter your desired redemption amount:",
+    "formSection": {
+      "redemptionAmount": {
+        "label": "Redemption amount",
+        "placeholder": "Enter redemption amount",
+        "errorMessages": {
+          "enterRedemptionAmount": "Enter Redemption Amount",
+          "amountExceeds": "This amount exceeds your balance of",
+          "validAmount": "Please enter a valid amount"
+        }
+      },
+      "reasonOfRedemption": {
+        "label": "Reason of Redemption",
+        "placeholder": "Select Reason",
+        "errorMessages": { "selectReason": "Select a reason for redemption" },
+        "option": {
+          "managementFee": "Redemption — Management fee",
+          "partailRedemption": "Partial redemption for capital call",
+          "personalWithDrawal": "Client requested redemption – personal withdrawal",
+          "redemptionForCapitalCall": "Redemption for capital call",
+          "zakat": "Client requested redemption – Zakat"
+        }
+      }
+    },
+    "redeemAll": "Redeem all",
+    "header": "Enter redemption amount"
+  },
+  "supportSection": { "title": "Need Support", "subTitle": "Get in touch" },
+  "aboutLiquids": {
+    "title": "About your liquid holdings",
+    "description": "The figures shown are accurate as of\n {{date}}"
+  },
+  "confirmation": {
+    "heading": "Confirmation — Client ID: #{{clientId}}",
+    "successMsg": "Thank you. Your redemption has been logged.",
+    "accurateDate": "The figures shown are accurate as of",
+    "emailConfirmationText": "Your redemption form has been sent to your registered email for your signature.",
+    "processText": "Your order will be processed when the redemption form is signed.",
+    "successMessage": "Thank you. Your redemption has been logged.",
+    "button": "Back To Opportunities"
+  },
+  "labels": {
+    "availableBalance": "Available Balance",
+    "remainingBalance": "Remaining balance",
+    "redemptionAmount": "Redemption amount"
+  },
+  "empty": { "title": "No redemption options found." }
+}

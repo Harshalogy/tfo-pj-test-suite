@@ -1,0 +1,75 @@
+{
+  "page": { "title": "Portfolio Summary", "description": "Portfolio Summary" },
+  "heading": "Welcome, Client #{{clientId}} to your Portfolio Summary",
+  "description": "An overview of your investments by asset class as of {{valuationDate}}. All amounts appear in USD.",
+  "disclaimer": "The last valuation date was {{valuationDate}}",
+  "recentActivity": {
+    "title": "An overview of your recent activity.",
+    "recentFunding": {
+      "title": "Recent Funding",
+      "description": "within {{month}} Months"
+    },
+    "investedOpportunities": "Money invested in new opportunities",
+    "distributionReceived": {
+      "title": "Distributions Received",
+      "labels": {
+        "income": "Income Distributions",
+        "capitalGains": "Capital Gains"
+      }
+    },
+    "disclaimer": "The last valuation date was {{valuationDate}}"
+  },
+  "portfolioObjectives": {
+    "title": "Portfolio Objectives & Allocation",
+    "button": "View asset allocation",
+    "objectives": {
+      "objectiveOne": "Diversify away from local and oil-related markets to minimize risk",
+      "objectiveTwo": "Preserve wealth for the next generation"
+    }
+  },
+  "portfolioAllocation": {
+    "table": {
+      "tableHeader": {
+        "investmentName": "Investment name",
+        "assetClass": "Asset Class",
+        "dealName": "Deal Name",
+        "spv": "SPV",
+        "investmentDate": "Investment Date",
+        "investmentAmount": "Investment Amount",
+        "marketValue": "Market Value",
+        "performanceContribution": "Performance Contribution(%)"
+      }
+    },
+
+    "button": {
+      "viewAll": "View all investments",
+      "viewAllocationDtl": "View allocation details"
+    }
+  },
+  "portfolioOverview": {
+    "title": "Portfolio Overview",
+    "label": {
+      "capitalCall": "Capital Calls",
+      "distributions": "Distributions",
+      "cashFlows": "Cash Flows",
+      "performance": "Performance",
+      "profitAndLoss": "Profit and Loss",
+      "portfolioHolding": "Total Investments",
+      "marketIndicators": "Market Indicators",
+      "totalCommitments": {
+        "title": "Total Commitments",
+        "subTitle": "Committed"
+      }
+    }
+  },
+  "portfolioOverviewVideos": {
+    "title": "Portfolio Overview Videos",
+    "disclaimer": "* Disclaimer:",
+    "value": "This video was created on {{createdDate}}. The Family Office Co. BSC (c) is a Category 1 Investment Firm regulated by the Central Bank of Bahrain C.R. No. 53871 dated 21/6/2004. Paid Up Capital: US$10,000,000. The Family Office Co. BSC (c) only offers products and services to ‘accredited investors’ as defined by the Central Bank of Bahrain."
+  },
+  "underStandingInvestment": {
+    "title": "Understanding Illiquid Investment Stages",
+    "subTitle": "Illiquid investments tend to involve a longer holding period, with a lower price fluctuation (volatility) financial strategy.",
+    "button": "Learn more"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "page": { "title": "Performance", "description": "Performance" },
+  "heading": "Performance",
+  "description": "Portfolio performance overview from {{fromDate}} - {{toDate}} | All amounts appear in USD.",
+  "labels": {
+    "ofInvestment": "of investments valued within the selected time period",
+    "overallPerformance": "Overall Performance",
+    "inceptionToDate": "Inception to Date",
+    "cumulativePerformance": "Cumulative Performance",
+    "periodPerformance": "Period Performance",
+    "valueStart": "Value Start",
+    "valueEnd": "Value End",
+    "netChange": "Net Change",
+    "illiquidGreaterThanTwoYear": "Illiquid (vintage greater than 2 years)",
+    "sharpRatio": "Sharpe Ratio",
+    "riskVolatility": "Risk/Volatility",
+    "annualized": "Annualized",
+    "additions": "Additions/Withdrawals",
+    "loadMore": "Load more"
+  },
+  "detailedPerformance": { "title": "Detailed Performance" },
+  "monthlyPerformanceTable": {
+    "header": {
+      "monthlyPerformance": "MONTHLY PERFORMANCE",
+      "yearlyPerformance": "YEARLY PERFORMANCE",
+      "additionsWithdrawals": "Additions/Withdrawals",
+      "netChange": "Net Change",
+      "performance": "Performance",
+      "cumulPerformance": "Cumul. Performance"
+    }
+  },
+  "topMoverTable": {
+    "header": { "topMoverDeals": "TOP MOVERS — DEALS", "change": "Change" }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "page": { "title": "Profit and Loss", "description": "Profit and Loss" },
+  "heading": "Profit and Loss",
+  "description": "An overview of realized and unrealized portfolio gains and losses from\n {{fromDate}} - {{toDate}} USD",
+  "labels": { "netChange": "Net Change" },
+  "drawDown": {
+    "title": "Your Drawdown",
+    "description": "the maximum drawdown for the illiquid portfolio"
+  },
+  "indexDrwadown": {
+    "title": "MSCI World Index Drawdown",
+    "description": "the maximum drawdown in the same time frame"
+  },
+  "assetClassTotal": { "title": "ASSET CLASS TOTALS" },
+  "investAssetClass": { "title": "INVESTMENT ASSET CLASSES" },
+  "table": {
+    "header": { "total": "Total", "relative": "Relative" },
+    "body": {
+      "CommissionExpenses": "Commission Expenses",
+      "ForexResults": "Forex Results",
+      "Income": "Income",
+      "CapitalAppreciation": "Capital Appreciation"
+    }
+  }
+}

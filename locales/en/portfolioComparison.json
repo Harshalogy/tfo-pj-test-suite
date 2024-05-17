@@ -1,0 +1,64 @@
+{
+  "page": {
+    "title": "Validate Your Portfolio",
+    "description": "Validate Your Portfolio",
+    "comparisonViewSection": {
+      "myPortfolioSection": {
+        "title": "My portfolio",
+        "description": "Opportunity to invest in a Unilever brand considered a leading manufacturer of non-dairy spreads."
+      },
+      "customizedProposalSection": {
+        "title": "Customized proposal",
+        "description": "Opportunity to invest in a Unilever brand considered a leading manufacturer of non-dairy spreads."
+      },
+      "portfolioExpectation": {
+        "title": "Portfolio expectation",
+        "expectedReturn": "Expected Return p.a.",
+        "expectedYieldImplementation": "Expected yield p.a. at full implementation",
+        "forecastedVolatility": "Risk (Forecasted volatility)",
+        "sharpeRatio": "Sharpe ratio"
+      },
+      "earningFromInvestment": {
+        "title": "Earning from investment",
+        "investmentAmount": "Investment amount",
+        "incomeDistribution": "Income distribution",
+        "capitalDistribution": "Capital distribution",
+        "totalDistribution": "Total distribution",
+        "multipleOnInvestedCapital": "Multiple on Invested Capital"
+      },
+      "strategyAllocation": {
+        "title": "Strategy Allocation"
+      },
+      "deploymentPace": {
+        "title": "Deployment pace"
+      },
+      "expectationHoldingPeried": {
+        "title": "Expectation holding peried"
+      }
+    },
+    "buttons": {
+      "backToMyPortfolio": "Back to my portfolio",
+      "customizedPortfolio": "Build your personalized proposal"
+    }
+  },
+  "personalizedProposalConfirmationModal": {
+    "heading": "Receive your personalized proposal",
+    "description1": "To help us generate your personalized proposal, you need to identify your investment goals and risk tolerance by choosing to receive investment advice.",
+    "description2": "Please note that switching to receive advice will delete your current preferences.",
+    "buttons": {
+      "cancel": "Cancel",
+      "switchNow": "Receive investment advice"
+    }
+  },
+  "toast": {
+    "error": {
+      "generic": "Something went wrong. Please try again."
+    },
+    "success": {
+      "title": "Your new preference is to receive advice about the right investments for you"
+    }
+  },
+  "disclaimer": {
+    "pastPerformance": "Past performance is not indicative of and does not guarantee future performance. Exit timelines, prices and related projections are estimates only, and exits could happen sooner or later than expected, or at a higher or lower valuation than expected, and are conditional, among other things, on certain assumptions and future performance relating to the financial and operational health of each business and macroeconomic conditions."
+  }
+}

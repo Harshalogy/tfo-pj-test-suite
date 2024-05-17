@@ -1,0 +1,172 @@
+{
+  "index": {
+    "page": {
+      "title": "Investment Opportunities",
+      "description": "View your investment opportunities."
+    },
+    "heading": "Opportunities",
+    "opportunitySubheading": "The Family Office provides clients exclusive access to world-class managers like BlackRock, Goldman Sachs, and the Carlyle Group, offering top-tier alternative investment opportunities.",
+    "subheading": {
+      "unverified": "Discover below our unique and exclusive opportunities from around the globe.",
+      "pendingApproval": "As a qualified investor you have access to all opportunities offered by The Family Office."
+    },
+    "moreCard": {
+      "title": "More Investment Opportunities",
+      "description": "Our exclusive opportunities span over multiple alternative classes like private equity, private debt, real estate, financials and infrastructure.",
+      "button": { "viewAll": "View all" }
+    },
+    "text": {
+      "verifying": "Verifying...",
+      "confidential": "Confidential",
+      "unlocking": "Unlocking...",
+      "breakdown": "Breakdown",
+      "video": "Video summary",
+      "otherInfo": "Other Info",
+      "seeSimilar": "See similar opportunities",
+      "disclaimer": "Disclaimer: Past performance is not indicative of and does not guarantee future performance.",
+      "seeOther": "See other opportunities",
+      "whyWeInvest": "Why this investment?",
+      "openOffering": "Open Opportunities",
+      "closedOffering": "Closed Opportunities",
+      "availableToInvest": "Available to invest"
+    },
+    "button": {
+      "qualify": "Qualify to unlock",
+      "unlock": "Unlock this opportunity",
+      "viewDetails": "View details",
+      "verifying": "Reviewing...",
+      "playVideo": "Play Video",
+      "scheduleMeeting": "Schedule Meeting",
+      "interested": "Interested",
+      "discussOpporunity": "Discuss this opportunity",
+      "addToPortfolio": "Add to portfolio",
+      "addedToPortfolio": "Added to portfolio",
+      "removeFromPortfolio": "Remove from portfolio",
+      "viewPortfolio": "View Portfolio"
+    },
+    "card": {
+      "defaultUnlock": {
+        "title": "Complete your investor profile",
+        "description": "Our exclusive opportunities are available only to qualified investors. Complete your profile today to view the complete set of opportunities and information."
+      },
+      "defaultVerify": {
+        "title": "Your profile is being verified...",
+        "description": "Our exclusive opportunities are available only to qualified investors. We're verifying your investor profile before we can unlock new opportunities for you."
+      },
+      "opportunityCardUnlock": {
+        "title": "Opportunities for you",
+        "description": "Unlock opportunities by completing your investor profile."
+      },
+      "opportunityCardVerify": {
+        "title": "We are reviewing your answers...",
+        "description": "We'll let you know when our team has reviewed your information."
+      },
+      "tag": {
+        "shariah": "Sharia'h",
+        "new": "New"
+      },
+      "labels": {
+        "expectedReturn": "Expected Return",
+        "expectedExit": "Expected Exit",
+        "exitDate": "Exit Date",
+        "assetClass": "Asset class",
+        "country": "Country",
+        "sector": "Sector",
+        "sponsor": "Sponsor",
+        "assetManager": "Asset manager",
+        "clientExpectedExit": "Expected Exit",
+        "clientSponsor": "Sponsor",
+        "netIRR": "Net IRR"
+      },
+      "tooltip": {
+        "expectedReturn": "The amount of profit or loss you can anticipate receiving on an investment."
+      }
+    },
+    "footer": { "detail": "Qualify now to view more exclusive opportunities" },
+    "toast": {
+      "showInterest": "Marked with 'Interested'",
+      "showUnInterest": "'Interested' label removed",
+      "addedToPortfolio": "Opportunity added to your portfolio",
+      "removeFromPortfolio": "Opportunity removed from your portfolio"
+    }
+  },
+  "tabs": {
+    "open": "Open",
+    "closed": "Closed"
+  },
+  "unlock": {
+    "page": {
+      "title": "Investor profile",
+      "description": "We need further details to verify your identity and eligibility to invest with The Family Office."
+    },
+    "heading": "Complete your investor profile",
+    "subHeading": "<0>Once qualified, you’ll benefit from</0><1><2>A dedicated financial advisor </2><2>Access to exclusive opportunities</2><2>Quicker access to personalized proposals</2></1>",
+    "options": {
+      "heading": "What would like to do now?",
+      "QualifyToUnlock": "I only want to unlock opportunities",
+      "StartInvesting": "I also want to generate my personalized proposal",
+      "recommended": "RECOMMENDED"
+    },
+    "tooltip": {
+      "QualifyToUnlock": "You will get access to global private market opportunities in partnership with top-tier managers.",
+      "StartInvesting": "You will get access to private market opportunities and be able generate an investment proposal that matches your risk profile and goals."
+    },
+    "button": { "getStarted": "Get started" },
+    "sideDescription": "By providing further details about yourself, you help us secure your account and determine your investment goals with The Family Office."
+  },
+  "completed": {
+    "page": {
+      "title": "Investor profile",
+      "description": "Thank you for completing your investor profile"
+    },
+    "text": {
+      "title": "Opportunities Unlocked!",
+      "verifiedDescription": "<0><1>Thank you for completing your investor profile. We will let you know when we have processed your information. A confirmation email will be sent to <2>{{userEmail}}</2> when the process is completed.</1><3>This may take up to 48 hours.</3></0>",
+      "unVerifiedDescription": "<0><1>Thank you for completing your investor profile. You have now access to our exclusive investment opportunities.</1><2>A dedicated financial advisor will also be assigned to support you when needed.</2></0>",
+      "or": "or"
+    },
+    "button": {
+      "getProposal": "Generate proposal",
+      "viewOpportunities": "View opportunities"
+    }
+  },
+  "client": {
+    "title": "Available Opportunities",
+    "description": "Here you can see all the current opportunities offered by The Family Office",
+    "interested": { "title": "Interested" },
+    "labels": {
+      "newDeals": "New Deals",
+      "allDeals": "All Opportunities",
+      "interested": "Interested Opportunities"
+    },
+
+    "subscribedDeals": { "title": "Subscribed Opportunities" },
+    "button": {
+      "viewAllDeals": "View All Deals",
+      "addToCart": "Add to Cart",
+      "addedToCart": "Added to Cart",
+      "download": "Download",
+      "print": "Print"
+    },
+    "modal": {
+      "interested": {
+        "buttons": { "ok": "Ok" },
+        "disclaimer": "If you change your mind, you can invest in this opportunity later",
+        "title": "Marked as Interested"
+      },
+      "investmentPerf": {
+        "buttons": { "conventional": "Conventional", "shariah": "Sharia'h" },
+        "title": "Please select your investment preferences"
+      },
+      "notInterested": {
+        "buttons": { "later": "Later", "scheduleNow": "Schedule Now" },
+        "disclaimer": "Schedule a meeting with your financial advisor.",
+        "title": "Marked as not Interested"
+      }
+    }
+  },
+  "overlay": {
+    "description": "Complete your investor profile to unlock opportunities.",
+    "cta": "Start now"
+  }
+}

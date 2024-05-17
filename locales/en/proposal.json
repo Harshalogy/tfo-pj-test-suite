@@ -1,0 +1,557 @@
+{
+  "chapterSelection": {
+    "page": {
+      "title": "Build Your Portfolio",
+      "description": "Get a tailored investment strategy in three simple steps."
+    },
+    "button": { "getStarted": "Get Started" },
+    "heading": {
+      "title": "Build Your Portfolio",
+      "subtitle": "Get a tailored investment strategy in three simple steps."
+    },
+    "chapterOne": {
+      "title": "Complete your investor profile",
+      "description": {
+        "active": "We need further details to verify your identity and eligibility to invest with The Family Office.",
+        "completed": "Your profile is being verified...",
+        "verified": "Your profile is qualified!"
+      },
+      "stepper": { "title": "Investor profile" }
+    },
+    "chapterTwo": {
+      "title": "Define investment goals",
+      "description": {
+        "active": "Tell us about your investment preferences and goals, so we can design a portfolio that fits your profile and needs.",
+        "inactive": "Complete your investor profile to unlock this step."
+      },
+      "stepper": { "title": "Investment goals" }
+    },
+    "chapterThree": {
+      "title": "Complete risk assessment",
+      "description": {
+        "active": "All investment involves an element of risk. To propose the right portfolio for you, we need to understand your risk appetite. Please rate each statement according to how strongly you agree with it.",
+        "inactive": "Complete your investment goals to unlock this step."
+      },
+      "stepper": { "title": "Risk assessment" }
+    },
+    "label": { "completed": "Completed" }
+  },
+  "investorProfile": {
+    "page": {
+      "title": "Build Your Portfolio",
+      "description": "Investor profile"
+    },
+    "personalInformation": {
+      "title": "Personal information",
+      "questionInfo": {
+        "title": "Why we need this information",
+        "description": "We ask this to ensure that you are eligible to invest with The Family Office."
+      },
+      "disclaimer": {
+        "title": "Disclaimer:",
+        "description": "No shares or units in any investment mentioned on this website/application may be offered or sold to citizens or residents of the United States of America or in any other country, state or jurisdiction where it would be unlawful to offer, solicit an offer for or sell such shares or units."
+      },
+      "select": {
+        "nationality": { "label": "Nationality" },
+        "region": { "label": "Region" },
+        "phoneCountryCode": {
+          "label": "Primary phone number",
+          "placeholder": "Select"
+        }
+      },
+      "radio": {
+        "isTaxableInUS": {
+          "label": "I am taxable in the US",
+          "popover": "<0><1>A person taxable in the U.S. means:</1><2></2><3><4>ِA U.S citizen, resident, partnership, corporation, estate, or</4><4>A trust that is either:<5><6>subject to the primary supervision of a court within the U.S., or</6><6>controlled by one or more U.S. persons.</6></5></4></3></0>",
+          "modal": {
+            "title": "Am I taxable in the USA?",
+            "description": "<0><1>A person taxable in the U.S. means:</1><2></2><3><4>ِA U.S citizen, resident, partnership, corporation, estate, or</4><4>A trust that is either:<5><6>subject to the primary supervision of a court within the U.S., or</6><6>controlled by one or more U.S. persons.</6></5></4></3></0>",
+            "button": { "label": "Close" }
+          },
+          "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } }
+        },
+        "isDefinedSophisticatedByCMA": {
+          "label": "I am a qualified client as defined by The Capital Market Authority (CMA)",
+          "popover": "<0>Qualified Clients as defined by The Capital Market Authority (CMA) of Saudi Arabia are as follows.<1></1><1></1><2>Read more</2></0>",
+          "learnMore": "Learn more",
+          "modal": {
+            "title": "The Capital Market Authority (CMA) Qualified Clients",
+            "description": "<0>According to the Glossary of The Capital Market Authority (CMA), a qualified client is a person who meets one of the following criteria:</0><3></3><1><2>Has carried out at least 10 transactions per quarter over the last 12 months for a minimum total amount of SR40 million on the securities markets.</2><2>Has net assets no less than SR5 million.</2><2>Works or worked for at least three years in the financial sector in a position related to investment in securities.</2><2>Accredited by an internationally recognized entity.</2><2>Holds the General Securities Qualification Certificate that is recognized by the CMA.</2><2>Is a client of a Capital Market Institution authorized by the CMA.</2></1>",
+            "button": { "label": "Close" }
+          },
+          "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } }
+        },
+        "investorType": {
+          "label": "Investor type",
+          "learnMore": "Learn more",
+          "modal": {
+            "title": "According to the Glossary of The Capital Market Authority (CMA), a retail client is any person who is not a qualified or an institutional client.",
+            "description": "According to the Glossary of The Capital Market Authority (CMA), a retail client is any person who is not a qualified or an institutional client.",
+            "button": { "label": "Close" }
+          },
+          "options": {
+            "qualified": {
+              "title": "I am a qualified client as defined by The Capital Market Authority (CMA)"
+            },
+            "retail": {
+              "title": "I am a retail client as defined by The Capital Market Authority (CMA)"
+            }
+          }
+        },
+        "isAccreditedByCBB": {
+          "label": "I am an accredited investor as defined by the Central Bank of Bahrain (CBB)",
+          "popover": "<0>Accredited investors are defined by the Central Bank of Bahrain (CBB) as investors meeting the following criteria.<1></1><1></1><2>Read description</2></0>",
+          "learnMore": "Learn more",
+          "modal": {
+            "title": "Investors accredited from the Central Bank of Bahrain (CBB)",
+            "description": "<0>The Central Bank of Bahrain (CBB) defines accredited investors as investors meeting the following criteria:</0><1><2>Individuals having a minimum net worth (either singly or jointly with their spouse) of USD 1,000,000, excluding the individual’s principal place of residence;</2><2>Companies, partnerships, trusts or other commercial undertakings which have financial assets available for investment of not less than USD 1,000,000; or</2><2>Governments, supranational organizations, central banks or other national monetary authorities and state organizations whose main activity is to invest in financial instruments (such as state pension funds).</2><3></3></1>",
+            "button": { "label": "Close" }
+          },
+          "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } }
+        }
+      }
+    },
+    "minimumInvestment": {
+      "title": "Minimum Investment",
+      "questionInfo": {
+        "title": "Why we need this information",
+        "description": "We ask this to ensure you are eligible to invest with The Family Office."
+      },
+      "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } },
+      "minimumAmount": "If you were to invest with The Family Office, would you be willing to commit $300,000 or more?",
+      "text": "When might you wish to invest?",
+      "select": {
+        "timeFrame": {
+          "options": {
+            "thisMonth": "This Month",
+            "next3Months": "Next 3 Months",
+            "next6Months": "Next 6 Months",
+            "after1Year": "After 1 Year"
+          }
+        }
+      }
+    },
+    "interestedInvestment": {
+      "title": "Intended Investment",
+      "questionInfo": {
+        "title": "Why we need this information",
+        "description": "We ask this to ensure you are eligible to invest with The Family Office."
+      },
+      "disclaimer": {
+        "description": "This is a long term investment and liquidity is limited",
+        "button": {
+          "ok": "Ok",
+          "readMore": "Read more"
+        },
+        "modal": {
+          "title": "Please read the following carefully before proceeding. If you do not meet the intended audience criteria or you do not agree to any part of this statement, you may not use this website/application or access any information contained on it.",
+          "description": "<0>You should be aware that the investments which are available on this website/application are subject to risk, including the possible loss of the money you invest.  The investment objectives, risks, charges, expenses, and other important information are contained in the detailed offering materials; read and consider them carefully before investing.  These risks include, but are not limited to, the following:</0><1><2>Alternative investments involve a high degree of risk and can be illiquid due to restrictions on transfer and the lack of a secondary market. They also may themselves invest in instruments that may be highly illiquid and extremely difficult to value. This may limit your ability to redeem or transfer your investment or delay receipt of redemption or transfer proceeds.</2><2>Investments may be highly leveraged, speculative, and volatile.  You could lose all or a substantial amount of your investment.</2><2>Private funds are subject to much less regulation than other retail products.</2><2>These products typically have longer time horizons before profits, if any, are realized.</2><2>Emerging markets tend to be more volatile than more established markets.</2><2>Changes in interest rates may have an adverse effect upon the value of your investment.</2></1><3></3><0>The above risks are for illustration purposes only.  Please read the detailed offering materials carefully.</0><0>Information relating to investments in entities managed by The Family Office or its affiliates is not available to the general public.  Under no circumstances should any information presented in the website/application or otherwise be construed as an offer to sell, or solicitation of any offer to purchase, any securities or other investments.  No information contained herein constitutes a recommendation to buy or sell investment instruments or other assets, nor to effect any transaction, or to conclude any legal act of any kind whatsoever in any jurisdiction in which such offer or recommendation would be unlawful.</0><0>Nothing contained herein constitutes financial, legal, tax or other advice, nor should any investment or any other decision(s) be made solely on the information set out herein.  Advice from a qualified expert should be obtained before making any investment decision.  The investment strategies discussed in the website/application and otherwise may not be suitable for all investors. Investors must make their own decisions based upon their investment objectives, financial position and tax considerations.</0><0>To the extent this information contains any forecasts, projections, goals, plans and other forward-looking statements, such forward-looking statements necessarily involve known and unknown risks and uncertainties, which may cause actual performance, financial results and other projections in the future to differ materially from any projections of future performance or result expressed or implied by such forward-looking statements.</0>",
+          "button": { "label": "Ok" }
+        }
+      },
+      "text": "Which investments are you interested in?",
+      "options": {
+        "PrivateEquity": {
+          "title": "Private Equity",
+          "description": "Equity positions in companies that are not publicly traded."
+        },
+        "RealEstates": {
+          "title": "Real Estate",
+          "description": "Off-market investments in the Real Estate asset class."
+        },
+        "PrivateDebt": {
+          "title": "Private Debt",
+          "description": "Loans to companies provided by private investors."
+        },
+        "BondsSukuks": {
+          "title": "Bonds",
+          "description": "Represent units of tradeable debt that usually entitle the holder to interest income"
+        },
+        "Equities": {
+          "title": "Equities",
+          "description": "Tradeable financial assets that represent the holder's ownership claim of a company."
+        },
+        "Other": { "title": "Other", "description": "" }
+      },
+      "otherInterestedInvestmentDetails": {
+        "placeholder": "Enter Text Here",
+        "specifyOtherText": "Specify 'other' here"
+      }
+    },
+    "investmentExperience": {
+      "title": "Investment Experience",
+      "questionInfo": {
+        "title": "Why we need this information",
+        "description": "We ask this to ensure you are eligible to invest with The Family Office."
+      },
+      "placeholderQuestion": "How much experience do you have in investments?",
+      "options": {
+        "LessThanOne": { "title": "Less than 1 year" },
+        "OneToTwo": { "title": "1 - 2 years" },
+        "TwoToFive": { "title": "2 - 5 years" },
+        "FiveToTen": { "title": "5 - 10 years" },
+        "OverTen": { "title": "Over 10 years" }
+      }
+    },
+    "priorExperience": {
+      "title": "Investment Experience",
+      "questionInfo": {
+        "title": "Why we need this information",
+        "description": "We ask this to ensure you are eligible to invest with The Family Office."
+      },
+      "placeholderQuestion": "In which investments do you have prior experience?",
+      "options": {
+        "PrivateEquity": {
+          "title": "Private Equity",
+          "description": "Equity positions in companies that are not publicly traded."
+        },
+        "RealEstates": {
+          "title": "Real Estate",
+          "description": "Off-market investments in the Real Estate asset class."
+        },
+        "PrivateDebt": {
+          "title": "Private Debt",
+          "description": "Loans to companies provided by private investors."
+        },
+        "BondsSukuks": {
+          "title": "Bonds",
+          "description": "Represent units of tradeable debt that usually entitle the holder to interest income"
+        },
+        "Equities": {
+          "title": "Equities",
+          "description": "Tradeable financial assets that represent the holder's ownership claim of a company."
+        },
+        "Other": { "title": "Other", "description": "" }
+      },
+      "otherPriorDetails": {
+        "placeholder": "Enter Text Here",
+        "specifyOtherText": "Specify 'other' here"
+      }
+    }
+  },
+  "investmentGoals": {
+    "page": {
+      "title": "Build Your Portfolio",
+      "description": "Investment goals"
+    },
+    "question": {
+      "1": {
+        "title": "Who is this portfolio beneficiary?",
+        "description": "This will help us structure the right portfolio for you.",
+        "options": {
+          "Myself": { "title": "Myself" },
+          "ImmediateFamily": { "title": "My immediate family" },
+          "FamilyAndFutureGen": { "title": "My family and future generations" },
+          "Other": { "title": "Other" },
+          "placeholders": { "insertDetails": "Insert details" }
+        }
+      },
+      "2": {
+        "title": "What are your goals for this potential investment?",
+        "description": "Understanding your motivations will help us tailor your portfolio to your needs.",
+        "options": {
+          "Diversify": { "title": "Diversify the portfolio" },
+          "MaintainLifestyle": { "title": "Maintain current lifestyle" },
+          "BuildGlobalPortfolio": {
+            "title": "Build an international portfolio"
+          },
+          "GrowWealth": { "title": "Grow wealth" },
+          "Other": { "title": "Other" },
+          "placeholders": { "insertDetails": "Insert details" }
+        }
+      },
+      "3": {
+        "title": "Would you like this portfolio to generate income?",
+        "description": "You can decide how we implement your personal investment strategy. You can of course change your preference later.",
+        "options": {
+          "yes": {
+            "title": "Yes",
+            "subtitle": "I want to receive regular income from my investment"
+          },
+          "no": {
+            "title": "No",
+            "subtitle": "I do not require any income from my investment"
+          },
+          "unsure": {
+            "subtitle": "Still uncertain about this",
+            "title": "I'm not sure"
+          }
+        },
+        "question": "What is your desired annual income?",
+        "statement": "<0>Initial investment: ${{amount}}</0>",
+        "leftMarker": "0.5%",
+        "rightMarker": "6.5%",
+        "correspondence": "Corresponds to ",
+        "heading": "Please note",
+        "subheading": "Income generating portfolios are yield-focused and achieve lower growth and returns over time."
+      },
+      "4": {
+        "title": "How long do you want to invest for?",
+        "description": "This impacts your investment style.",
+        "selectHorizon": "Select a time horizon",
+        "options": {
+          "short": {
+            "title": "This is a short time horizon.",
+            "description": "You can expect a low risk, yield-driven portfolio."
+          },
+          "medium": {
+            "title": "This is a medium to long term horizon.",
+            "description": "You can expect a dynamic, illiquid portfolio."
+          },
+          "long": {
+            "title": "This is a long time horizon.",
+            "description": "You can expect a dynamic, illiquid portfolio."
+          },
+          "indefinite": {
+            "title": "This is an indefinite horizon.",
+            "description": "We can help tailor your portfolio to your needs and to build intergenerational wealth."
+          }
+        },
+        "duration": { "min": "1 year", "max": "25 years" }
+      },
+      "5": {
+        "title": "How much do you want to invest?",
+        "description": "You can pay the investment amount fully or pay just 25% up front and the rest in monthly payments.",
+        "descriptionRetail": "Your initial investment amount impacts how we structure your portfolio.","topUpMyInvestment": "I would like to increase my investment annually",
+        "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } },
+        "text": {
+          "initialInvestment": {
+            "title": "Initial Payment",
+            "minError": "Amount entered should be more than 25% of investment amount",
+            "maxError": "The initial payment should not exceed the investment amount"
+          },
+          "annualTopUp": { "title": "Annual Increase (USD)" },
+          "placeholder": "Insert amount",
+          "minimumAmount": "Minimum amount is $300,000",
+          "minimumAmountRetail": "As a retail client, you can only invest $50,000",
+          "durationPaymentPeriod": {
+            "title": "Payment duration",
+            "year": "Year",
+            "years": "Years",
+            "oneYear": "1 year",
+            "twoYear": "2 years",
+            "threeYear": "3 years",
+            "fourthYear": "4 years",
+            "fifthYear": "5 years",
+            "sixthYear": "6 years",
+            "sevenYear": "7 years",
+            "eightYear": "8 years",
+            "ninthYear": "9 years",
+            "tenthYear": "10 years"
+          },
+          "investmentAmount": { "title": "Investment amount (USD)" },
+          "minimumInvestInitialAmount": "25% of investment amount",
+          "paymentInstallment": {
+            "options": {
+              "monthly": "Monthly",
+              "quarterly": "Quarterly",
+              "semiAnnually": "Semiannually"
+            },
+            "title": "Payments"
+          }
+        },
+        "errors": {
+          "minDescription": "Minimum Investment required is $300,000",
+          "minDescriptionRetail": "As a retail client, you can only invest $50,000",
+          "maxDescription": "Maximum Investment cannot exceed more than $25,000,000",
+          "maxDescriptionRetail": "Maximum Investment required is $50,000"
+        },
+        "paymentPlanOptions": {
+          "payFullAmount": {
+            "description": "Get a faster allocation of exclusive opportunities by funding the full commitment from day one",
+            "title": "Pay full amount"
+          },
+          "payInInstallments": {
+            "description": "Start investing without funding the entire commitment from day one",
+            "title": "Pay as you go"
+          }
+        },
+        "paymentPlanTitle": "Please select your payment plan",
+        "howInstallmentWorkLink": "About our funding plan"
+      },
+      "6": {
+        "title": "Would you like to exclude any asset classes from your portfolio (e.g. those in which you already have significant exposure)?",
+        "description": "We will tailor your asset allocation to ensure your portfolio is balanced.",
+        "options": {
+          "USPrivateEquity": { "title": "US Private Equity" },
+          "AsianPrivateEquity": { "title": "Asian Private Equity" },
+          "AsianRealEstate": { "title": "Asian Real Estate" },
+          "USRealEstateDebt": { "title": "US Real Estate Debt" },
+          "USPrivateCredit": { "title": "US Private Credit" },
+          "USRealEstate": { "title": "US Real estate" }
+        }
+      },
+      "7": {
+        "title": "Do you have further preferences?",
+        "description": "Most of our solutions can be customized to fit your preferences, without compromising the quality of the investment opportunities.",
+        "options": {
+          "Ethical": {
+            "title": "Ethical Investments",
+            "description": "Ethical investing is the practice of selecting investments based on ethical or moral principles. Some beliefs are rooted in environmental, religious, or political precepts. Some investors may choose to eliminate specific industries or over-allocate to other sectors that meet the individual's ethical guidelines."
+          },
+          "ShariahCompliant": {
+            "title": "Shariah Compliant Investments",
+            "description": "Shariah-compliant investments are governed by the tenets of Shariah and the founding principles of Islam to ensure that investment earnings are Shariah-compliant."
+          },
+          "None": { "title": "None" },
+          "no": { "title": "No" },
+          "yes": { "title": "Yes" }
+        },
+        "input": {
+          "expectedWithdrawalAmountInUSD": {
+            "label": "Expected withdrawal amount (USD)",
+            "placeholder": "Insert amount"
+          }
+        },
+        "select": {
+          "expectedWithdrawalYear": { "label": "Year of expected withdrawal" }
+        }
+      },
+      "8": {
+        "title": "Are you looking for Environmental, Social and Governance (ESG) compliant investments?",
+        "description": "We will take this preference into account when building your portfolio.",
+        "options": { "yes": "Yes", "no": "No" }
+      },
+      "radio": { "label": "Select one" },
+      "checkbox": { "label": "Select all that apply" }
+    }
+  },
+  "riskAssessment": {
+    "page": {
+      "title": "Build Your Portfolio",
+      "description": "Risk assessment"
+    },
+    "question": {
+      "1": {
+        "title": "I tend to avoid investment risks",
+        "description": "Statement 1 of 9"
+      },
+      "2": {
+        "title": "I tend to buy and sell investments more often than I should",
+        "description": "Statement 2 of 9"
+      },
+      "3": {
+        "title": "I prefer to invest safely than to take risk for the chance of higher returns",
+        "description": "Statement 3 of 9"
+      },
+      "4": {
+        "title": "I have previously sold investments after sustained losses",
+        "description": "Statement 4 of 9"
+      },
+      "5": {
+        "title": "I am more prepared to take investment risks than others",
+        "description": "Statement 5 of 9"
+      },
+      "6": {
+        "title": "I am willing to put a significant part of my wealth in high-risk investment",
+        "description": "Statement 6 of 9"
+      },
+      "7": {
+        "title": "I tend to review my investments frequently",
+        "description": "Statement 7 of 9"
+      },
+      "8": {
+        "title": "I am prepared to risk losing money if there is also a chance to gain",
+        "description": "Statement 8 of 9"
+      },
+      "9": {
+        "title": "Market uncertainty makes me uneasy",
+        "description": "Statement 9 of 9"
+      },
+      "options": {
+        "1": { "title": "I strongly agree" },
+        "2": { "title": "I agree" },
+        "3": { "title": "I neither agree nor disagree" },
+        "4": { "title": "I disagree" },
+        "5": { "title": "I strongly disagree" }
+      }
+    },
+    "radio": { "label": "Select one" },
+    "result": {
+      "heading": "Your investment style is: {{riskDescription}}",
+      "button": {
+        "confirmProfile": "Complete",
+        "confirmAndView": "Confirm and View Proposal"
+      },
+      "status": {
+        "conservative": {
+          "title": "Conservative",
+          "description": "You are a conservative investor. You are looking to truly preserve your wealth while earning modest returns. You do not like the idea of a market downturn and will prepare ahead of time to minimize losses during such events. You wish to achieve consistent returns even if it means giving up some upside."
+        },
+        "moderately_conservative": {
+          "title": "Moderately Conservative",
+          "description": "You are a balanced investor who leans towards slightly below average risk. You seek good returns while ensuring a minimum level of consistent returns. You do not panic in a market downturn, but you are cautious. You try to balance between risk and reward without either excessive risk or minimal returns."
+        },
+        "moderately_aggressive": {
+          "title": "Moderately Aggressive",
+          "description": "You are a balanced investor who leans towards slightly above average risk. You seek above average returns while limiting potential downside. You do not panic in a market downturn. You try to balance between risk and reward, but prefer higher returns even if it means slightly higher risk."
+        },
+        "aggressive": {
+          "title": "Aggressive",
+          "description": "You are an aggressive investor. You have exceptional tolerance for market fluctuations. You are willing to accept losses for a chance to earn higher returns. You seek higher returns even if it means sacrificing consistent returns in the short term. You muster your emotions in a market downturn and stick to your investment plan."
+        },
+        "very_aggressive": {
+          "title": "Very Aggressive",
+          "description": "You are a very aggressive investor. You have exceptional tolerance for market fluctuations. You are willing to accept losses for a chance to earn higher returns. You seek higher returns even if it means sacrificing consistent returns in the short term. You muster your emotions in a market downturn and stick to your investment plan."
+        }
+      },
+      "footer": { "description": "You can always retake the assessment later." }
+    },
+    "completed": {
+      "page": { "title": "Build Your Portfolio", "description": "Completed" },
+      "text": {
+        "title": "All set!",
+        "description": "<0><1>Your information is being reviewed for our personalized recommendations. We will let you know when your personalized proposal is ready. A confirmation email will be sent to <2>{{userEmail}}</2> when the process is completed.</1><3>This may take up to 48 hours.</3></0>"
+      },
+      "button": { "backToDashboard": "Back to dashboard", "viewProposal": "View proposal" }
+    },
+    "links": { "backToProposal": "Back to proposal" },
+    "labels": { "riskAssessment": "Risk assessment" }
+  },
+  "unsupported": {
+    "button": { "backToDashboard": "Back to dashboard" },
+    "heading": "We're sorry",
+    "page": { "description": "Unsupported", "title": "Unsupported" },
+    "text": {
+      "description": "<0><1>You do not meet the minimum requirements to invest with The Family Office. You can still enjoy exclusive financial content and events available on your dashboard.</1><2>Please contact us if you have any questions.</2></0>"
+    }
+  },
+  "sorryModal": {
+    "heading": "Thank you for your interest!",
+    "contentKSA": "<0><1>Unfortunately, we are unable to process your application at present.</1><1>The Family Office does not yet serve investors who:</1><2><3>Are US citizens or residents, or taxable in the US</3><3>Are citizens of sanctioned countries</3><3>Do not meet the minimum requirements to qualify as clients.</3></2><1>Do not hesitate to contact us again if your situation changes.</1><4>*Please refer to the standard disclaimer on our website.</4><5></5></0>",
+    "contentNonKSA": "<0><1>Unfortunately, we are unable to process your application at present.</1><1>The Family Office does not yet serve investors who:</1><2><3>Are US citizens or residents, or taxable in the US</3><3>Are citizens of sanctioned countries</3><3>Do not meet the minimum requirements to qualify as clients.</3></2><1>Do not hesitate to contact us again if your situation changes.</1><4>*Please refer to the standard disclaimer on our website.</4><5></5></0>",
+    "button": {
+      "exitToDashboard": "Exit to dashboard",
+      "goBack": "Go back",
+      "getSupport": "Get support"
+    },
+    "text": {
+      "description": "Thank you for your interest. We do not currently offer a solution that fits your needs. However, we would like to invite you to explore our market insights on the dashboard.",
+      "needHelp": "Do you need help?"
+    }
+  },
+  "supportModal": {
+    "heading": "Contact our business support team",
+    "text": {
+      "description": "Contact us if you have any questions. We will get back to you as soon as possible."
+    },
+    "textarea": { "placeholder": "Type your message here" },
+    "button": { "submit": "Submit" }
+  },
+  "investorOtpVerification": {
+    "heading": "Verify your phone number",
+    "infoHeading": "Why we need this information",
+    "infoDescription": "To keep you account secure, we will send a verification code to your phone number."
+  },
+  "advisoryGetStart": {
+    "chapter": {
+      "description": "Tell us about your investment goals and preferences, so we can design a portfolio that fits your profile and needs.",
+      "title": "Define investment goals"
+    },
+    "chapterSelection": { "button": { "getStarted": "Get started" } },
+    "heading": {
+      "subtitle": "You're just one step away from getting your tailored investment strategy.",
+      "title": "Build your personalized proposal"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "index": {
+    "buttons": {
+      "confirm": "Confirm",
+      "confirmYourSelectionContinue": "Confirm Selection & Continue"
+    },
+    "description": "Decide how much you want to invest in total and distribute the amount on different opportunities.",
+    "formData": {
+      "errorMessages": {
+        "errorMsg": "Something went wrong",
+        "maxVal": "The maximum subscription amount is {{maximumAmt}}",
+        "minVal": "The minimum subscription amount is {{minimumAmt}}",
+        "successMsg": "Your proposal was generated successfully"
+      },
+      "removeFromPortfolio": "Opportunity removed from your portfolio",
+      "expectedExit": "Expected Exit",
+      "placeholder": "{{minimumAmt}} minimum",
+      "targetReturn": "Target Return"
+    },
+    "page": {
+      "description": "Your investment portfolio",
+      "title": "Your investment portfolio"
+    },
+    "text": {
+      "opportunities": "Opportunities",
+      "subscriptionAmount": "Subscription Amount",
+      "totalSubscriptionAmt": "Total Subscription Amount",
+      "yourSelection": "Your Selection"
+    },
+    "title": "How much would you like to invest?",
+    "tooltip": {
+      "expectedReturn": "The amount of profit or loss you can anticipate receiving on an investment."
+    },
+    "emptyState": {
+      "title": "No opportunities yet in your portfolio",
+      "button": { "addOpportunities": "Add Opportunities" }
+    }
+  },
+  "proposal": {
+    "investmentWork": {
+      "chart": {
+        "portfolioPercent": "% of portfolio",
+        "strategyName": "Strategy",
+        "total": "Total",
+        "totalAmount": "Total amount",
+        "year1": "Year 1",
+        "year10": "Year 10",
+        "year11": "Year 11",
+        "year12": "Year 12",
+        "year13": "Year 13",
+        "year14": "Year 14",
+        "year2": "Year 2",
+        "year3": "Year 3",
+        "year4": "Year 4",
+        "year5": "Year 5",
+        "year6": "Year 6",
+        "year7": "Year 7",
+        "year8": "Year 8",
+        "year9": "Year 9"
+      },
+      "description": "<0>Your capital will be deployed to opportunities over the <1>next {{year}} years*</1> in accordance with your investment strategy, and will be invested immediately to maximize return.</0>",
+      "disclaimer": " *The deployment pace is subject to opportunity availability. Uninvested commitments will be invested in pre‐funding vehicles managed by Petiole Asset Management AG and subsequently used for capital calls.",
+      "heading": "Your investment overview",
+      "labels": {
+        "deploymentSchedule": "Deployment schedule",
+        "myProposal": "My proposal",
+        "totalCommitted": "Total commitment",
+        "years": "Years",
+        "yearsToFullyDeploy": "Years to full deployment"
+      },
+      "legends": {
+        "absoluteReturn": "Absolute Return",
+        "capitalGrowth": "Capital Growth",
+        "capitalYielding": "Capital Yielding",
+        "opportunistic": "Opportunistic"
+      },
+      "title": "Funding your investments"
+    },
+    "labels": {
+      "adjustPortfolio": "Adjust portfolio",
+      "myProposal": "Your Proposal",
+      "subscriptionAmount": "Subscription Amount",
+      "rmProposal": "Proposal"
+    },
+    "leftNavigation": {
+      "investmentWillWork": "Your investment overview",
+      "projectedCashflow": "Projected cash flow",
+      "yourAllocation": "Your asset allocation"
+    },
+    "page": { "description": "Your Proposal", "title": "Proposal" },
+    "projectedCashflow": {
+      "disclaimer": "*Capital calls are transferred directly from your funds.",
+      "heading": "Projected cash flow",
+      "labels": { "total": "Total" },
+      "table": {
+        "headers": {
+          "capitalCall": "Capital Call",
+          "capitalDistribution": "Capital Distribution",
+          "incomeDistribution": "Income Distribution",
+          "netCashFlows": "Net Cash Flows",
+          "totalDistribution": "Total Distribution",
+          "netCapitalCallDistribution": "Net Capital Calls / Distribution"
+        }
+      }
+    },
+    "yourAllocation": {
+      "description": {
+        "capitalGrowth": {
+          "description": "<0>It will consist of a carefully selected group of diversified asset classes such as</0> <1>private equity</1> <2>and</2> <3>real estate</3> <4>ensuring long-term capital appreciation, reduced volatility, and regular income.</4>",
+          "startingText": "<0>This portfolio focuses on</0> <1>growth and diversification.</1>"
+        },
+        "capitalYielding": {
+          "description": "<0>It will include a carefully selected group of diversified asset classes such as</0> <1>real estate</1> <2>and</2> <3>private credit</3> <4>ensuring long-term capital appreciation and reduced volatility.</4>",
+          "startingText": "<0>This portfolio focuses on</0> <1>yield and diversification.</1>"
+        },
+        "opportunities": {
+          "description": "<0>It will focus on</0> <1>dislocation themes</1> <2>aiming to generate superior risk-adjusted returns.</2>",
+          "startingText": "<0>This portfolio focuses on</0> <1>dislocation themes.</1>"
+        },
+        "default": {
+          "description": "<0>It will consist of the</0> <1>investments</1> <2>chosen by the investor.</2>",
+          "startingText": "<0>This portfolio focuses on</0> <1>balance and diversification.</1>"
+        },
+        "opportunistic": {
+          "description": "<0>It will focus on</0> <1>dislocation themes</1> <2>aiming to generate superior risk-adjusted returns.</2>",
+          "startingText": "<0>This portfolio focuses on</0> <1>dislocation themes.</1>"
+        }
+      },
+      "heading": "Your private market investments portfolio",
+      "proposalFacts": {
+        "expectedReturn": {
+          "description": "The expected annualized return taking into consideration the expected: (i) income/ yield and (ii) capital appreciation. It is the expected return once the commitments are fully deployed.",
+          "label": "Expected Return"
+        },
+        "expectedVol": {
+          "description": "By linking your commitments to public market benchmarks, we present the expected volatility for a public-equivalent portfolio. The actual behavior of alternative investments can vary greatly from public markets as shown by the performance during downturns.",
+          "label": "Forecasted Volatility"
+        },
+        "expectedYield": {
+          "description": "The annual target income generated by the portfolio as a percentage of the original investment amount once the signed commitments are fully deployed.",
+          "label": "Target Income"
+        },
+        "sharpeRatio": {
+          "description": "Represents your portfolio's risk adjusted return by calculating the return for the excess risk divided by the forecasted volatility of the portfolio.",
+          "label": "Sharpe Ratio"
+        }
+      },
+      "subHeading": "Your allocation",
+      "rmHeading": "Personalized Proposal"
+    },
+    "disclaimer": {
+      "info": {
+        "text1KSA": "This proposal is provided to you by The Family Office International Investment Co. (“The Family Office”) for informational purposes only, and contains proprietary information that may not be reproduced, distributed to, or used by, any third parties without The Family Office’s prior written consent.",
+        "commonText": "The Family Office makes no representation or warranty, express or implied, with respect to any financial projection or forecast. With respect to any such projection or forecast delivered or made available by or on behalf of The Family office, it is acknowledged that (a) there are uncertainties inherent in attempting to make such projections and forecasts, (b) the investor is familiar with such uncertainties, (c) the investor takes full responsibility for making its own evaluation of the adequacy and accuracy of all such projections and forecasts so furnished to it and (d) the investor has no claim against The Family Office.",
+        "text1NonKSA": "This proposal is provided to you by The Family Office Co. BSC(c) (“The Family Office”) for informational purposes only, and contains proprietary information that may not be reproduced, distributed to, or used by, any third parties without The Family Office’s prior written consent."
+      },
+      "pastPerformance": "Past performance is not indicative of and does not guarantee future performance. Exit timelines, prices and related projections are estimates only, and exits could happen sooner or later than expected, or at a higher or lower valuation than expected, and are conditional, among other things, on certain assumptions and future performance relating to the financial and operational health of each business and macroeconomic conditions."
+    },
+    "download": {
+      "label": "Download Proposal",
+      "generatedAt": "Generated at:",
+      "generatedBy": "Generated by:"
+    }
+  },
+  "scheduleCall": {
+    "availableDate": {
+      "errors": {
+        "past": "Please enter current or future date",
+        "valid": "Please enter a correct date"
+      },
+      "label": "Select an available date*",
+      "placeholder": "DD/MM/YYYY"
+    },
+    "availableTimeSlots": {
+      "errors": {
+        "unavailable": "No time slots are available for current date. Please try picking another date."
+      },
+      "label": "Select an available time*"
+    },
+    "buttons": {
+      "back": "Back to Dashboard",
+      "continue": "Continue",
+      "exit": "Exit"
+    },
+    "calendarLegends": {
+      "availableTimes": "Available Times",
+      "selected": "Selected",
+      "today": "Today"
+    },
+    "header": {
+      "subtitle": "Please provide your contact details.",
+      "title": "Schedule a call with your dedicated financial advisor."
+    },
+    "page": {
+      "description": "Contact our business support team",
+      "title": "Schedule a call"
+    },
+    "phoneNumber": {
+      "errors": { "inValid": "Please enter valid number." },
+      "label": "Phone number*"
+    },
+    "success": {
+      "description": "Thank you for submitting your portfolio! Your dedicated financial advisor will contact you about the next steps.",
+      "title": "Portfolio Submitted"
+    },
+    "timeZone": { "label": "Select your time zone*" },
+    "toast": {
+      "calendar": {
+        "error": {
+          "title": "An error occurred while fetching meeting calendar."
+        }
+      },
+      "scheduleMeeting": {
+        "error": { "title": "An error occurred while scheduling meeting." }
+      }
+    },
+    "verifyCall": "We need to verify your phone number to schedule a call."
+  },
+  "portfolioComparisonWidget": {
+    "buttons": {
+      "compare": "Validate",
+      "completeRiskAssessment": "Complete risk assessment"
+    },
+    "description": "To validate your selected portfolio, you must first complete your risk assessment.",
+    "description2": "Thank you for completing your risk assessment. You can now validate your portfolio.",
+    "title": "Validate your Portfolio"
+  },
+  "confrimProposalModal": {
+    "buttons": {
+      "continue": "Continue",
+      "validateYourProposal": "Validate your portfolio"
+    },
+    "description": "Click “continue” to start your client onboarding process.\nBefore that, we recommend that you compare your portfolio to our customized investments solutions to validate the best opportunities for you.",
+    "title": "You’re Now Ready to Invest with The Family Office"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "page": {
+    "title": "Profile",
+    "description": "Manage your personal details."
+  },
+  "changePassword": {
+    "heading": "Change Password",
+    "text": { "password": "Password" },
+    "button": {
+      "change": "Change Password",
+      "update": "Update",
+      "logout": "Logout"
+    },
+    "validation": {
+      "heading": "Your password must contain:",
+      "lowercase": "Lowercase letters (a-z)",
+      "uppercase": "Uppercase letters (A-Z)",
+      "numbers": "Numbers (0-9)",
+      "special": "Special characters (ex.!@#)",
+      "length": "At least 8 characters",
+      "confirmPasswordErr": "Passwords do not match.",
+      "samePasswordsErr": "New password cannot be the same as your old password."
+    },
+    "label": {
+      "oldPassword": "Old password",
+      "password": "New password",
+      "confirmPassword": "Confirm new password"
+    },
+    "passwordChanged": {
+      "heading": "Password Changed",
+      "subheading": "You now need to log out and log in again with the new credentials."
+    },
+    "error": { "updatePasswordErr": "Wrong password, please try again." },
+    "placeholder": {
+      "oldPassword": "Old Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password"
+    }
+  },
+  "tabs": {
+    "heading": "Profile",
+    "personal": {
+      "name": "Personal Details",
+      "headings": {
+        "personalInfo": "Personal Information",
+        "contactInfo": "Contact Information"
+      },
+      "fields": {
+        "label": {
+          "firstName": "First Name",
+          "lastName": "Last Name",
+          "email": "Personal Email",
+          "primaryPhoneNumber": "Primary phone number",
+          "notVerified": "Not Verified",
+          "verified": "Verified"
+        }
+      },
+      "label": {
+        "verifyNumber": "We need to verify your phone number to keep your account secure.",
+        "sendCode": "Send verification code"
+      },
+      "button": { "cancel": "Cancel", "updateAndVerify": "Update and Verify" }
+    },
+    "preferences": {
+      "name": "Preferences",
+      "heading": "Preferred language",
+      "subHeading": "Select the preferred login language.",
+      "button": { "applyChanges": "Apply changes" },
+      "toast": { "title": "Preference", "description": "Language updated" },
+      "goalLabels": {
+        "Diversify": "Diversify portfolio",
+        "MaintainLifestyle": "Maintain lifestyle",
+        "BuildGlobalPortfolio": "Build an international portfolio",
+        "GrowWealth": "Grow wealth",
+        "Other": "Other"
+      },
+      "portfolioOwnerListLabels": {
+        "Myself": "Myself",
+        "ImmediateFamily": "My immediate family",
+        "FamilyAndFutureGen": "My family and future generations",
+        "Other": "Other"
+      },
+      "additionalPreferencesLabels": {
+        "Ethical": "Ethical investments",
+        "ShariahCompliant": "Shariah compliant investments",
+        "None": "None"
+      },
+      "interestedInvestments": {
+        "PrivateEquity": "Private equity",
+        "RealEstates": "Real estate",
+        "PrivateDebt": "Private debt",
+        "BondsSukuks": "Bonds sukuks",
+        "Equities": "Equities",
+        "Other": "Other"
+      },
+      "preferencePostulateLabels": {
+        "interest": "Interests",
+        "investmentHorizon": "Investment Horizon",
+        "investmentGoals": "Investment Goals",
+        "investmentPreferences": "Investment Preferences",
+        "beneficiar": "Portfolio Beneficiary",
+        "riskLevel": "Risk Level",
+        "investmentProfile": "Investment Profile",
+        "edit": "Edit"
+      },
+      "editGoalMarkers": {
+        "heading": "Update Your Investment Profile",
+        "reset": "Reset Changes",
+        "update": "Update",
+        "interest": "Interests",
+        "investmentGoals": "Investment Goals",
+        "portfolioBeneficiar": "Portfolio Beneficiary",
+        "timeHorizon": "Time Horizon",
+        "preferences": "Preferences",
+        "riskLevel": "Risk Level",
+        "riskAssessment": "Risk Assessment"
+      },
+      "riskChangeToaster": {
+        "description": "Your risk profile has been updated successfully"
+      }
+    },
+    "assignedProspect": {
+      "name": "Assigned prospect",
+      "labels": {
+        "contactID": "Contact ID",
+        "prospectName": "Prospect Name",
+        "proposal": "Proposal"
+      },
+      "button": {
+        "viewProposal": "View Proposal",
+        "view": "View"
+      }
+    }
+  },
+  "onboarding": {
+    "page": { "title": "Welcome", "description": "Create profile" },
+    "heading": { "0": "Secure your account", "1": "Phone number verification" },
+    "captcha":{"title":"I am not a robot"},
+    "subheading": {
+      "0": "We just need a few more details",
+      "1": "Please enter the code you just received on your phone number ending with {{mobileNumber}}."
+    },
+    "text": {
+      "verificationCode": "Verification code",
+      "verificationCodeNotReceived": "Didn't get your verification code?",
+      "codeWillExpire": "Your code will expire in: {{sec}}s",
+      "onboardingOtp": "To keep you account secure, we will send a verification code to your phone number."
+    },
+    "button": {
+      "resendSMS": "Resend code",
+      "verify": "Verify",
+      "back": "Back",
+      "sendVerification": "Send verification",
+      "submit": "Submit"
+    },
+    "input": {
+      "firstName": { "label": "First name" },
+      "lastName": { "label": "Last name" }
+    },
+    "error": {
+      "invalidOTP": "Incorrect verification code. Please try again.",
+      "expiredOTP": "Your verification code has expired. Click on 'Resend code' to receive a new one.",
+      "maximumAttempt": "You have exceeded the maximum number of attempts",
+      "alreadyRegistered": "This phone number has already been registered",
+      "invalidNumber": "Please enter a valid phone number",
+      "generic": "Something went wrong, please try again."
+    },
+    "select": {
+      "countryOfResidence": {
+        "label": "Country of residence",
+        "placeholder": "Country of residence"
+      },
+      "phoneCountryCode": { "label": "Phone Number", "placeholder": "Select" }
+    },
+    "toast": {
+      "success": { "title": "Profile Created" },
+      "otpVerifiedSuccess": {
+        "title": "Your phone number has been successfully verified"
+      }
+    }
+  },
+  "otpVerification": {
+    "page": { "title": "Welcome", "description": "Verify OTP" },
+    "button": { "exit": "Exit" },
+    "label": { "heading": "Enter verification code" }
+  }
+}
