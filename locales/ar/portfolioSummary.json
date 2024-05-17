@@ -1,0 +1,74 @@
+{
+  "page": { "title": "ملخص المحفظة", "description": "ملخص المحفظة" },
+  "heading": "مرحباً بالعميل #{{clientId}} في ملخّص محفظتك",
+  "description": "نظرة عامة عن استثماراتك حسب فئات الأصول اعتباراً من {{valuationDate}}. تُعرض كافة المبالغ بالدولار.",
+  "portfolioAllocation": {
+    "table": {
+      "tableHeader": {
+        "investmentName": "إسم الاستثمار",
+        "assetClass": "فئة الأصول",
+        "dealName": "إسم الصفقة",
+        "investmentAmount": "مبلغ الاستثمار",
+        "investmentDate": "تاريخ الاستثمار",
+        "marketValue": "القيمة السوقية",
+        "performanceContribution": "مساهمة الأداء %",
+        "spv": "البرنامج/ الصندوق"
+      }
+    },
+
+    "button": {
+      "viewAll": "عرض جميع الاستثمارات",
+      "viewAllocationDtl": "عرض تفاصيل توزيع الأصول"
+    }
+  },
+  "portfolioObjectives": {
+    "button": "عرض توزيع الأصول",
+    "objectives": {
+      "objectiveOne": "التنويع بعيداُ عن الأسواق المحليّة والمرتبطة بالنفط لتقليل المخاطر",
+      "objectiveTwo": "الحفاظ على ثروتك للجيل التالي"
+    },
+    "title": "أهداف المحفظة والتوزيع"
+  },
+  "portfolioOverview": {
+    "label": {
+      "capitalCall": "استدعاءات رأس المال",
+      "cashFlows": "التدفقات النقدية",
+      "distributions": "التوزيعات",
+      "marketIndicators": "مؤشرات الأسواق",
+      "performance": "الأداء",
+      "portfolioHolding": "الاستثمارات الإجماليّة",
+      "totalCommitments": {
+        "title": "إجمالي الالتزامات",
+        "subTitle": "المبلغ الملتزم به"
+      },
+      "profitAndLoss": "الأرباح والخسائر"
+    },
+    "title": "لمحة عن المحفظة"
+  },
+  "portfolioOverviewVideos": {
+    "disclaimer": "* إخلاء مسؤولية:",
+    "title": "فيديوهات المحفظة",
+    "value": "تمّ إعداد هذا الفيديو في {{createdDate}}. The Family Office Co. BSC(c) - The Family Office هي شركة استثمارية من الفئة الأولى تخضع لرقابة مصرف البحرين المركزي، ومُرخّصة بسجل تجاري رقم 53871 صادر بتاريخ 21/6/2004، وبرأس مال مُصرّح به ومدفوع قدره 10,000,000 دولار أمريكي. ولا تُقدّم The Family Office Co. BSC(c) - The Family Office منتجاتها وخدماتها سوى إلى \"مستثمرين معتمدين\" على النحو المحدد من قِبل مصرف البحرين المركزي"  
+  },
+  "recentActivity": {
+    "disclaimer": "التقييم الأخير في {{valuationDate}}",
+    "distributionReceived": {
+      "labels": {
+        "capitalGains": "الأرباح الرأسماليّة",
+        "income": "توزيعات الدخل"
+      },
+      "title": "التوزيعات المُستلمة"
+    },
+    "investedOpportunities": "المال المُستثمر في فرصٍ جديدة",
+    "recentFunding": {
+      "description": "الفترة المختارة {{month}} أشهر",
+      "title": "التمويل مؤخرا"
+    },
+    "title": "نظرة عامّة عن نشاطك الأخير."
+  },
+  "underStandingInvestment": {
+    "button": "تعرّف على المزيد",
+    "subTitle": "قد تتضمن الاستثمارات غير السائلة فترة استثمار أطول وتقّلب أقلّ في الأسعار.",
+    "title": "فهم مراحل الاستثمارات غير السائلة"
+  }
+}

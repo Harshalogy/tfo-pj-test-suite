@@ -1,0 +1,17 @@
+{
+  "page": { "title": "قائمة الاستثمارات", "description": "قائمة الاستثمارات" },
+  "heading": "قائمة الاستثمارات",
+  "description": "قائمة لجميع استثماراتك اعتباراً من {{fromDate}} - {{toDate}} دولار",
+  "investmentTable": {
+    "tableHeader": {
+      "bookValue": "القيمة الدفترية",
+      "marketValue": "القيمة السوقية",
+      "distributions": "التوزيعات",
+      "type": "النوع",
+      "region": "المنطقة",
+      "sector": "القطاع",
+      "holdingPeriod": "فترة الاستثمار"
+    },
+    "title": "استثماراتك"
+  }
+}

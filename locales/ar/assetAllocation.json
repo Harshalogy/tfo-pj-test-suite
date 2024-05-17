@@ -1,0 +1,78 @@
+{
+  "assetAllocationOvertheYears": {
+    "liquidAndIlliquidAfterCommitments": {
+      "descriptionOne": "مع استخدام الالتزامات غير السائلة، استثمرت المحفظة بنسبة",
+      "descriptionThree": "من فئات الأصول السائلة وغير السائلة تباعاً."
+    },
+    "liquidAndIlliquidBeginning": {
+      "descriptionOne": "في البداية، كان توزيع الأصول بنسبة",
+      "descriptionThree": "من فئات الأصول السائلة وغير السائلة تباعاً."
+    },
+    "subtitle": "حسب فئات الأصول",
+    "title": "توزيع الأصول على مرّ الأعوام"
+  },
+  "description": "بناء على بيان السياسة الاستثماريّة",
+  "heading": "توزيع الأصول",
+  "objectives": {
+    "objectives": {
+      "ObjectiveOneDescriptionOne": "الهدف الأول لمحفظتك هو",
+      "ObjectiveOneDescriptionTwo": "التنويع بعيداً عن الأسواق المحلية والمرتبطة بالنفط لتقليل المخاطر",
+      "ObjectiveTwoDescriptionOne": "الهدف الثاني هو",
+      "ObjectiveTwoDescriptionThree": "للجيل التالي.",
+      "ObjectiveTwoDescriptionTwo": "الحفاظ على ثروتك"
+    },
+    "title": "أهدافك"
+  },
+  "page": { "description": "توزيع الأصول", "title": "توزيع الأصول" },
+  "targetAssetAllocation": {
+    "illiquid": {
+      "capitalGrowth": { "title": "نموّ رأس المال" },
+      "capitalYielding": { "title": "عوائد رأسمالية" },
+      "title": "غير سائلة"
+    },
+    "liquid": {
+      "absoluteReturn": { "title": "عوائد مطلقة" },
+      "opportunistic": { "title": "انتهازيّة" },
+      "title": "سائلة"
+    },
+    "title": "التوزيع المستهدف للأصول"
+  },
+  "assetName": {
+    "Alternative Investments": {
+      "description": "أيّ استثمارات لشركة TFO في صناديق فئات الأصول السائلة المختلفة",
+      "title": "أصول بديلة"
+    },
+    "Cash": {
+      "description": "أيّ مبالغ نقديّة عابرة أو في حسابات مصرفيّة خارجيّة مدرجة ضمن محفظة TFO",
+      "title": "النقد"
+    },
+    "Equities": {
+      "description": "أيّ استثمارات لشركة TFO في فئة أصول الأسهم السائلة",
+      "title": "الأسهم"
+    },
+    "Fixed Income": {
+      "description": "أيّ استثمارات لشركة TFO في فئة الأصول الائتمانية السائلة عبر BondVest وSukukVest وآليّات أخرى للتمويل المسبق",
+      "title": "الدخل الثابت"
+    },
+    "Other Illiquid": {
+      "description": "تشير إلى استثمارات TFO غير السائلة التي تستهدف اضطراب السوق أو صفة معيّنة",
+      "title": "أصول أخرى غير سائلة"
+    },
+    "Others": {
+      "description": "أيّ استثمارات لشركة TFO في فئة الأصول الائتمانية السائلة عبر BondVest وSukukVest وآليّات أخرى للتمويل المسبق",
+      "title": "أخرى"
+    },
+    "Private Equity Investments": {
+      "description": "أيّ أسهم في شركات غير مدرجة للتداول العام",
+      "title": "الأسهم الخاصة"
+    },
+    "Real Estate Investments": {
+      "description": "أيّ استثمارات عقارية غير سائلة مُتداولة خارج السوق",
+      "title": "العقارات"
+    },
+    "Yielding Investments": {
+      "description": "تشير إلى فئة واسعة تغطي أيّ استثمارات غير سائلة مدرّة للدخل",
+      "title": "مدرّة للدخل"
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "page": { "title": "الملف الشخصي", "description": "إدارة تفاصيلك الشخصية." },
+  "onboarding": {
+    "page": { "title": "مرحبًا", "description": "أنشئ ملفك الشخصي" },
+    "captcha": { "title": "لست برنامج روبوت" },
+    "heading": { "0": "حافظ على أمان حسابك", "1": "التحقق من رقم الهاتف" },
+    "subheading": {
+      "0": "نحتاج فقط إلى بعض التفاصيل",
+      "1": "يُرجى إدخال الرمز الذي وصل إلى رقم هاتفك المنتهي بـ{{mobileNumber}}."
+    },
+    "text": {
+      "verificationCode": "رمز التحقق",
+      "verificationCodeNotReceived": "ألم يصلكَ رمز التحقق؟",
+      "codeWillExpire": "ستنتهي صلاحية الرمز بعد: {{sec}} s",
+      "onboardingOtp": "للحفاظ على أمان حسابك، سنرسل رمز تحقّق إلى رقم هاتفك."
+    },
+    "button": {
+      "resendSMS": "إعادة إرسال الرمز",
+      "verify": "تحقّق",
+      "back": "العودة",
+      "sendVerification": "تحقّق من رقم الهاتف",
+      "submit": "إرسال"
+    },
+    "input": {
+      "firstName": { "label": "الإسم الأوّل" },
+      "lastName": { "label": "الإسم الأخير" }
+    },
+    "error": {
+      "invalidOTP": "رمز التحقق غير صحيح. يرجى المحاولة من جديد.",
+      "expiredOTP": "انتهت صلاحية رمز التحقّق. انقر على ’إعادة إرسال الرمز‘ للحصول على رمز جديد.",
+      "maximumAttempt": "لقد تخطيت العدد المسموح من المحاولات",
+      "alreadyRegistered": "سبق أن سُجل رقم الهاتف هذا",
+      "invalidNumber": "يرجى إدخال رقم هاتف صالح",
+      "generic": "حدث خطأ ما، يرجى المحاولة من جديد."
+    },
+    "toast": {
+      "success": { "title": "تم إنشاء الملف الشخصي" },
+      "otpVerifiedSuccess": { "title": "تمّ التحقّق من رقم هاتفك بنجاح" }
+    },
+    "select": {
+      "countryOfResidence": {
+        "label": "بلد الإقامة",
+        "placeholder": "بلد الإقامة"
+      },
+      "phoneCountryCode": {
+        "label": "رقم الهاتف الرئيسي",
+        "placeholder": "الاختيار"
+      }
+    }
+  },
+  "tabs": {
+    "heading": "الملف الشخصي",
+    "personal": {
+      "fields": {
+        "label": {
+          "email": "البريد الإلكتروني الشخصي",
+          "firstName": "الإسم الأول",
+          "lastName": "الإسم الأخير",
+          "primaryPhoneNumber": "رقم الهاتف الرئيسي",
+          "notVerified": "لم يجرِ التحقق",
+          "verified": "جرى التحقق"
+        }
+      },
+      "label": {
+        "verifyNumber": "نحتاج إلى التحقق من رقم هاتفك للحفاظ على أمان حسابك.",
+        "sendCode": "أرسل رمز التحقق"
+      },
+      "button": {
+        "cancel": "إلغاء",
+        "updateAndVerify": "التحديث والتحقّق"
+      },
+      "headings": {
+        "contactInfo": "معلومات الاتصال",
+        "personalInfo": "المعلومات الشخصية"
+      },
+      "name": "التفاصيل الشخصية"
+    },
+    "preferences": {
+      "button": { "applyChanges": "تطبيق التغييرات" },
+      "heading": "اللغة المفضلة",
+      "name": "التفضيلات",
+      "subHeading": "اختر اللغة المفضلة لتسجيل الدخول.",
+      "toast": { "description": "تم تحديث اللغة", "title": "التفضيل" },
+      "additionalPreferencesLabels": {
+        "Ethical": "استثمارات أخلاقيّة",
+        "None": "لا يوجد",
+        "ShariahCompliant": "استثمارات متوافقة مع الشريعة"
+      },
+      "editGoalMarkers": {
+        "heading": "تحديث معلوماتك للاستثمار",
+        "interest": "الاهتمامات",
+        "investmentGoals": "أهداف الاستثمار",
+        "portfolioBeneficiar": "المستفيد من المحفظة",
+        "preferences": "التفضيلات",
+        "reset": "العودة إلى الخيارات السابقة",
+        "riskAssessment": "تقييم المخاطر",
+        "riskLevel": "مستوى المخاطر",
+        "timeHorizon": "الأفق الزمني",
+        "update": "تحديث"
+      },
+      "goalLabels": {
+        "BuildGlobalPortfolio": "إنشاء محفظة دولية",
+        "Diversify": "تنويع المحفظة",
+        "GrowWealth": "تنمية الثروة",
+        "MaintainLifestyle": "الحفاظ على أسلوب الحياة",
+        "Other": "غيرها"
+      },
+      "interestedInvestments": {
+        "BondsSukuks": "السندات",
+        "Equities": "الأسهم",
+        "Other": "غيرها",
+        "PrivateDebt": "الائتمانات الخاصّة",
+        "PrivateEquity": "الأسهم الخاصة",
+        "RealEstates": "العقارات"
+      },
+      "portfolioOwnerListLabels": {
+        "FamilyAndFutureGen": "عائلتي والأجيال القادمة",
+        "ImmediateFamily": "عائلتي المباشرة",
+        "Myself": "أنا",
+        "Other": "غيرها"
+      },
+      "preferencePostulateLabels": {
+        "beneficiar": "المستفيد من المحفظة",
+        "edit": "تعديل",
+        "interest": "الاهتمامات",
+        "investmentGoals": "أهداف الاستثمار",
+        "investmentHorizon": "الأفق الزمني للاستثمار",
+        "investmentPreferences": "التفضيلات الاستثمارية",
+        "investmentProfile": "معلومات الاستثمار",
+        "riskLevel": "مستوى المخاطر"
+      },
+      "riskChangeToaster": {
+        "description": "تمّ تحديث قدرتك على تحمل المخاطر بنجاح"
+      }
+    },
+    "assignedProspect": {
+      "name": "العميل المحتمل المُعيّن",
+      "labels": {
+        "contactID": "رقم تعريف العميل المحتمل",
+        "prospectName": "إسم العميل المحتمل",
+        "proposal": "عرض الاستثمار"
+      },
+      "button": {
+        "viewProposal": "الاطلاع على العرض",
+        "view": "الاطلاع"
+      }
+    }
+  },
+  "changePassword": {
+    "heading": "تغيير كلمة السرّ",
+    "text": { "password": "كلمة السرّ" },
+    "button": {
+      "change": "تغيير كلمة السرّ",
+      "update": "تحديث",
+      "logout": "تسجيل الخروج"
+    },
+    "validation": {
+      "heading": "يجب أن تحتوي كلمة السرّ على:",
+      "lowercase": "حروف صغيرة (a-z)",
+      "uppercase": "حروف كبيرة (A-Z)",
+      "numbers": "أعداد (0-9)",
+      "special": "حروف خاصة (مثل !@#)",
+      "length": "8 حروف على الأقل",
+      "confirmPasswordErr": "كلمتا السرّ غير متطابقتين.",
+      "samePasswordsErr": "لا يُمكن لكلمة السرّ الجديدة أن تكون نفس القديمة."
+    },
+    "label": {
+      "oldPassword": "كلمة السرّ القديمة",
+      "password": "كلمة السرّ الجديدة",
+      "confirmPassword": "تأكيد كلمة السرّ الجديدة"
+    },
+    "passwordChanged": {
+      "heading": "تم تغيير كلمة السرّ",
+      "subheading": "عليك الآن تسجيل الخروج ثمّ تسجيل الدخول من جديد ببياناتك الجديدة."
+    },
+    "error": {
+      "updatePasswordErr": "كلمة السرّ غير صحيحة، يرجى المحاولة من جديد."
+    },
+    "placeholder": {
+      "oldPassword": "كلمة السرّ القديمة",
+      "newPassword": "كلمة السرّ الجديدة",
+      "confirmPassword": "تأكيد كلمة السرّ الجديدة"
+    }
+  },
+  "otpVerification": {
+    "page": {
+      "title": "مرحباً",
+      "description": "تحقّق من كلمة المرور لمرة واحدة (OTP)"
+    },
+    "button": { "exit": "خروج" },
+    "label": { "heading": "أدخل رمز التحقق" }
+  }
+}

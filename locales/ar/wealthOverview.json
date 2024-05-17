@@ -1,0 +1,21 @@
+{
+  "seo": { "page": { "title": "", "description": "" } },
+  "heading": "",
+  "button": {
+    "add": "",
+    "addAsset": "",
+    "addLiability": "",
+    "addPortfolioYield": ""
+  },
+  "label": {
+    "geography": "",
+    "simulatedNetWorth": "",
+    "portfolioAllocation": "",
+    "assets": "",
+    "liabilities": "",
+    "portfolioYield": "",
+    "gettingStarted": "",
+    "netWorth": "",
+    "noData": ""
+  }
+}

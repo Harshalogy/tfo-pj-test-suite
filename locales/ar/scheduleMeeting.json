@@ -1,0 +1,111 @@
+{
+  "page": {
+    "title": "حدّد موعد لاجتماع",
+    "description": "حدّد موعد لاجتماع مع مستشارك المالي أو فريقنا لدعم الأعمال"
+  },
+  "rmAssigned": {
+    "header": {
+      "title": "حدّد موعد لاجتماع",
+      "subtitle": "تواصل مع مستشارك المالي"
+    }
+  },
+  "updateCall": {
+    "header": {
+      "title": "تحديث تفاصيل مكالمتنا"
+    }
+  },
+  "header": {
+    "title": "حدّد موعد لمكالمة",
+    "subtitle": "تواصل مع فريقنا لدعم الأعمال"
+  },
+  "labels": {
+    "phoneNumber": "رقم الهاتف*",
+    "callDetails": "تفاصيل المكالمة",
+    "date": "التاريخ*",
+    "timeZone": "المنطقة الزمنية*",
+    "time": "الوقت*",
+    "meetingType": "نوع الاجتماع*",
+    "email": "البريد الإلكتروني*",
+    "reason": "السبب",
+    "callSpecifications": "مواصفات المكالمة",
+    "relationshipManager": "مستشارك المالي",
+    "attachedDeal": "فرصة مرفقة",
+    "attached": "مرفقة"
+  },
+  "tag": { "shariah": "متوافق مع الشريعة" },
+  "text": {
+    "missing": "غير موجود",
+    "notSpecified": "غير محدد",
+    "required": "*تشير إلى حقل مطلوب"
+  },
+  "success": {
+    "title": "تم تحديد موعد المكالمة",
+    "description": "شكرا للتواصل معنا. سنرسل رسالة إلكترونية بتفاصيل المكالمة. نتطلع للتحدث معك."
+  },
+  "button": {
+    "edit": "تعديل",
+    "call": "حدّد موعد لمكالمة",
+    "close": "إغلاق",
+    "update": "تحديث التفاصيل"
+  },
+  "toast": {
+    "calendar": {
+      "error": { "title": "حدث خطأ أثناء تحميل جدول الاجتماعات." }
+    },
+    "scheduleMeeting": {
+      "error": {
+        "title": "حدث خطأ أثناء تحديد موعد الاجتماع.",
+        "wrongNumber": "يرجى إدخال رقم هاتف صالح والمحاولة من جديد"
+      }
+    },
+    "relationshipManager": {
+      "error": { "title": "حدث خطأ أثناء تحميل تفاصيل مستشارك المالي المخصّص." }
+    }
+  },
+  "timeZone": {
+    "label": "حدد منطقتك الزمنية*",
+    "options": {
+      "arabicStandardTime": "التوقيت العربي (توقيت غرينتش +3:00)",
+      "arabianStandardTime": "التوقيت العربي (توقيت غرينتش +4:00)"
+    }
+  },
+  "availableTimeSlots": {
+    "label": "يرجى اختيار وقت متاح*",
+    "errors": {
+      "unavailable": "ليست هناك مواعيد متاحة  في هذا التاريخ. يرجى اختيار تاريخ آخر."
+    }
+  },
+  "phoneNumber": { "errors": { "inValid": "يرجى إدخال رقم صالح." } },
+  "availableDate": {
+    "label": "يرجى اختيار تاريخ متاح*",
+    "placeholder": "اليوم/الشهر/العام",
+    "errors": {
+      "valid": "يرجى إدخال تاريخ صحيح",
+      "past": "يرجى اختيار تاريخ حالي أو مستقبلي"
+    }
+  },
+  "calendarLegends": {
+    "today": "اليوم",
+    "availableTimes": "الأوقات المتاحة",
+    "selected": "المحدد"
+  },
+  "meetingType": {
+    "label": "نوع الاجتماع",
+    "options": {
+      "phoneCall": "مكالمة هاتفية",
+      "virtualMeeting": "اجتماع افتراضي"
+    }
+  },
+  "callReason": {
+    "label": "سبب الاتصال",
+    "options": {
+      "TFO": "أريد معرفة المزيد عن The Family Office",
+      "portfolio": "أريد مناقشة تصوّر محفظتي الاستثمارية",
+      "proposal": "أريد مناقشة عرض الاستثمار المقترح",
+      "other": "غيرها",
+      "opportunity": "أريد مناقشة الفرص المقترحة"
+    }
+  },
+  "additionalInfo": { "label": "معلومات إضافية" },
+  "noTimeSlots": "لا خيارات متاحة في هذا التاريخ"
+}

@@ -1,0 +1,724 @@
+{
+  "chapterSelection": {
+    "page": { "title": "", "subtitle": "", "description": "" },
+    "button": {
+      "getStarted": "",
+      "nationalSingleSignOn": "",
+      "enterManually": "تسجيل يدوي",
+      "verifyOnMobile": "",
+      "continueOnComputer": ""
+    },
+    "heading": { "title": "", "subtitle": "" },
+    "chapterOne": {
+      "title": "",
+      "description": { "active": "" },
+      "stepper": { "title": "" }
+    },
+    "chapterTwo": {
+      "title": "",
+      "description": { "active": "", "inactive": "" },
+      "stepper": { "title": "" }
+    },
+    "chapterThree": {
+      "title": "",
+      "description": { "active": "", "inactive": "" },
+      "stepper": { "title": "" }
+    }
+  },
+  "personalInformation": {
+    "page": { "title": "", "description": "" },
+    "questionInfo": { "title": "", "description": "" },
+    "kycSSOId": {
+      "heading": "",
+      "descriptionIdDetails": "",
+      "descriptionOtpDetails": "",
+      "text": {
+        "otpMessage": "",
+        "otpExpiryMessage": "",
+        "otpResendMessage": ""
+      },
+      "errors": { "invalidHijiri": "", "invalidNationalId": "" },
+      "input": {
+        "nationalId": { "label": "", "placeholder": "" },
+        "otp": { "errors": { "otpExpired": "", "otpInvalid": "" } }
+      },
+      "select": {
+        "monthOfBirth": { "label": "", "placeholder": "" },
+        "yearOfBirth": { "placeholder": "" }
+      },
+      "button": { "resendOtp": "" }
+    },
+    "kycAbsherCitizenDetails": {
+      "heading": "",
+      "descriptionIdDetails": "",
+      "sections": { "personalDetails": "", "address": "" },
+      "labels": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": "",
+        "gender": "",
+        "dateOfBirth": "",
+        "nationality": "",
+        "nationalIdNumber": "",
+        "buildingNumber": "",
+        "streetName": "",
+        "district": "",
+        "city": "",
+        "postcode": "",
+        "country": ""
+      }
+    },
+    "KycPersonalInformation": {
+      "heading": "",
+      "descriptionIdDetails": "",
+      "input": {
+        "firstName": { "label": "", "placeholder": "" },
+        "lastName": { "label": "", "placeholder": "" },
+        "middleName": { "label": "", "placeholder": "" }
+      },
+      "select": { "title": { "label": "", "placeHolder": "" } }
+    },
+    "KycPersonalInfoCountryDob": {
+      "heading": "",
+      "description": "",
+      "input": {
+        "dateOfBirth": {
+          "label": "",
+          "placeholder": "",
+          "errors": { "invalid": "", "minMaxDOB": "" }
+        },
+        "placeOfBirth": { "label": "", "placeholder": "" }
+      },
+      "select": {
+        "gender": { "label": "", "placeHolder": "" },
+        "countryOfBirth": { "label": "", "placeHolder": "" },
+        "nationality": { "label": "", "placeHolder": "" },
+        "otherNationality": {
+          "label": "",
+          "placeHolder": "",
+          "errors": { "notEqualNationality": "" }
+        }
+      }
+    },
+    "kycIncomeDetails": {
+      "heading": "",
+      "description": "",
+      "input": { "sourceOfFundsOtherTextPlaceholder": "" },
+      "select": {
+        "annualIncome": {
+          "label": "",
+          "options": {
+            "Between100kand250k": "",
+            "Between250kand500k": "",
+            "Between500kand1000k": "",
+            "Between1000kand5000k": "",
+            "Between5000kand10000k": "",
+            "Above10000k": ""
+          }
+        },
+        "netWorth": {
+          "label": "",
+          "options": {
+            "Between500kand2000k": "",
+            "Between2000kand5000k": "",
+            "Between5000kand10000k": "",
+            "Between10000kand50000k": "",
+            "Between50000kand100000k": "",
+            "Above100000k": ""
+          },
+          "tooltip": { "text": "" }
+        },
+        "sourceOfWealth": {
+          "label": "",
+          "options": {
+            "SalariedEmployeeNoOtherIncome": "",
+            "SalariedEmployeeWithOtherIncome": "",
+            "CompanyDirectorCEOPresident": "",
+            "ClientLivingOffAccumulatedWealth": "",
+            "FamilyTrustIncome": "",
+            "Gift": "",
+            "Inheritance": "",
+            "PetroleumProductsProductionTrading": "",
+            "TradingOfArtCollections": "",
+            "PaymentInstitutionsAndElectronicMoneyInstitutions": "",
+            "PawnShops": "",
+            "NonProfitOrganizations": "",
+            "Other": "",
+            "RealEstateBusiness": "",
+            "Charities": ""
+          },
+          "tooltip": { "text": "" }
+        },
+        "sourceOfFunds": {
+          "label": "",
+          "options": {
+            "SalaryOrBonus": "",
+            "Savings": "",
+            "Inheritance": "",
+            "Gift": "",
+            "SaleOfProperty": "",
+            "SaleOfBusiness": "",
+            "SaleOfAssets": "",
+            "InvestmentIncome": "",
+            "Pension": "",
+            "Other": ""
+          },
+          "tooltip": { "text": "" }
+        }
+      }
+    },
+    "KycAbsherOtherDetails": {
+      "heading": "",
+      "description": "",
+      "input": {
+        "placeOfBirth": { "label": "", "placeholder": "" },
+        "address": { "label": "", "placeholder": "" },
+        "city": { "label": "", "placeholder": "" },
+        "postcode": { "label": "", "placeholder": "" },
+        "passport": { "label": "", "placeholder": "" }
+      },
+      "select": {
+        "title": { "label": "", "placeHolder": "" },
+        "countryOfResidence": { "label": "", "placeHolder": "" },
+        "country": { "label": "", "placeHolder": "" },
+        "countryOfBirth": { "label": "", "placeHolder": "" },
+        "otherNationality": { "label": "", "placeHolder": "" }
+      },
+      "radio": {
+        "hasResidenceAddressOutsideSaudiArabia": {
+          "label": "",
+          "options": { "yes": { "title": "" }, "no": { "title": "" } }
+        }
+      }
+    },
+    "kycPersonalInfoAddress": {
+      "heading": "",
+      "descriptionIdDetails1": "",
+      "descriptionIdDetails2": "",
+      "input": {
+        "buildingNumber": { "label": "", "placeholder": "" },
+        "streetName": { "label": "", "placeholder": "" },
+        "district": { "label": "", "placeholder": "" },
+        "address": { "label": "", "placeholder": "" },
+        "city": { "label": "", "placeholder": "" },
+        "postcode": { "label": "", "placeholder": "" }
+      },
+      "select": { "country": { "label": "", "placeHolder": "" } }
+    },
+    "kycPersonalInfoOtherAddress": {
+      "heading": "",
+      "descriptionIdDetails": "",
+      "input": {
+        "address": { "label": "", "placeholder": "" },
+        "city": { "label": "", "placeholder": "" },
+        "postcode": { "label": "", "placeholder": "" }
+      },
+      "select": { "country": { "label": "", "placeHolder": "" } },
+      "radio": {
+        "hasResidenceAddressOutsideSaudiArabia": {
+          "label": "",
+          "options": { "yes": { "title": "" }, "no": { "title": "" } }
+        }
+      }
+    },
+    "kycPersonalInfoNationalId": {
+      "heading": "",
+      "description": "",
+      "input": {
+        "nationalId": {
+          "label": "",
+          "placeholder": "",
+          "errors": {
+            "lengthBahrain": "",
+            "lengthKSA": "",
+            "lengthOther": "",
+            "formatOther": ""
+          }
+        },
+        "passport": { "label": "", "placeholder": "" }
+      }
+    },
+    "KycPepCheck": {
+      "title": "",
+      "description": "",
+      "input": {
+        "fullLegalName": { "label": "", "placeholder": "" },
+        "dateOfAppointment": {
+          "label": "",
+          "placeholder": "",
+          "errors": { "future": "", "valid": "" }
+        }
+      },
+      "select": {
+        "jurisdiction": { "label": "" },
+        "accountHolderRelationship": {
+          "label": "",
+          "options": {
+            "SpouseOfPep": "",
+            "SiblingOfPep": "",
+            "ParentOfPep": "",
+            "ChildOfPep": "",
+            "GrandChildOfPep": "",
+            "GrandParentOfPep": "",
+            "CloseAssociateOfPep": "",
+            "Other": ""
+          }
+        }
+      },
+      "radio": {
+        "label": "",
+        "options": {
+          "YesIamPep": { "title": "" },
+          "YesIamPepRelated": { "title": "" },
+          "NoIamNotPep": { "title": "" }
+        }
+      },
+      "tooltip": { "text": "" }
+    },
+    "KycEmploymentDetails": {
+      "title": "",
+      "description": "",
+      "select": {
+        "employmentActivity": {
+          "label": "",
+          "options": {
+            "Employed": "",
+            "SelfEmployed": "",
+            "Retired": "",
+            "Unemployed": ""
+          }
+        },
+        "employmentSector": {
+          "label": "",
+          "options": {
+            "diversifiedConglomerate": "",
+            "education": "",
+            "energyChemicalUtilities": "",
+            "financialServicesBanking": "",
+            "financialServicesInsurance": "",
+            "financialServicesInvestment": "",
+            "financialServicesOther": "",
+            "foodAndBeverage": "",
+            "governmentNational": "",
+            "governmentStateLocal": "",
+            "healthCare": "",
+            "humanHealth": "",
+            "hospitality": "",
+            "jewels": "",
+            "manufacturing": "",
+            "media": "",
+            "professionalServicesAccounting": "",
+            "professionalServicesConsulting": "",
+            "professionalServicesLegal": "",
+            "professionalServicesOther": "",
+            "retail": "",
+            "technologyHardware": "",
+            "technologyOther": "",
+            "technologySoftware": "",
+            "telecommunication": "",
+            "transportationDistribution": "",
+            "transportationShipping": "",
+            "waterSupply": "",
+            "noneOfTheAbove": ""
+          }
+        },
+        "sectorOfLastEmployment": { "label": "" }
+      },
+      "input": {
+        "yearsOfProfessionalExperience": { "label": "", "placeholder": "" },
+        "jobTitle": { "label": "", "placeholder": "" },
+        "lastJobTitleHeld": { "label": "", "placeholder": "" }
+      },
+      "radio": {
+        "areYouDirectorOfListedCompany": {
+          "label": "",
+          "options": { "yes": { "title": "" }, "no": { "title": "" } }
+        }
+      }
+    },
+    "KycEmployerDetails": {
+      "title": {
+        "employerDetails": "",
+        "companyDetails": "",
+        "lastEmployerDetails": ""
+      },
+      "description": "",
+      "select": {
+        "country": { "label": "" },
+        "estimatedNumberOfEmployees": {
+          "label": "",
+          "options": {
+            "LessThan50": "",
+            "Between50And100": "",
+            "Between100And500": "",
+            "Between500And1000": "",
+            "Between100And5000": "",
+            "Above5000": ""
+          }
+        },
+        "estimatedAnnualRevenue": {
+          "label": "",
+          "options": {
+            "Between1000kand5000k": "",
+            "Between5000kand10000k": "",
+            "Between10000kand20000k": "",
+            "Between20000kand50000k": "",
+            "Between50000kand100000k": "",
+            "Between100000kand500000k": "",
+            "Above500000k": ""
+          }
+        }
+      },
+      "input": {
+        "nameOfCompany": { "label": "", "placeholder": "" },
+        "buildingNumber": { "label": "", "placeholder": "" },
+        "streetName": { "label": "", "placeholder": "" },
+        "district": { "label": "", "placeholder": "" },
+        "city": { "label": "", "placeholder": "" },
+        "postcode": { "label": "", "placeholder": "" },
+        "address": { "label": "", "placeholder": "" },
+        "phoneNumber": { "label": "", "placeholder": "" }
+      }
+    },
+    "kycReasonablenessCheck": {
+      "title": "",
+      "description": "",
+      "input": { "placeholder": "" },
+      "radio": {
+        "addressNotMatchTaxResidence": {
+          "label": "",
+          "options": {
+            "AddressNotMatchTaxResidence1": "",
+            "AddressNotMatchTaxResidence2": "",
+            "AddressNotMatchTaxResidence3": "",
+            "AddressNotMatchTaxResidence4": "",
+            "AddressNotMatchTaxResidence5": ""
+          }
+        },
+        "phoneNumberNotMatchTaxResidence": {
+          "label": "",
+          "options": {
+            "PhoneNumberNotMatchTaxResidence1": "",
+            "PhoneNumberNotMatchTaxResidence2": ""
+          }
+        },
+        "nationalityNotMatchTaxResidence": {
+          "label": "",
+          "options": {
+            "NationalityNotMatchTaxResidence1": "",
+            "NationalityNotMatchTaxResidence2": "",
+            "NationalityNotMatchTaxResidence3": "",
+            "NationalityNotMatchTaxResidence4": "",
+            "NationalityNotMatchTaxResidence5": "",
+            "NationalityNotMatchTaxResidence6": ""
+          }
+        }
+      }
+    },
+    "kycTaxInformation": {
+      "title": "",
+      "description": "",
+      "select": {
+        "locationOfMainTaxDomicile": {
+          "label": "",
+          "tooltip": { "label": "" }
+        },
+        "countriesOfTaxResidency": {
+          "label": "",
+          "tooltip": {
+            "text": "Tax residence is determined under the domestic tax laws of each jurisdiction. There might be situations where a person qualifies as a tax resident under the tax residence rules of more than one jurisdiction, and therefore is a tax resident in more than one jurisdiction. Typically, an individual will be a resident for tax purposes in only one country (the country in which they live). Some individuals can be a tax resident in more than one country.",
+            "label": ""
+          },
+          "errors": { "unique": "" }
+        },
+        "reasonForNoTin": {
+          "label": "",
+          "options": {
+            "CountryNotIssueTin": "",
+            "UnableToObtainTin": "",
+            "NoTinRequired": ""
+          }
+        }
+      },
+      "radio": {
+        "taxableInUsa": {
+          "label": "",
+          "options": { "yes": { "title": "" }, "no": { "title": "" } },
+          "popover": "",
+          "modal": { "title": "", "description": "", "button": { "label": "" } }
+        }
+      },
+      "input": {
+        "globalTaxIdentificationNumber": {
+          "label": "",
+          "placeholder": "",
+          "tooltip": { "text": "", "oecdWebsite": "", "pleaseVisit": "" }
+        },
+        "reasonForNoTinExplanation": { "placeholder": "" }
+      },
+      "checkbox": { "haveTin": { "label": "" } },
+      "button": { "addNew": { "label": "" } }
+    },
+    "KycPersonalInfoAddress": {
+      "descriptionIdDetails1": "",
+      "descriptionIdDetails2": "",
+      "heading": "",
+      "input": {
+        "address": { "label": "", "placeholder": "" },
+        "buildingNumber": { "label": "", "placeholder": "" },
+        "city": { "label": "", "placeholder": "" },
+        "district": { "label": "", "placeholder": "" },
+        "postcode": { "label": "", "placeholder": "" },
+        "streetName": { "label": "", "placeholder": "" }
+      },
+      "select": { "country": { "label": "", "placeHolder": "" } }
+    },
+    "KycPersonalInfoNationalId": {
+      "input": {
+        "nationalId": { "label": "", "placeholder": "" },
+        "passport": { "label": "", "placeholder": "" }
+      }
+    },
+    "KycPersonalInfoOtherAddress": {
+      "descriptionIdDetails": "",
+      "heading": "",
+      "input": {
+        "address": { "label": "", "placeholder": "" },
+        "city": { "label": "", "placeholder": "" },
+        "postcode": { "label": "", "placeholder": "" }
+      },
+      "radio": {
+        "hasResidenceAddressOutsideSaudiArabia": {
+          "label": "",
+          "options": { "no": { "title": "" }, "yes": { "title": "" } }
+        }
+      },
+      "select": { "country": { "label": "", "placeHolder": "" } }
+    }
+  },
+  "idVerification": {
+    "page": { "title": "", "description": "" },
+    "questionInfo": { "title": "", "description": "" },
+    "passportInfoStep": {
+      "heading": "",
+      "description": "",
+      "uploadBox": {
+        "title": "",
+        "primaryCta": "",
+        "secondaryCta": "",
+        "tooltipText": ""
+      }
+    },
+    "passportSignatureStep": {
+      "heading": "",
+      "subtitle": "",
+      "description": "",
+      "uploadBox": {
+        "title": "",
+        "primaryCta": "",
+        "secondaryCta": "",
+        "tooltipText": ""
+      }
+    },
+    "nationalIdCardFrontStep": {
+      "heading": "",
+      "subtitle": "",
+      "description": "",
+      "uploadBox": { "title": "", "secondaryCta": "", "tooltipText": "" }
+    },
+    "nationalIdCardBackStep": {
+      "heading": "",
+      "subtitle": "",
+      "description": "",
+      "uploadBox": { "title": "", "secondaryCta": "", "tooltipText": "" }
+    },
+    "livePhotoStep": {
+      "heading": "",
+      "description": "",
+      "uploadBox": { "title": "" }
+    },
+    "scheduleVideoCall": {
+      "heading": "",
+      "description": "",
+      "component": { "type": "" },
+      "select": {
+        "timeZone": { "label": "" },
+        "availableTimeSlots": { "label": "", "errors": { "unavailable": "" } }
+      },
+      "availableDate": {
+        "label": "",
+        "placeholder": "",
+        "errors": { "valid": "", "past": "" }
+      },
+      "toast": {
+        "calendar": { "error": { "title": "" } },
+        "scheduleMeeting": { "error": { "title": "" } }
+      }
+    },
+    "errors": {
+      "apiError": { "title": "", "description": "" },
+      "trulioo": {
+        "FAIL_TO_INITIALIZE": "",
+        "PDF_FILE_SIZE_OVER_4_MB": "",
+        "CORRUPT_IMAGE": "",
+        "FILE_TYPE_INVALID": "",
+        "CAMERA_UNKNOWN_DEVICE_ISSUE": "",
+        "AUTO_CAPTURE_NOT_SUPPORT": "",
+        "FAIL_TO_AUTO_CAPTURE": "",
+        "MISSING_TOKEN": "",
+        "INVALID_TOKEN": "",
+        "NO_MORE_TOKEN_ATTEMPTS": "",
+        "INVALID_ORIGIN_URL": "",
+        "MISSING_IMAGE": "",
+        "FAIL_TO_GET_LIVENESS_DATA": "",
+        "FAIL_TO_GET_CLASSIFICATION_DATA": "",
+        "FAIL_TO_AUTO_CAPTURE_SEQUENCE_BREAK": "",
+        "FAIL_TO_AUTO_CAPTURE_REPEAT_FAIL": "",
+        "FAIL_TO_PROCESS_CAPTURE": "",
+        "CAMERA_PERMISSION_DENIED": ""
+      }
+    },
+    "mobileViewMessages": {
+      "allowedFormat": "",
+      "blur": "",
+      "bright": "",
+      "corner": ""
+    }
+  },
+  "documentVerification": {
+    "stepper": { "title": "", "heading": "" },
+    "heading": "",
+    "description1": "",
+    "description2": "",
+    "status": { "complete": "", "required": "" },
+    "statusInfo": {
+      "passportFront": "",
+      "passportSignature": "",
+      "nationalIdFront": "",
+      "nationalIdBack": "",
+      "livePhoto": "",
+      "callScheduled": ""
+    },
+    "toast": { "error": { "title": "" } },
+    "confirmModal": { "exit": { "title": "" }, "content": " " }
+  },
+  "completionStep": {
+    "page": { "title": "", "description": "" },
+    "onboardingIdPlaceholder": "",
+    "heading": "",
+    "confirmationText1": "",
+    "confirmationText2": "",
+    "confirmationText3": "",
+    "goBackToDashboardCta": "",
+    "hybridFlow": {
+      "heading": "تحميل ناجح.",
+      "confirmationText1": "لقد نجحنا في التقاط مستنداتك وصورك الحية.",
+      "confirmationText2": "يمكنك الآن العودة إلى جهاز الكمبيوتر الخاص بك للمتابعة."
+    },
+    "supportEmail": ""
+  },
+  "sessionStopped": {
+    "page": { "title": "", "description": "" },
+    "heading": "",
+    "description": ""
+  },
+  "sorryModal": {
+    "heading": "",
+    "contentKSA": "",
+    "contentNonKSA": "",
+    "button": { "exitToDashboard": "", "goBack": "", "getSupport": "" },
+    "text": { "description": "", "needHelp": "" }
+  },
+  "supportModal": {
+    "heading": "",
+    "text": { "description": "" },
+    "textarea": { "placeholder": "" },
+    "button": { "submit": "" }
+  },
+  "confirmModal": {
+    "title": "",
+    "content": "",
+    "actions": { "cancel": "", "goBack": "" }
+  },
+  "qrCodeGenerationModal": {
+    "heading": "تواصل على الهاتف المحمول",
+    "title": "امسح رمز الاستجابة السريعة ضوئيًا للوصول إلى الرابط الآمن على هاتفك المحمول.",
+    "linkCTA": "كيفية مسح رمز الاستجابة السريعة ضوئيًا"
+  },
+  "geoLocationConsentModal": {
+    "heading": "",
+    "description": "",
+    "actions": { "dontAllow": "", "allow": "" }
+  },
+  "howToScanQrModal": { "heading": "", "description": "", "linkCTA": "" },
+  "investmentExperience": {
+    "currentInvestments": {
+      "body": {
+        "allocatedPercentage": "",
+        "description": "",
+        "inputs": {
+          "wealthBonds": "",
+          "wealthCash": "",
+          "wealthHedgeFunds": "",
+          "wealthOther": "",
+          "wealthPrivateEquity": "",
+          "wealthRealEstate": "",
+          "wealthStockEquities": ""
+        },
+        "remainingPercentage": "",
+        "title": ""
+      },
+      "errors": {
+        "input": "",
+        "inputMax100": "",
+        "max100": "",
+        "shouldBe100": ""
+      },
+      "sidebar": {
+        "infoBox": { "description": "", "title": "" },
+        "subtitle": "",
+        "title": ""
+      }
+    },
+    "holdingInformation": {
+      "body": { "details": "", "no": "", "title": "", "yes": "" },
+      "sidebar": {
+        "infoBox": { "description": "", "title": "" },
+        "subtitle": "",
+        "title": ""
+      }
+    },
+    "page": { "description": "", "title": "" },
+    "receivedInvestmentAdvisory": {
+      "body": {
+        "investmentInFinancialInstrumentsTitle": "",
+        "radios": { "no": "", "yes": "" },
+        "receivedInvestmentTitle": ""
+      },
+      "sidebar": {
+        "infoBox": { "description": "", "title": "" },
+        "subtitle": "",
+        "title": ""
+      }
+    },
+    "transactionsInformation": {
+      "body": {
+        "choices": {
+          "CommoditiesOrCommoditiesCertificates": "",
+          "DerivativesOrCfdOrOptionsOrLeverageCertificates": "",
+          "HedgeFundsOrManagedFutureFunds": "",
+          "NotCarriedOutAny": "",
+          "PrivateEquityOrVentureCapital": ""
+        },
+        "title": ""
+      },
+      "sidebar": {
+        "infoBox": { "description": "", "title": "" },
+        "subtitle": "",
+        "title": ""
+      }
+    }
+  },
+  "text": { "retakePhoto": "", "reset": "", "takePhoto": "" },
+  "toast": { "error": { "title": "" } }
+}

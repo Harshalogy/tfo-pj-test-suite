@@ -1,0 +1,32 @@
+{
+  "heading": "الإعدادات",
+  "language": {
+    "ar": "العربيّة",
+    "en": "English",
+    "subTitle": "اختر اللغة المفضلة",
+    "title": "اللغة المفضلة"
+  },
+  "more": {
+    "button": {
+      "disclaimer": "إخلاء مسؤولية",
+      "privacyPolicy": "سياسة الخصوصيّة",
+      "terms": "الشروط والأحكام"
+    },
+    "title": "المزيد"
+  },
+  "page": { "description": "الإعدادات", "title": "الإعدادات" },
+  "password": { "button": "تغيير كلمة السرّ", "title": "كلمة السرّ" },
+  "rmDetail": {
+    "options": {
+      "call": "مكالمة",
+      "email": "البريد الإلكتروني",
+      "scheduleMeeting": "حدّد موعد لاجتماع"
+    },
+    "title": "مستشارك المالي"
+  },
+  "viewAccount": {
+    "placeholder": "العميل #{{clientId}} عرض",
+    "subTitle": "عرض:",
+    "title": "عرض الحساب"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "page": { "title": "الأداء", "description": "الأداء" },
+  "heading": "الأداء",
+  "description": "نظرة عامة عن أداء المحفظة من {{fromDate}} - {{toDate}} | تُعرض كافة المبالغ بالدولار.",
+  "labels": {
+    "ofInvestment": "من الاستثمارات المقيّمة خلال الفترة المختارة",
+    "overallPerformance": "الأداء الإجمالي",
+    "inceptionToDate": "منذ بداية العلاقة",
+    "cumulativePerformance": "الأداء التراكمي",
+    "periodPerformance": "الأداء الشهري",
+    "valueStart": "القيمة عند البداية",
+    "valueEnd": "القيمة عند النهاية",
+    "netChange": "صافي التغيير",
+    "illiquidGreaterThanTwoYear": "أصول غير سائلة (عمرها أكثر من عامَين)",
+    "sharpRatio": "نسبة / شارب",
+    "riskVolatility": "المخاطر / التقلّب",
+    "annualized": "على أساس سنوي",
+    "additions": "إضافات/ سحوبات",
+    "loadMore": "أعرض المزيد"
+  },
+  "detailedPerformance": { "title": "الأداء المفصل" },
+  "monthlyPerformanceTable": {
+    "header": {
+      "monthlyPerformance": "الأداء الشهري",
+      "yearlyPerformance": "الأداء السنوي",
+      "additionsWithdrawals": "إضافات/ سحوبات",
+      "netChange": "صافي التغيير",
+      "performance": "الأداء",
+      "cumulPerformance": "الأداء التراكمي"
+    }
+  },
+  "topMoverTable": {
+    "header": { "topMoverDeals": "أهمّ المحركات - الصفقات", "change": "تغيير" }
+  }
+}

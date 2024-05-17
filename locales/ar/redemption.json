@@ -1,0 +1,61 @@
+{
+  "aboutLiquids": {
+    "description": "إنّ الأرقام المبيّنة دقيقة اعتباراً من\n {{date}}",
+    "title": "لمحة عن استثماراتك السائلة"
+  },
+  "confirmation": {
+    "accurateDate": "إنّ الأرقام المبيّنة دقيقة اعتباراً من",
+    "emailConfirmationText": "أُرسلت استمارة استردادك إلى بريدك الإلكتروني المعتمد للحصول على توقيعك.",
+    "heading": "تأكيد - العميل: #{{clientId}}",
+    "processText": "سيتم تنفيذ طلبك بعد التوقيع على استمارة الاسترداد.",
+    "successMessage": "شكراً. تمّ إدخال استردادك.",
+    "button": "العودة إلى الفرص",
+    "successMsg": ""
+  },
+  "labels": {
+    "redemptionAmount": "مبلغ الاسترداد",
+    "remainingBalance": "الرصيد المتبقي",
+    "availableBalance": "الرصيد المتاح"
+  },
+  "myLiquidHolding": {
+    "description": "نرجو اختيار الصندوق الذي ترغب الاسترداد منه",
+    "estimationText": "الرصيد المقدر",
+    "title": "استثماراتي السائلة",
+    "header": "اختر صندوق"
+  },
+  "page": { "description": "الاسترداد", "title": "الاسترداد" },
+  "redemptionDetails": {
+    "description": "نرجو إدخال مبلغ الاسترداد المطلوب:",
+    "formSection": {
+      "reasonOfRedemption": {
+        "errorMessages": { "selectReason": "اختر سبباً للاسترداد" },
+        "label": "سبب الاسترداد",
+        "placeholder": "اختر سبباً",
+        "option": {
+          "managementFee": "استرداد - رسوم إداريّة",
+          "partailRedemption": "استرداد جزئي لاستدعاء رأس المال",
+          "personalWithDrawal": "استرداد بطلب من العميل - سحب شخصي",
+          "redemptionForCapitalCall": "استرداد لاستدعاء رأس المال",
+          "zakat": "استرداد بطلب من العميل - زكاة"
+        }
+      },
+      "redemptionAmount": {
+        "errorMessages": {
+          "amountExceeds": "يتخطى هذا المبلغ رصيدك البالغ",
+          "enterRedemptionAmount": "أدخل مبلغ الاسترداد",
+          "validAmount": "يُرجى إدخال مبلغ صحيح"
+        },
+        "label": "مبلغ الاسترداد",
+        "placeholder": "أدخل مبلغ الاسترداد"
+      }
+    },
+    "redeemAll": "استرداد كامل الرصيد",
+    "title": "تفاصيل الاسترداد",
+    "header": "أدخل مبلغ الاسترداد"
+  },
+  "supportSection": {
+    "subTitle": "تواصل معنا",
+    "title": "هل تحتاج إلى مساعدة"
+  },
+  "empty": { "title": "لم نجد أي خيار للاسترداد" }
+}

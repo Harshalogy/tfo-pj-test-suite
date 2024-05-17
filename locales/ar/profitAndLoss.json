@@ -1,0 +1,25 @@
+{
+  "page": { "title": "الأرباح والخسائر", "description": "الأرباح والخسائر" },
+  "heading": "الأرباح والخسائر",
+  "description": "نظرة عامة على أرباح المحفظة وخسائر ها المحققة وغير المحققة\n {{fromDate}} - {{toDate}} دولار",
+  "labels": { "netChange": "صافي التغيير" },
+  "drawDown": {
+    "title": "الانخفاض لديك",
+    "description": "أقصى انخفاض في المحفظة غير السائلة"
+  },
+  "indexDrwadown": {
+    "title": "انخفاض مؤشر MSCI العالمي",
+    "description": "أقصى انخفاض خلال الفترة الزمنية نفسها"
+  },
+  "assetClassTotal": { "title": "مجموع فئة الأصول" },
+  "investAssetClass": { "title": "فئات الأصول الاستثماريّة" },
+  "table": {
+    "header": { "total": "إجمالي", "relative": "نسبيّاً" },
+    "body": {
+      "CommissionExpenses": "نفقات العمولة",
+      "ForexResults": "نتائج تداول العملات الأجنبية",
+      "Income": "الدخل",
+      "CapitalAppreciation": "زيادة رأس المال"
+    }
+  }
+}

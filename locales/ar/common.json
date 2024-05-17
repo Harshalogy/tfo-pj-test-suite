@@ -1,0 +1,573 @@
+{
+  "404": {
+    "page": {
+      "title": "الصفحة غير موجودة",
+      "description": "الصفحة غير موجودة"
+    },
+    "heading": "الصفحة التي طلبتها غير موجودة",
+    "description": "قد يكون الرابط منتهي الصلاحية أو العنوان خاطئ.",
+    "cta": {
+      "dashboard": "العودة إلى صفحة المعلومات",
+      "login": "الذهاب إلى تسجيل الدخول"
+    }
+  },
+  "tag": {
+    "new": "جديدة"
+  },
+  "button": {
+    "submit": "إرسال",
+    "continue": "الاستمرار",
+    "close": "إغلاق",
+    "change": "تغيير",
+    "back": "العودة",
+    "next": "التالي",
+    "saveAndExit": "حفظ وخروج",
+    "acceptAll": "أوافق عل الجميع",
+    "cancel": "إلغاء",
+    "add": "أضف",
+    "exit": "خروج",
+    "download": "تعرّف على المزيد",
+    "downloadButton": "تحميل",
+    "seeMore": "اعرض المزيد",
+    "viewDetails": "أعرض التفاصيل",
+    "downloadMarketUpdate": "تحميل نشرة السوق",
+    "downloadWhitepaper": "تحميل الدراسة التقنية",
+    "downloadAgain": "تحميل مجددا",
+    "capture": "تصوير المستند",
+    "completeRegistration": "إكمال التسجيل",
+    "complete": "",
+    "retake": "إعادة التقاط الصورة",
+    "takePhoto": "التقاط الصورة",
+    "downloadQuarterlyReview": "تحميل نشرة فصليّة",
+    "save": "حفظ",
+    "retry": "المحاولة من جديد",
+    "backToProfile": "العودة إلى الملف الشخصي"
+  },
+  "generic": {
+    "of": "من",
+    "or": "أو",
+    "dollar": " دولار",
+    "please": "يُرجى",
+    "retry": "المحاولة من جديد"
+  },
+  "errors": {
+    "required": "هذا الحقل مطلوب",
+    "email": "أدخل بريدا إلكترونيا صالحا",
+    "alphaAllowed": "يُسمح بالحروف اللاتينيّة والمسافات فقط",
+    "alphaNumericAllowed": "يُسمح بالحروف والأرقام فقط",
+    "alphaNumericSpaceAllowed": "يُسمح بالحروف والأرقام والمسافات فقط",
+    "numberAllowed": "يُسمح بالأعداد فقط",
+    "minChar": "",
+    "maxChar": "",
+    "maxLength": "",
+    "atleastOne": "اختر إجابة واحدة على الأقلّ",
+    "onlyOne": "اختر واحدة فقط",
+    "maxNumberAllowed": "",
+    "minNumberAllowed": "",
+    "onlyInteger": "",
+    "phoneNumberLength": "ينبغي أن يتألف رقم الهاتف من {{digit}} أرقام",
+    "phoneNumberLengthMax": "يتألف رقم الهاتف من {{digit}} أرقام كحدّ أقصى",
+    "alphaEnglishAllowed": "يُسمح بالحروف والمسافات فقط.",
+    "alphaEnglishNumericAllowed": "يُسمح بالحروف والأرقام فقط.",
+    "alphaEnglishNumericSpaceAllowed": "يُسمح بالحروف والأرقام والمسافات فقط.",
+    "alphaEnglishNumericDashesAllowed": "",
+    "usernameRegex": "",
+    "alphaEnglishNumericSpaceSpecialAllowed": "",
+    "alphaEnglishSpecialAllowed": ""
+  },
+  "nav": {
+    "heading": "القائمة",
+    "links": {
+      "allDeals": "الفرص المتاحة",
+      "assetAllocation": "توزيع الأصول",
+      "cashFlows": "التدفقات النقدية",
+      "dashboard": "صفحة المعلومات",
+      "profile": "ملفك الشخصي",
+      "signout": "تسجيل الخروج",
+      "opportunities": "الفرص",
+      "edit": "تعديل",
+      "insights": "أفكار",
+      "interestedDeals": "فرص تهمني",
+      "marketArchive": "أرشيف السوق",
+      "marketIndicators": "مؤشرات الأسواق",
+      "marketsSimplified": "الأسواق مبسّطة",
+      "performance": "الأداء",
+      "portfolioSummary": "ملخص المحفظة",
+      "profitLoss": "الأرباح والخسائر",
+      "setting": "الإعدادات",
+      "totalCommitments": "إجمالي الالتزامات",
+      "totalInvestments": "الاستثمارات الإجماليّة",
+      "wealthOverview": "نظرة عامة على الثروة",
+      "myDocuments": "مستنداتي",
+      "insightsOverview": "أفكار نظرة عامة",
+      "myPortfolio": "محفظتي",
+      "invest": "استثمر",
+      "portfolioSimulator": "أداة محاكاة المحفظة",
+      "personalizedProposal": "أصدر العرض",
+      "viewProposal": "الاطلاع على العرض",
+      "unlock": "أتحها",
+      "expandOrCollapse": "توسيع شريط التنقل أو تصغيره",
+      "scheduleCall": "حدّد موعد لمكالمة",
+      "scheduleCallHelp": "هل تحتاج للمساعدة؟",
+      "shareInvite": "ادعُ أصدقاءك وعائلتك",
+      "assetClassListing": "قائمة فئات الأصول",
+      "investmentListing": "قائمة الاستثمارات"
+    },
+    "filters": {
+      "button": {
+        "applyChange": "طبّق التغييرات",
+        "clearAllFilter": "مسح كافة التصفيات",
+        "reset": "مسح"
+      },
+      "filterTypes": {
+        "assetClass": {
+          "title": "فئة الأصول"
+        },
+        "deployed": {
+          "title": "التوظيف %"
+        },
+        "investmentVehicle": {
+          "title": "أداة الاستثمار"
+        },
+        "order": {
+          "options": {
+            "ascending": "تصاعدي",
+            "descending": "تنازلي"
+          },
+          "title": "الترتيب"
+        },
+        "region": {
+          "options": {
+            "asia": "آسيا",
+            "europe": "أوروبا",
+            "global": "عالمي",
+            "northAmerica": "أمريكا الشمالية"
+          },
+          "title": "المنطقة"
+        },
+        "sector": {
+          "title": "القطاع"
+        },
+        "shariah": {
+          "title": "متوافقة أو غير متوافقة مع الشريعة",
+          "options": {
+            "shariah": "متوافقة مع الشريعة"
+          }
+        },
+        "sort": {
+          "options": {
+            "alphabetically": "حسب الترتيب الأبجدي",
+            "investmentVehicle": "أداة الاستثمار",
+            "recency": "الحداثة",
+            "region": "المنطقة"
+          },
+          "title": "ترتيب حسب"
+        },
+        "sponsor": {
+          "title": "مدير الاستثمار"
+        }
+      },
+      "title": "التصفيات"
+    }
+  },
+  "help": {
+    "heading": "هل تحتاج مساعدة؟",
+    "rmAssignedHeading": "ناقش العرض مع مستشارك المالي",
+    "subheading": "تواصل معنا",
+    "button": {
+      "email": "راسلنا عبر البريد الإلكتروني",
+      "whatsApp": "WhatsApp"
+    },
+    "link": {
+      "support": "تواصل معنا"
+    },
+    "contact": "تواصل مع"
+  },
+  "modal": {
+    "feedback": {
+      "title": "نقدّر ملاحظاتك",
+      "text": {
+        "rating": "كيف تقيّم تجربتك عبر منصتنا الرقمية؟",
+        "additionalInfo": "ما الذي يمكننا تحسينه لتعزيز تجربتك؟ (اختياري)",
+        "uniqueLink": "الحصول على رابط فريد لدعوة الأصدقاء والعائلة للانضمام إلى المنصة",
+        "thanks": "شكراً على إرسال ملاحظاتك!"
+      },
+      "option": {
+        "rating": {
+          "Poor": "سيئة",
+          "Average": "متوسطة",
+          "Good": "جيّدة",
+          "Excellent": "ممتازة"
+        }
+      }
+    },
+    "emailSent": {
+      "description": "سنجيبك بأسرع وقت عبر عنوان البريد الإلكتروني الذي قدّمته.",
+      "title": "تم إرسال الرسالة"
+    },
+    "saveAndExit": {
+      "description": "سنحفظ بياناتك للاستمرار لاحقًا بسرعة.",
+      "title": "هل ترغب بالإنهاء لاحقًا؟"
+    },
+    "rmUpdate": {
+      "description": "حُدث عرضك الاستثماري من قبل مستشارك المالي المخصّص.",
+      "cta": "الاطلاع على العرض"
+    },
+    "submitEnquiry": {
+      "description": "تواصل معنا إذا كانت لديك أي أسئلة. سنرد عليك في أسرع وقت.",
+      "title": "تواصل مع فريقنا لدعم الأعمال"
+    },
+    "placeholder": "حدد سبب الاتصال",
+    "reasons": {
+      "learnMore": {
+        "label": "أرغب في معرفة المزيد عن المنتجات الاستثمارية المتاحة",
+        "value": "support_type_1"
+      },
+      "general": {
+        "label": "لدي استفسار عام",
+        "value": "support_type_2"
+      },
+      "technical": {
+        "label": "أحتاج إلى دعم فني",
+        "value": "support_type_3"
+      }
+    },
+    "verifyPhoneNumber": {
+      "description": "لم نتحقّق بعد من رقم هاتفك. للحفاظ على أمان حسابك،",
+      "cta": "تحقّق من رقمك الآن."
+    }
+  },
+  "select": {
+    "placeholder": "يرجى الاختيار",
+    "noOptions": "لا يوجد خيارات",
+    "selectAll": "اختر كافة الإجابات",
+    "options": {
+      "gender": {
+        "Male": "ذكر",
+        "Female": "أنثى"
+      },
+      "title": {
+        "Mr": "السيّد",
+        "Mrs": "السيّدة",
+        "Miss": "الآنسة"
+      }
+    }
+  },
+  "textarea": {
+    "placeholder": "اكتب رسالتك هنا"
+  },
+  "toast": {
+    "enquiry": {
+      "error": {
+        "title": "حدث خطأ أثناء إرسال الاستفسار."
+      }
+    },
+    "generic": {
+      "error": {
+        "title": "عذراً، حدث خطأ ما."
+      }
+    },
+    "preferences": {
+      "title": "الأفضلية",
+      "description": "تم تحديث اللغة"
+    }
+  },
+  "breadcrumb": {
+    "insights": "أفكار",
+    "articles": "مقالات",
+    "whitepapers": "دراسات تقنية",
+    "management-views": "رؤى الإدارة",
+    "quarterly-reviews": "نشرة فصليّة",
+    "webinars": "ندوات رقميّة",
+    "market-updates": "التحديثات الشهريّة للسوق",
+    "monthly-market-updates": "التحديثات الشهريّة للسوق"
+  },
+  "pagination": {
+    "page": "صفحة",
+    "of": "من"
+  },
+  "datepicker": {
+    "label": "اختيار التاريخ",
+    "legends": {
+      "available-times": "الأوقات المتاحة",
+      "selected": "التاريخ المختار",
+      "today": "اليوم"
+    },
+    "placeholder": "اليوم/الشهر/ السنة"
+  },
+  "disclaimer": {
+    "description": "أُقرّ أنّ هذه الفرص هي لأغراض إعلاميّة فقط ولا تشكّل عرضاً. عند إكمال تقييم المخاطر والأهليّة، نقترح عليك فرصاً محدّدة انطلاقاً من قدرتك على تحمّل المخاطر.",
+    "button": "أكمل"
+  },
+  "client": {
+    "ITD": "منذ بداية العلاقة",
+    "USD": "دولار",
+    "YTD": "منذ بداية العام",
+    "agreeTerms": {
+      "error": "يرجى الموافقة على الشروط والأحكام",
+      "termsandConditions": "الشروط والأحكام",
+      "title": "أوافق على"
+    },
+    "and": "و",
+    "annualized": "على أساس سنوي",
+    "assetClasses": {
+      "alternativeInvestments": "أصول بديلة",
+      "cash": "النقد",
+      "equities": "الأسهم",
+      "fixedIncome": "الدخل الثابت",
+      "otherIlliquid": "أصول أخرى غير سائلة",
+      "others": "أخرى",
+      "privateEquityInvestments": "الأسهم الخاصة",
+      "realEstateInvestments": "العقارات",
+      "yieldingInvestments": "مدرّة للدخل",
+      "other": "أخرى"
+    },
+    "authSignatory": {
+      "error": "يرجى التأكيد أنّك مفوّض بالتوقيع لهذا الحساب",
+      "title": "أؤكد أنّني مفوض بالتوقيع لهذا الحساب"
+    },
+    "currently": "حاليّاً",
+    "deal": "صفقة",
+    "deviation": "الانحراف",
+    "errors": {
+      "noDate": {
+        "button": "موافق",
+        "description": "لا معلومات حتى الآن عن اختيارك. يُرجى المحاولة لاحقاً أو التواصل مع مستشارك المالي لمزيد من المعلومات.",
+        "title": "عُد في وقتٍ لاحق"
+      }
+    },
+    "downloadPreference": {
+      "bodyText": "اختر تفضيلك للتحميل",
+      "preferences": {
+        "mySelection": "اختياري",
+        "allData": "جميع البيانات"
+      }
+    },
+    "liquid": "سائلة",
+    "illiquid": "غير سائلة",
+    "cash" : "النقد",
+    "cashInTransit": "نقد قيد التنفيذ",
+    "totalAum": "القيمة الإجمالية (الأصول المدارة)",
+    "months": "أشهر",
+    "monthsLabel": {
+      "month_10_long_text": "أكتوبر",
+      "month_10_short_text": "أكتوبر",
+      "month_11_long_text": "نوفمبر",
+      "month_11_short_text": "نوفمبر",
+      "month_12_long_text": "ديسمبر",
+      "month_12_short_text": "ديسمبر",
+      "month_1_long_text": "يناير",
+      "month_1_short_text": "يناير",
+      "month_2_long_text": "فبراير",
+      "month_2_short_text": "فبراير",
+      "month_3_long_text": "مارس",
+      "month_3_short_text": "مارس",
+      "month_4_long_text": "أبريل",
+      "month_4_short_text": "أبريل",
+      "month_5_long_text": "مايو",
+      "month_5_short_text": "مايو",
+      "month_6_long_text": "يونيو",
+      "month_6_short_text": "يونيو",
+      "month_7_long_text": "يوليو",
+      "month_7_short_text": "يوليو",
+      "month_8_long_text": "أغسطس",
+      "month_8_short_text": "أغسطس",
+      "month_9_long_text": "سبتمبر",
+      "month_9_short_text": "سبتمبر"
+    },
+    "no": "لا",
+    "no_sponsor": "لا مدير استثمار",
+    "others": "أخرى",
+    "notFound": {
+      "description": "لم نجد ما تبحث عنه",
+      "title": "لا نتائج"
+    },
+    "orderManagementCTAs": {
+      "confirmButtonText": "تأكيد",
+      "nextButtonText": "الصفحة التالية",
+      "redeemAmountButtonText": "استردّ المبلغ",
+      "redeemButtonText": "استرداد",
+      "proceedToCheckout": "توجه إلى الدفع"
+    },
+    "program": "برنامج",
+    "quarters": {
+      "ITD": "منذ بداية العلاقة",
+      "quarter_1": "الربع الأول من",
+      "quarter_2": "الربع الثاني من",
+      "quarter_3": "الربع الثالث من",
+      "quarter_4": "الربع الرابع من"
+    },
+    "regions": {
+      "asia": "آسيا",
+      "europe": "أوروبا",
+      "global": "عالمي",
+      "northAmerica": "أمريكا الشمالية",
+      "oceania": "أوقيانوسيا",
+      "middleEast": "الشرق الأوسط"
+    },
+    "sortBy": "ترتيب حسب",
+    "sortByFilter": "الفرز والتصفية",
+    "strategy": {
+      "illiquid": "غير سائلة",
+      "liquid": "سائلة"
+    },
+    "years": "أعوام",
+    "yes": "نعم",
+    "investmentCart": {
+      "title": "السلّة الاستثمارية"
+    },
+    "userOnBoarding": {
+      "addToCart": {
+        "description": {
+          "deal": "يمكنك الآن إضافة الصفقات إلى السلّة الاستثماريّة للالتزام الرقمي",
+          "program": "يمكنك الآن إضافة الصفقات والبرامج إلى السلّة الاستثماريّة للالتزام الرقمي"
+        },
+        "title": "أضف إلى السلة"
+      },
+      "checkout": {
+        "description": "استمر لإدخال تفاصيل الالتزام",
+        "title": "الدفع"
+      },
+      "orderSummary": {
+        "description": "راجع تفاصيل الطلب وانقر لتأكيد طلبك",
+        "title": "تأكيد"
+      },
+      "programDetails": {
+        "description": "اختر الصفقات التي ترغب الالتزام بها ضمن البرنامج",
+        "title": "تفاصيل البرنامج"
+      },
+      "subscriptionDetails": {
+        "description": "أدخل مبلغ الالتزام",
+        "title": "مبلغ الالتزام"
+      },
+      "viewCart": {
+        "description": "يمكنك الوصول إلى السلّة الاستثماريّة بالنقر على هذا الزرّ",
+        "title": "السلّة الاستثمارية"
+      }
+    },
+    "clientId": "العميل",
+    "lang": "العربيّة"
+  },
+  "filters": {
+    "button": {
+      "applyChange": "طبّق التغييرات",
+      "clearAllFilter": "مسح كافة التصفيات",
+      "reset": "مسح"
+    },
+    "filterTypes": {
+      "assetClass": {
+        "title": "فئة الأصول"
+      },
+      "deployed": {
+        "title": "التوظيف %"
+      },
+      "investmentVehicle": {
+        "title": "أداة الاستثمار"
+      },
+      "order": {
+        "options": {
+          "ascending": "تصاعدي",
+          "descending": "تنازلي"
+        },
+        "title": "الترتيب"
+      },
+      "region": {
+        "options": {
+          "asia": "آسيا",
+          "europe": "أوروبا",
+          "global": "عالمي",
+          "northAmerica": "أمريكا الشمالية",
+          "oceania": "أوقيانوسيا",
+          "middleEast": "الشرق الأوسط"
+        },
+        "title": "المنطقة"
+      },
+      "sector": {
+        "title": "القطاع"
+      },
+      "shariah": {
+        "options": {
+          "shariah": "متوافقة مع الشريعة"
+        },
+        "title": "متوافقة أو غير متوافقة مع الشريعة"
+      },
+      "sort": {
+        "options": {
+          "alphabetically": "حسب الترتيب الأبجدي",
+          "investmentVehicle": "أداة الاستثمار",
+          "recency": "الحداثة",
+          "region": "المنطقة"
+        },
+        "title": "ترتيب حسب"
+      },
+      "sponsor": {
+        "title": "مدير الاستثمار"
+      }
+    },
+    "title": "التصفيات"
+  },
+  "sessionExpireModal": {
+    "button": {
+      "continueSession": "أكمل الجلسة",
+      "logout": "تسجيل خروجي"
+    },
+    "description": "ستنتهي صلاحيّة جلستك لعدم الحركة.",
+    "label": {
+      "sec": "الثواني"
+    },
+    "message": "لحمايتك، سنسجل خروجك بعد دقيقة واحدة.",
+    "title": "انتهت صلاحيّة الجلسة"
+  },
+  "labels": {
+    "verified": "جرى التحقق",
+    "notVerified": "لم يجرِ التحقق",
+    "verifyCall": "نحتاج إلى التحقق من رقم هاتفك لتحديد موعد مكالمة."
+  },
+  "accessRestricted": {
+    "title": "وصول مقيّد",
+    "assignedDescription": "أُسنِد العرض الذي تحاول الوصول إليه إلى",
+    "description": "العرض الذي تحاول الوصول إليه غير متاح.",
+    "backToDashboard": "العودة إلى صفحة المعلومات"
+  },
+  "shareInviteModal": {
+    "heading": "أترغب بمشاركة هذه التجربة؟",
+    "title": "ادعُ أصدقاءك وعائلتك لبدء رحلتهم الاستثمارية.",
+    "label": "رابطك الفريد للدعوة",
+    "cta": {
+      "cancel": "إلغاء",
+      "share": "شارك",
+      "copyLink": "أنسخ الرابط"
+    },
+    "message": "نُسخ الرابط إلى الذاكرة",
+    "shareHeading": "أو شارك الرابط مباشرةً عبر:",
+    "platform": {
+      "twitter": "Twitter",
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "whatsApp": "Whatsapp",
+      "heading": "ندعوك للانضمام إلى منصتنا الاستثمارية الرقمية",
+      "description": "اكتشف طريقة جديدة للاستثمار. أنشئ استراتيجية استثمار لعشر سنوات خلال 10 دقائق واستثمر في 10 فرص حصرية وأكثر. سجّل الآن."
+    }
+  },
+  "portfolioSimulatorWidget": {
+    "button": { "text": "تصوّر محفظتك" },
+    "title": "كيف سيكون أداء محفظة في الأسواق الخاصة مع أفقك الزمني وقدرتك على تحمل المخاطر؟"
+  },
+  "opportunitiesRMCardWidget": {
+    "description": "يسرّ مستشارك المالي المخصّص أن يجيب عن أسئلتك ويقدّم تفاصيل إضافية حول هذه الفرصة.",
+    "title": "هل تهمّك هذه الفرصة؟"
+  },
+  "capitalProgramInfoModal": {
+    "assetClassExposure": "التعرّض إلى فئات الأصول",
+    "sectorExposure": "التعرّض إلى القطاعات",
+    "geographicalExposure": "التعرّض إلى المناطق الجغرافية",
+    "capitalYieldingProgram": {
+      "title": "أصول مدرة للدخل",
+      "description": "تهدف الاستراتيجيّة المدرّة للدخل الوصول إلى فرص مميزة في العقارات والائتمانات الخاصّة لتحقيق دخلٍ ثابت على المدى الطويل."
+    },
+    "capitalGrowthProgram": {
+      "title": "نموّ رأس المال",
+      "description": "تهدف استراتيجيّة نموّ رأس المال إلى إتاحة الوصول إلى فرص استثمار مشتركة يُتوقّع أن تحقق نمواً في رأس المال المستثمر في الأسهم الخاصّة والعقارات مع أفضل مديري الأصول العالميّين."
+    }
+  }
+}

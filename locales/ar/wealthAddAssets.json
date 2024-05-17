@@ -1,0 +1,28 @@
+{
+  "restoreModal": {
+    "body": "",
+    "buttons": { "no": "", "purge": "", "yes": "" },
+    "title": ""
+  },
+  "seo": { "page": { "description": "", "title": "" } },
+  "steps": {
+    "addAssetsOrLiabilities": {
+      "description": "",
+      "header": { "assets": "", "liabilities": "" },
+      "title": ""
+    },
+    "addBankAccount": { "description": "", "title": "" },
+    "fillDetails": {
+      "description": "",
+      "inputs": {
+        "accountType": { "label": "", "placeholder": "" },
+        "balance": { "label": "", "placeholder": "" },
+        "bankName": { "label": "", "placeholder": "" },
+        "country": { "label": "", "placeholder": "" },
+        "currency": { "label": "", "placeholder": "" },
+        "interestRate": { "label": "", "placeholder": "" }
+      },
+      "title": ""
+    }
+  }
+}

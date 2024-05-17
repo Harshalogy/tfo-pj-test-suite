@@ -1,0 +1,24 @@
+{
+  "page": { "title": "التدفقات النقدية", "description": "التدفقات النقدية" },
+  "heading": "التدفقات النقدية",
+  "description": "ملخص التوزيعات و إستدعاءات رأس المال منذ بداية العام وبداية العلاقة",
+  "actualized": {
+    "title": "المحققة | دولار",
+    "YTDDistribution": "التوزيع منذ بداية العام",
+    "ITDDistribution": "التوزيع منذ بداية العلاقة",
+    "YTDCapitalCall": "استدعاء رأس المال منذ بداية العام",
+    "ITDCapitalCall": "استدعاء رأس المال منذ بداية العلاقة"
+  },
+  "investmentVehicle": {
+    "title": "آليّة توزيع أكبر الاستثمارات",
+    "tableHeader": {
+      "amount": "مبلغ",
+      "spv": "البرنامج / الصندوق",
+      "totalAmount": "المبلغ الإجمالي",
+      "distributionDate": "تاريخ التوزيعات",
+      "type": "النوع",
+      "dealName": "إسم الصفقة",
+      "distributionAmount": "مبلغ التوزيع"
+    }
+  }
+}

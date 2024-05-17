@@ -1,0 +1,48 @@
+{
+  "card": {
+    "contactClientService": {
+      "description": "أرسل رسالة لفريقنا لدعم الأعمال",
+      "title": "تواصل مع فريقنا لدعم الأعمال"
+    },
+    "scheduleMeeting": {
+      "description": "تحدث مع مستشارك المالي",
+      "title": "حدّد موعد لاجتماع"
+    },
+    "talkWithExperts": {
+      "description": "اطلب مكالمة في الوقت الذي يناسبك",
+      "title": "تحدث مع فريقنا لدعم الأعمال"
+    },
+    "talkWithRelationshipMananger": {
+      "title": "حدّد موعداً لمكالمة مع",
+      "description": "اطلب موعداً لمكالمة في الوقت الذي يناسبك"
+    },
+    "contactRelationshipManager": {
+      "title": "أرسل رسالة إلى",
+      "description": "سيردّ عليك بأسرع وقت"
+    }
+  },
+  "heading": "الحصول على المساعدة",
+  "headings": { "contacts": "معلومات الاتصال بنا", "faqs": "الأسئلة الشائعة" },
+  "page": {
+    "description": "عرض الأسئلة الشائعة وتفاصيل المساعدة",
+    "title": "مساعدة"
+  },
+  "subheading": "ابدأ رحلة الاستثمار العالمية بدون شكوك أو غموض.",
+  "text": {
+    "bahrainContact": "معلومات الاتصال في البحرين",
+    "email": "البريد الإلكتروني",
+    "openChat": "ابدأ محادثة جديدة",
+    "saudiContact": "معلومات الاتصال في السعودية",
+    "whatsapp": "Whatsapp"
+  },
+  "modal": {
+    "getSupport": {
+      "title": "الحصول على المساعدة",
+      "description": "ابدأ رحلة الاستثمار العالمية بدون شكوك أو غموض.",
+      "contactYou": "اطلب أن نتواصل معك",
+      "contactUs": "أو تواصل معنا",
+      "yourFinancialAdvisor": "مستشارك المالي",
+      "contactFinancialAdvisor": "تحدث مع مستشارك المالي"
+    }
+  }
+}

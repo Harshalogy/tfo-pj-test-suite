@@ -1,0 +1,16 @@
+{
+  "page": { "title": "مؤشرات الأسواق", "description": "مؤشرات الأسواق" },
+  "heading": "مؤشرات الأسواق",
+  "description": "يُقارن نموذج The Family Office لتوزيع الأصول مؤشرات رئيسيّة عالميّة للاقتصاد الكلي والتقييم والشعور السائد في السوق بالمعايير التاريخية.",
+  "labels": {
+    "macroeconomic": "مؤشر الاقتصاد الكليّ",
+    "market_sentiment": "المشاعر في السوق",
+    "market_valuations": "تقييمات السوق",
+    "negative": "سلبي",
+    "positive": "إيجابي",
+    "bearish": "تشاؤم",
+    "bullish": "تفاؤل",
+    "expensive": "مرتفعة",
+    "cheap": "منخفضة"
+  }
+}

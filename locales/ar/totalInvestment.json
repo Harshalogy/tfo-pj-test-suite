@@ -1,0 +1,29 @@
+{
+  "page": {
+    "title": "الاستثمارات الإجماليّة",
+    "description": "الاستثمارات الإجماليّة"
+  },
+  "heading": "الاستثمارات الإجماليّة",
+  "description": "معلومات حول استثماراتك الفرديّة بدءً من {{valuationDate}}.",
+  "holdingPeriod": { "title": "متوسّط فترة الاستثمار" },
+  "totalInvestment": { "title": "الاستثمارات الإجماليّة" },
+  "yourPortfolio": { "title": "تشكيلة القطاعات في محفظتك" },
+  "regions": { "title": "مواقع استثماراتك" },
+  "yourInvestments": {
+    "title": "استثماراتك",
+    "table": {
+      "tableHeader": {
+        "investmentName": "إسم الاستثمار",
+        "assetClass": "فئة الأصول",
+        "dealName": "إسم الصفقة",
+        "spv": "البرنامج / الصندوق",
+        "investmentDate": "تاريخ الاستثمار",
+        "investmentAmount": "مبلغ الاستثمار",
+        "marketValue": "القيمة السوقية",
+        "performanceContribution": "مساهمة الأداء %",
+        "region": "المنطقة"
+      }
+    },
+    "button": { "viewAllInvestment": "عرض كافة الاستثمارات" }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "folder": {
+    "invoices": "الفواتير",
+    "monthly_reports": "تقارير شهرية",
+    "quarterly_reports": "تقارير فصليّة",
+    "relationship_review": "لمحة عامة عن العلاقة",
+    "videos": "فيديوهات"
+  },
+  "heading": "مستنداتي",
+  "labels": {
+    "date": "تاريخ",
+    "download": "تنزيل",
+    "info": "Ask about this file",
+    "name": "الاسم",
+    "view": "عرض",
+    "close": "إغلاق"
+  },
+  "page": { "description": "مركز المستندات", "title": "مركز المستندات" },
+  "label": { 
+    "pdfLoading": "جاري تحميل الملف" ,
+    "pdfNotLoading" : "تعذر تحميل الملف المصدر."
+    }
+}

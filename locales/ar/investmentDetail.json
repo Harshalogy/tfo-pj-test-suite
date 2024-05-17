@@ -1,0 +1,27 @@
+{
+  "page": { "title": "تفاصيل صفقة", "description": "تفاصيل صفقة" },
+  "summary": {
+    "initialInvestmentDate": "تاريخ الاستثمار الأوّلي",
+    "priceDate": "تاريخ السعر",
+    "holdingPeriod": "فترة الاستثمار",
+    "sponsorPartner": "راعي / شريك",
+    "strategy": "الاستراتيجية"
+  },
+  "investmentTable": {
+    "tableHeader": {
+      "bookValue": "القيمة الدفترية",
+      "marketValue": "القيمة السوقية",
+      "initialBookValue": "القيمة الأوّليّة بعد خصم الإهلاك",
+      "shares": "الأسهم",
+      "performanceContribution": "مساهمة الأداء",
+      "multiple": "متعددة",
+      "netChange": "صافي التغيير  لغاية تاريخه هذا الربع",
+      "valueStart": "القيمة عند البداية",
+      "valueEnd": "القيمة عند النهاية",
+      "returnOfCapital": "المسترد من المبلغ المستثمر",
+      "gainLoss": "أرباح  خسائر",
+      "income": "الدخل"
+    }
+  },
+  "gallery": { "title": "معرض" }
+}
