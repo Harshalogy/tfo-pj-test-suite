@@ -1,0 +1,88 @@
+{
+  "page": { "title": "Execution Flow", "description": "Execution Flow" },
+  "buttons": { "continue": "Continue", "back": "Go back" },
+  "setup": {
+    "heading": "Set up your account",
+    "description": "We just need a few more details.",
+    "input": {
+      "firstName": { "label": "First Name" },
+      "lastName": { "label": "Last Name" }
+    },
+    "error": { "generic": "Something went wrong. Please try again." },
+    "select": {
+      "countryOfResidence": {
+        "label": "Country of Residence",
+        "placeholder": "Country of Residence"
+      },
+      "nationality": {
+        "label": "Nationality",
+        "placeholder": "Select Nationality"
+      },
+      "phoneCountryCode": { "label": "Phone Number", "placeholder": "Select" }
+    }
+  },
+  "qualificationQuestionOne": {
+    "heading": "How familiar are you with alternative investments?",
+    "description": "Select one answer",
+    "checkBox": {
+      "options": {
+        "one": "I have never invested in alternative assets but have a fair understanding of them",
+        "two": "I have some experience in alternative investments with a good understanding of them",
+        "three": "I am well-experienced in alternative investments"
+      }
+    }
+  },
+  "qualificationQuestionTwo": {
+    "heading": "What is the total value of your investments in alternative assets?",
+    "description": "Select one answer",
+    "checkBox": {
+      "options": {
+        "one": "Below $100,000",
+        "two": "$100,000 - $500,000",
+        "three": "$500,000 - $1,000,000",
+        "four": "$1,000,000 - $10,000,000",
+        "five": "Above $10,000,000"
+      }
+    }
+  },
+  "qualificationQuestionThree": {
+    "text": {
+      "familyOffice": "Since The Family Office is",
+      "regulatedByCBB": "regulated by the CBB",
+      "regulatedByCMA": "regulated by the CMA",
+      "eligible": ", your answer will determine your eligibility to certain investments."
+    },
+    "errors": {
+      "notQualified": "Our platform is currently limited to qualified investors only.",
+      "notAccredited": "Our platform is currently limited to accredited investors only."
+    },
+    "ksa": {
+      "heading": "Are you a qualified investor?",
+      "description": "Select all that applies",
+      "checkBox": {
+        "options": {
+          "one": "I have a minimum of SR5 million in net assets, excluding my principal residence.",
+          "two": "I carried out at least 10 transactions per quarter over the last 12 months with a minimum of SR40 million in the securities market.",
+          "three": "I worked for at least three years in the financial sector in a position related to investment in securities.",
+          "four": "I hold a professional certificate accredited by a recognized entity.",
+          "five": "I hold the CME-1 certification and had an annual income of not less SR600,000 in the last two years.",
+          "six": "I am a client of a Capital Market Institution authorized by the Authority to conduct managing activities, provided that the following is fulfilled: <0><1>a.</1> The offer shall be made to the Capital Market Institution, and that all related communications be made by it.</0> <2><3>b.</3> The Capital Market Institution has been appointed on terms which enable it to make investment decisions on the client’s behalf without obtaining prior approval from the client.</2>",
+          "seven": "I am a registered person of a Capital Market Institution if the offer is carried out by the Capital Market Institution itself.",
+          "eight": "None of the above"
+        }
+      }
+    },
+    "nonKsa": {
+      "heading": "Are you an accredited investor?",
+      "description": "Select all that applies",
+      "checkBox": {
+        "options": {
+          "one": "<0>Individual</0>, with a minimum net worth of $1 million in assets, excluding the principal place of residence.",
+          "two": "<0>Legal entity</0>, with a minimum of $1 million in assets available for investment.",
+          "three": "<0>State organization</0>, such as a Government, supranational organization, central bank or other national monetary authority.",
+          "four": "None of the above"
+        }
+      }
+    }
+  }
+}

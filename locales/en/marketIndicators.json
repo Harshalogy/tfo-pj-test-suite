@@ -1,0 +1,16 @@
+{
+  "page": { "title": "Market Indicators", "description": "Market Indicators" },
+  "heading": "Market Indicators",
+  "description": "The proprietary asset allocation model of The Family Office compares key global macroeconomic, valuation, and sentiment indicators to historical norms.",
+  "labels": {
+    "macroeconomic": "Macroeconomic",
+    "market_sentiment": "Market sentiment",
+    "market_valuations": "Market valuations",
+    "negative": "Negative",
+    "positive": "Positive",
+    "bearish": "Bearish",
+    "bullish": "Bullish",
+    "expensive": "Expensive",
+    "cheap": "Cheap"
+  }
+}

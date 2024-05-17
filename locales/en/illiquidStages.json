@@ -1,0 +1,33 @@
+{
+  "page": "Understanding Illiquid Investment Stages",
+  "articles": {
+    "article1": "Illiquid investments tend to involve a longer holding period, with lower price fluctuation (volatility). Each investment, generally experiences a J-Curve trajectory.",
+    "article2": "The shape of the J-Curve reflects a full investment cycle. Initially, the investment generates unfavorable returns reflecting initial investment costs. This is usually followed by gradual and steady growth which eventually recoups the initial investment and then begins to generate consistent positive returns.",
+    "article3": "The illiquid investments of The Family Office experience a shorter J-Curve because the co-investment approach with global partners is more cost-efficient than a fund-of-funds approach."
+  },
+  "investmentStages": {
+    "title": "Investment Stages",
+    "tfo": "TFO",
+    "general": "General"
+  },
+  "seedStage": {
+    "title": "Seed Stage",
+    "betweenYears": "0 - 2 years",
+    "description": "The portfolio is initiated with early investments focused on laying the groundwork for future prosperity."
+  },
+  "rootStage": {
+    "betweenYears": "3 - 5 years",
+    "description": "The portfolio’s foundation of the portfolio is established as it approaches full funding across all commitments. This funding also tends to hinder the portfolio’s initial performance.",
+    "title": "Root Stage"
+  },
+  "growStage": {
+    "title": "Grow Stage",
+    "betweenYears": "6 - 7 years",
+    "description": "Portfolios begin trending up and to the right as the underlying investment become profitable."
+  },
+  "harvest": {
+    "title": "Harvest and Reinvestment",
+    "betweenYears": "7+ years",
+    "description": "The portfolio reaches a full-cycle maturity and generates successful exits with re-investments and new deals to follow."
+  }
+}

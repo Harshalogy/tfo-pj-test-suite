@@ -1,0 +1,20 @@
+{
+  "page": {
+    "title": "Investments Listing",
+    "description": "Investments Listing"
+  },
+  "heading": "Investments Listing",
+  "description": "A listing of all your investments as of {{fromDate}} - {{toDate}} USD",
+  "investmentTable": {
+    "tableHeader": {
+      "bookValue": "Book Value",
+      "marketValue": "Market Value",
+      "distributions": "Distributions",
+      "type": "Type",
+      "region": "Region",
+      "sector": "Sector",
+      "holdingPeriod": "Holding Period"
+    },
+    "title": "Your investments"
+  }
+}

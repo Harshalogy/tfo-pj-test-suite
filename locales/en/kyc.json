@@ -1,0 +1,930 @@
+{
+  "chapterSelection": {
+    "page": {
+      "title": "Become a Client",
+      "subtitle": "You're just a few steps away from becoming an investor with The Family Office. We just need further information to finalize your contract.",
+      "description": "You're just a few steps away from becoming an investor with The Family Office. We just need further information to finalize your contract."
+    },
+    "button": {
+      "getStarted": "Get Started",
+      "nationalSingleSignOn": "National Single Sign-On",
+      "enterManually": "Manual Registration",
+      "verifyOnMobile": "Proceed to mobile verification",
+      "continueOnComputer": "Continue"
+    },
+    "heading": {
+      "title": "Start your relationship with The Family Office",
+      "subtitle": ""
+    },
+    "chapterOne": {
+      "title": "Personal Details",
+      "description": { "active": "Provide your personal and tax information." },
+      "stepper": { "title": "Personal Details" }
+    },
+    "chapterTwo": {
+      "title": "Investor Profile",
+      "description": {
+        "active": "Answer quick questions regarding your investment experience and current investments.",
+        "inactive": "Complete your personal details to unlock this step."
+      },
+      "stepper": { "title": "Investor Profile" }
+    },
+    "chapterThree": {
+      "title": "ID Verification",
+      "description": {
+        "active": "Share copies of your National ID and passport, and upload a live selfie.",
+        "inactive": "Complete your investment experience details to unlock this step."
+      },
+      "stepper": { "title": "ID verification" }
+    }
+  },
+  "personalInformation": {
+    "page": {
+      "title": "Personal Details",
+      "description": "You're just a few steps away from becoming an investor with The Family Office. We just need further information to finalize your contract."
+    },
+    "questionInfo": { "title": "", "description": "" },
+    "kycSSOId": {
+      "heading": "National Single Sign-On",
+      "descriptionIdDetails": "Enter your details to receive an OTP",
+      "descriptionOtpDetails": "An OTP has been sent to your registered phone number for verification. Please enter the code to continue.",
+      "text": {
+        "otpMessage": "An OTP has been sent to your registered mobile number. Please enter the code to verify your account.",
+        "otpExpiryMessage": "Your code will expire in:",
+        "otpResendMessage": "Didn’t receive the verification code?"
+      },
+      "errors": {
+        "invalidHijiri": "Please enter a valid Hijiri month and year.",
+        "invalidNationalId": "Please enter valid details"
+      },
+      "input": {
+        "nationalId": {
+          "label": "National ID Number",
+          "placeholder": "National ID Number"
+        },
+        "otp": {
+          "errors": {
+            "otpExpired": "Your code has expired. Resend OTP.",
+            "otpInvalid": "Incorrect code, please try again."
+          }
+        }
+      },
+      "select": {
+        "monthOfBirth": {
+          "label": "Month of Birth (Hijri)",
+          "placeholder": "MM"
+        },
+        "yearOfBirth": { "placeholder": "YYYY" }
+      },
+      "button": { "resendOtp": "Resend OTP" }
+    },
+    "kycAbsherCitizenDetails": {
+      "heading": "Personal Information Summary",
+      "descriptionIdDetails": "Please review your information as received through the National Single Sign-On. To make changes, you can enter the information manually.",
+      "sections": {
+        "personalDetails": "Personal Information",
+        "address": "Address in Saudi Arabia"
+      },
+      "labels": {
+        "firstName": "First Name",
+        "middleName": "Middle Name",
+        "lastName": "Last Name",
+        "gender": "Gender",
+        "dateOfBirth": "Date of Birth",
+        "nationality": "Nationality",
+        "nationalIdNumber": "National ID Number",
+        "buildingNumber": "Building Number",
+        "streetName": "Street Name",
+        "district": "District",
+        "city": "City",
+        "postcode": "Postcode",
+        "country": "Country"
+      }
+    },
+    "KycPersonalInformation": {
+      "heading": "Personal Information",
+      "descriptionIdDetails": "Please provide your full name as it appears on your ID documents.",
+      "input": {
+        "firstName": { "label": "First Name", "placeholder": "First Name" },
+        "lastName": { "label": "Last Name", "placeholder": "Last Name" },
+        "middleName": { "label": "Middle Name", "placeholder": "Middle Name" }
+      },
+      "select": {
+        "title": { "label": "Title", "placeHolder": "Please select" }
+      }
+    },
+    "KycPersonalInfoCountryDob": {
+      "heading": "Personal Information",
+      "description": "Please provide your details as they appear on your ID documents.",
+      "input": {
+        "dateOfBirth": {
+          "label": "Date of Birth",
+          "placeholder": "DD/MM/YYYY",
+          "errors": {
+            "invalid": "Please enter a correct date",
+            "minMaxDOB": "Age should be between 18 and 85 years."
+          }
+        },
+        "placeOfBirth": {
+          "label": "Place of Birth",
+          "placeholder": "Place of Birth"
+        }
+      },
+      "select": {
+        "gender": { "label": "Gender", "placeHolder": "Please select" },
+        "countryOfBirth": {
+          "label": "Country of Birth",
+          "placeHolder": "Please select"
+        },
+        "nationality": {
+          "label": "Nationality",
+          "placeHolder": "Please select"
+        },
+        "otherNationality": {
+          "label": "Other Nationality (if applicable)",
+          "placeHolder": "Optional",
+          "errors": {
+            "notEqualNationality": "Each nationality can be added once"
+          }
+        }
+      }
+    },
+    "kycIncomeDetails": {
+      "heading": "Income and Wealth",
+      "description": "Please enter your annual income details.",
+      "input": {
+        "sourceOfFundsOtherTextPlaceholder": "If other, please specify"
+      },
+      "select": {
+        "annualIncome": {
+          "label": "Annual Income (USD)",
+          "options": {
+            "Between100kand250k": "100,000 - 250,000",
+            "Between250kand500k": "250,000 - 500,000",
+            "Between500kand1000k": "500,000 - 1,000,000",
+            "Between1000kand5000k": "1,000,000 - 5,000,000",
+            "Between5000kand10000k": "5,000,000 - 10,000,000",
+            "Above10000k": "Above 10,000,000"
+          }
+        },
+        "netWorth": {
+          "label": "Net Worth (USD)",
+          "options": {
+            "Between500kand2000k": "500,000 - 2,000,000",
+            "Between2000kand5000k": "2,000,000 - 5,000,000",
+            "Between5000kand10000k": "5,000,000 - 10,000,000",
+            "Between10000kand50000k": "10,000,000 - 50,000,000",
+            "Between50000kand100000k": "50,000,000 - 100,000,000",
+            "Above100000k": "Above 100,000,000"
+          },
+          "tooltip": {
+            "text": "It is the value of your total assets minus your total liabilities."
+          }
+        },
+        "sourceOfWealth": {
+          "label": "Source of Wealth",
+          "options": {
+            "Charities": "Charities",
+            "ClientLivingOffAccumulatedWealth": "Client living off accumulated Wealth",
+            "CompanyDirectorCEOPresident": "Company Director\\CEO\\President",
+            "FamilyTrustIncome": "Family Trust/Income",
+            "Gift": "Gift",
+            "Inheritance": "Inheritance",
+            "NonProfitOrganizations": "Non-profit organizations",
+            "PawnShops": "Pawn shops",
+            "PaymentInstitutionsAndElectronicMoneyInstitutions": "Payment Institutions and Electronic Money Institutions (including MSBs providing Money Transmission Services and Currency Exchange Service)",
+            "PetroleumProductsProductionTrading": "Production and/or wholesale trading of petroleum products, such as oil and petrol, energy such as natural gas / CO2 emissions and wind power",
+            "RealEstateBusiness": "Real Estate business",
+            "SalariedEmployeeNoOtherIncome": "Salaried employee - no other income",
+            "SalariedEmployeeWithOtherIncome": "Salaried employee - with other income",
+            "TradingOfArtCollections": "Trading of art collections (such as paintings, sculpture)",
+            "Other": "Other"
+          },
+          "tooltip": {
+            "text": "The source of wealth is all activities that generated or contributed to the accumulation of the user's funds and assets over time."
+          }
+        },
+        "sourceOfFunds": {
+          "label": "Source of Funds",
+          "options": {
+            "Gift": "Gift",
+            "Inheritance": "Inheritance",
+            "InvestmentIncome": "Investment income",
+            "Pension": "Pension",
+            "SalaryOrBonus": "Salary or bonus",
+            "SaleOfAssets": "Sale of assets",
+            "SaleOfBusiness": "Sale of business",
+            "SaleOfProperty": "Sale of property",
+            "Savings": "Savings",
+            "Other": "Other"
+          },
+          "tooltip": {
+            "text": "The source of funds is the origin of funds being transferred to our account during the business relationship."
+          }
+        }
+      }
+    },
+    "KycAbsherOtherDetails": {
+      "heading": "Additional information",
+      "description": "We need a few more details",
+      "input": {
+        "placeOfBirth": {
+          "label": "Place of Birth",
+          "placeholder": "Place of Birth"
+        },
+        "address": { "label": "Address", "placeholder": "Address" },
+        "city": { "label": "City", "placeholder": "City" },
+        "postcode": { "label": "Postcode", "placeholder": "Postcode" },
+        "passport": {
+          "label": "Passport Number",
+          "placeholder": "Passport Number"
+        }
+      },
+      "select": {
+        "title": { "label": "Title", "placeHolder": "Please select" },
+        "countryOfResidence": {
+          "label": "Country of Residence",
+          "placeHolder": "Country of Residence"
+        },
+        "country": { "label": "Country", "placeHolder": "Country" },
+        "countryOfBirth": {
+          "label": "Country of Birth",
+          "placeHolder": "Please select"
+        },
+        "otherNationality": {
+          "label": "Other Nationality (if applicable)",
+          "placeHolder": "Optional"
+        }
+      },
+      "radio": {
+        "hasResidenceAddressOutsideSaudiArabia": {
+          "label": "I have a residence address outside of Saudi Arabia",
+          "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } }
+        }
+      }
+    },
+    "kycPersonalInfoAddress": {
+      "heading": "Address",
+      "descriptionIdDetails1": "Please provide your local address.",
+      "descriptionIdDetails2": "Please provide your local address.",
+      "input": {
+        "buildingNumber": {
+          "label": "Building Number",
+          "placeholder": "Building Number"
+        },
+        "streetName": { "label": "Street name", "placeholder": "Street name" },
+        "district": { "label": "District", "placeholder": "District" },
+        "address": { "label": "Address", "placeholder": "Address" },
+        "city": { "label": "City", "placeholder": "City" },
+        "postcode": { "label": "Postcode", "placeholder": "Postcode" }
+      },
+      "select": {
+        "country": {
+          "label": "Country of residence",
+          "placeHolder": "Country of residence"
+        }
+      }
+    },
+    "kycPersonalInfoOtherAddress": {
+      "heading": "Additional Address",
+      "descriptionIdDetails": "Do you have another address?",
+      "input": {
+        "address": { "label": "Address", "placeholder": "Address" },
+        "city": { "label": "City", "placeholder": "City" },
+        "postcode": { "label": "Postcode", "placeholder": "Postcode" }
+      },
+      "select": { "country": { "label": "Country", "placeHolder": "Country" } },
+      "radio": {
+        "hasResidenceAddressOutsideSaudiArabia": {
+          "label": "I have a residence address outside Saudi Arabia",
+          "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } }
+        }
+      }
+    },
+    "kycPersonalInfoNationalId": {
+      "heading": "ID Documents",
+      "description": "Please provide your details as they appear on your ID documents.",
+      "input": {
+        "nationalId": {
+          "label": "National ID Number",
+          "placeholder": "National ID Number",
+          "errors": {
+            "lengthKSA": "ID number should have 10 digits",
+            "lengthBahrain": "ID number should have 9 digits",
+            "lengthOther": "ID number should not exceed 15 characters",
+            "formatOther": "Only letters, numbers and dashes are allowed"
+          }
+        },
+        "passport": {
+          "label": "Passport Number",
+          "placeholder": "Passport Number"
+        }
+      }
+    },
+    "KycPepCheck": {
+      "title": "Politically Exposed Person (PEP) Confirmation",
+      "description": "Are you a politically exposed person (PEP)?",
+      "input": {
+        "fullLegalName": {
+          "label": "Full legal name of the PEP",
+          "placeholder": "Full legal name of the PEP"
+        },
+        "dateOfAppointment": {
+          "label": "Date of Appointment",
+          "placeholder": "DD/MM/YYYY",
+          "errors": {
+            "valid": "Please enter a valid date",
+            "future": "You cannot add a future date, please enter a valid date."
+          }
+        }
+      },
+      "select": {
+        "jurisdiction": { "label": "Jurisdiction of the PEP" },
+        "accountHolderRelationship": {
+          "label": "Your relationship with the PEP",
+          "options": {
+            "SpouseOfPep": "Spouse",
+            "SiblingOfPep": "Sibling",
+            "ParentOfPep": "Parent",
+            "ChildOfPep": "Child",
+            "GrandChildOfPep": "Grandchild",
+            "GrandParentOfPep": "Grandparent",
+            "CloseAssociateOfPep": "Close associate",
+            "Other": "Other"
+          }
+        }
+      },
+      "radio": {
+        "label": "Are you a politically exposed person (PEP)?",
+        "options": {
+          "YesIamPep": { "title": "Yes, I am a PEP" },
+          "YesIamPepRelated": { "title": "Yes, I am related to a PEP" },
+          "NoIamNotPep": { "title": "No, I am not a PEP" }
+        }
+      },
+      "tooltip": {
+        "text": "A politically exposed person (PEP) is someone entrusted with prominent public functions. PEPs include heads of state, heads of government, ministers, deputy or assistant ministers, members of Parliament, members of the boards of central banks, ambassadors and chargés d’affaires, members of the administrative, management or supervisory bodies of state-owned enterprises, and members of high-level judicial bodies whose decisions are not generally subject to further appeal. PEPs include the family members and close business associates of PEPs and beneficial owners of a property held by PEPs."
+      }
+    },
+    "KycEmploymentDetails": {
+      "title": "Employment Details",
+      "description": "Please enter the answer applicable to your last active employment activity.",
+      "select": {
+        "employmentActivity": {
+          "label": "Employment Situation",
+          "options": {
+            "Employed": "Employed",
+            "SelfEmployed": "Self-employed",
+            "Retired": "Retired",
+            "Unemployed": "Unemployed"
+          }
+        },
+        "employmentSector": {
+          "label": "Employment Sector",
+          "options": {
+            "diversifiedConglomerate": "Diversified & Conglomerate",
+            "education": "Education",
+            "energyChemicalUtilities": "Energy, Chemical & Utilities",
+            "financialServicesBanking": "Financial Services – Banking & Securities",
+            "financialServicesInsurance": "Financial Services – Insurance",
+            "financialServicesInvestment": "Financial Services – Investment",
+            "financialServicesOther": "Financial Services – Other",
+            "foodAndBeverage": "Food and Beverages",
+            "governmentNational": "Government – National",
+            "governmentStateLocal": "Government – State, Local & Other",
+            "healthCare": "Health Care, Medical, Pharma & Biotech",
+            "hospitality": "Hospitality, Entertainment & Leisure",
+            "humanHealth": "Human health and social work activities",
+            "jewels": "Jewels or precious metal",
+            "manufacturing": "Manufacturing",
+            "media": "Media, Advertising & PR",
+            "professionalServicesAccounting": "Professional Services – Accounting",
+            "professionalServicesConsulting": "Professional Services – Consulting",
+            "professionalServicesLegal": "Professional Services – Legal",
+            "professionalServicesOther": "Professional Services – Other",
+            "retail": "Retail",
+            "technologyHardware": "Technology – Hardware & Equipment",
+            "technologyOther": "Technology – Other",
+            "technologySoftware": "Technology – Software & Services",
+            "telecommunication": "Telecommunication",
+            "transportationDistribution": "Transportation & Distribution",
+            "transportationShipping": "Transportation, shipping and storage",
+            "waterSupply": "Water supply, sewerage and waste remediation",
+            "noneOfTheAbove": "None of the above"
+          }
+        },
+        "sectorOfLastEmployment": { "label": "Sector of Last Employment" }
+      },
+      "input": {
+        "yearsOfProfessionalExperience": {
+          "label": "Years of Professional Experience",
+          "placeholder": "Add years of professional experience"
+        },
+        "jobTitle": { "label": "Job Title", "placeholder": "Job Title" },
+        "lastJobTitleHeld": {
+          "label": "Last Job Held",
+          "placeholder": "Last Job"
+        }
+      },
+      "radio": {
+        "areYouDirectorOfListedCompany": {
+          "label": "Are you an executive or director in a publicly listed company?",
+          "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } }
+        }
+      }
+    },
+    "KycEmployerDetails": {
+      "title": {
+        "employerDetails": "Employer Details",
+        "companyDetails": "Company Details",
+        "lastEmployerDetails": "Last Employer Details"
+      },
+      "description": "Please enter the answer applicable to your last active employment activity.",
+      "select": {
+        "country": { "label": "Country" },
+        "estimatedNumberOfEmployees": {
+          "label": "Number of employees",
+          "options": {
+            "LessThan50": "0 – 50",
+            "Between50And100": "51 – 100",
+            "Between100And500": "101 – 500",
+            "Between500And1000": "501 – 1000",
+            "Between100And5000": "1001 – 5000",
+            "Above5000": "Above 5000"
+          }
+        },
+        "estimatedAnnualRevenue": {
+          "label": "Annual Revenue",
+          "options": {
+            "Between1000kand5000k": "$1,000,000 - $5,000,000",
+            "Between5000kand10000k": "$5,000,000 - $10,000,000",
+            "Between10000kand20000k": "$10,000,000 - $20,000,000",
+            "Between20000kand50000k": "$20,000,000 - $50,000,000",
+            "Between50000kand100000k": "$50,000,000 - $100,000,000",
+            "Between100000kand500000k": "$100,000,000 - $500,000,000",
+            "Above500000k": "Above $500,000,000"
+          }
+        }
+      },
+      "input": {
+        "nameOfCompany": {
+          "label": "Company Name",
+          "placeholder": "Company Name"
+        },
+        "buildingNumber": {
+          "label": "Building Number",
+          "placeholder": "Building Number"
+        },
+        "streetName": { "label": "Street Name", "placeholder": "Street Name" },
+        "district": { "label": "District", "placeholder": "District" },
+        "city": { "label": "City", "placeholder": "City" },
+        "postcode": { "label": "Postcode", "placeholder": "Postcode" },
+        "address": { "label": "Address", "placeholder": "Address" },
+        "phoneNumber": {
+          "label": "Phone Number",
+          "placeholder": "Phone Number"
+        }
+      }
+    },
+    "kycReasonablenessCheck": {
+      "title": "Reasonableness Check",
+      "description": "Some details are inconsistent. Please provide additional information.",
+      "input": { "placeholder": "Enter explanation" },
+      "radio": {
+        "addressNotMatchTaxResidence": {
+          "label": "Your address does not match your declared tax residence. Please select a reason.",
+          "options": {
+            "AddressNotMatchTaxResidence1": "I have not spent enough time as a foreign resident in the country to qualify as a tax resident.",
+            "AddressNotMatchTaxResidence2": "I moved recently to my current residential address, and have not spent enough time in the country to qualify as a tax resident.",
+            "AddressNotMatchTaxResidence3": "I am working overseas temporarily and have not spent enough time in the country of residence to qualify as a tax resident.",
+            "AddressNotMatchTaxResidence4": "The residential address belongs to my spouse/parent.",
+            "AddressNotMatchTaxResidence5": "Other"
+          }
+        },
+        "phoneNumberNotMatchTaxResidence": {
+          "label": "The phone number you provided does not match your declared tax residence. Please select a reason.",
+          "options": {
+            "PhoneNumberNotMatchTaxResidence1": "I currently work/study/reside overseas and have no access to the phone number linked to my tax residence.",
+            "PhoneNumberNotMatchTaxResidence2": "Other"
+          }
+        },
+        "nationalityNotMatchTaxResidence": {
+          "label": "Your declared tax residence does not match your nationality or nationalities. Please select a reason.",
+          "options": {
+            "NationalityNotMatchTaxResidence1": "Taxation laws in my country of citizenship do not define tax residency.",
+            "NationalityNotMatchTaxResidence2": "I live/ work in Bahrain, and I am not a tax resident of my country of citizenship.",
+            "NationalityNotMatchTaxResidence3": "I work/ reside overseas and have a tax identification number (TIN) in my country of work/ residence.",
+            "NationalityNotMatchTaxResidence4": "Other",
+            "NationalityNotMatchTaxResidence5": "Other",
+            "NationalityNotMatchTaxResidence6": "Other"
+          }
+        }
+      }
+    },
+    "kycTaxInformation": {
+      "title": "Taxation Information",
+      "description": "Please enter your taxation details.",
+      "select": {
+        "locationOfMainTaxDomicile": {
+          "label": "Tax Domicile",
+          "tooltip": {
+            "label": "Tax domicile is the permanent home where the person pays their state income tax. Some tax domiciles may not allow processing this application."
+          }
+        },
+        "countriesOfTaxResidency": {
+          "label": "Tax Residency",
+          "tooltip": {
+            "label": "Tax residence is determined under the domestic tax laws of each jurisdiction. A person who qualifies as a tax resident of more than one jurisdiction would be a tax resident in more than one country."
+          },
+          "errors": { "unique": "Each tax residency must be added once." }
+        },
+        "reasonForNoTin": {
+          "label": "Reason for not having a TIN",
+          "options": {
+            "CountryNotIssueTin": "My country of residence does not issue a TIN",
+            "UnableToObtainTin": "Unable to obtain a TIN",
+            "NoTinRequired": "No TIN is required"
+          }
+        }
+      },
+      "radio": {
+        "taxableInUsa": {
+          "label": "Are you taxable in the US?",
+          "options": { "yes": { "title": "Yes" }, "no": { "title": "No" } },
+          "popover": "<0><1>A person taxable in the U.S. means:</1><2></2><3><4>ِA US citizen, resident, partnership, corporation, estate, or</4><4>A trust that is either:<5><6>subject to the primary supervision of a court within the U.S., or</6><6>controlled by one or more U.S. persons.</6></5></4></3></0>",
+          "modal": {
+            "title": "Are you taxable in the US?",
+            "description": "<0><1>A person taxable in the U.S. means:</1><2></2><3><4>ِA US citizen, resident, partnership, corporation, estate, or</4><4>A trust that is either:<5><6>subject to the primary supervision of a court within the U.S., or</6><6>controlled by one or more U.S. persons.</6></5></4></3></0>",
+            "button": { "label": "Close" }
+          }
+        }
+      },
+      "input": {
+        "globalTaxIdentificationNumber": {
+          "label": "Global Tax Identification Number (TIN)",
+          "placeholder": "Add your TIN",
+          "tooltip": {
+            "pleaseVisit": "Please visit",
+            "oecdWebsite": " Organization for Economic Co-operation and Development (OECD) website ",
+            "text": "Please visit the Organization for Economic Co-operation and Development <link>  (OECD) website </link> for information about TINs in each jurisdiction."
+          }
+        },
+        "reasonForNoTinExplanation": {
+          "placeholder": "Enter more details here"
+        }
+      },
+      "checkbox": { "haveTin": { "label": "I have no TIN" } },
+      "button": { "addNew": { "label": "Add more" } }
+    },
+    "KycPersonalInfoAddress": {
+      "descriptionIdDetails1": "Please provide your local address.",
+      "descriptionIdDetails2": "Please provide your local address.",
+      "heading": "Address",
+      "input": {
+        "address": { "label": "Address", "placeholder": "Address" },
+        "buildingNumber": {
+          "label": "Building Number",
+          "placeholder": "Building Number"
+        },
+        "city": { "label": "City", "placeholder": "City" },
+        "district": { "label": "District", "placeholder": "District" },
+        "postcode": { "label": "Postcode", "placeholder": "Postcode" },
+        "streetName": { "label": "Street Name", "placeholder": "Street Name" }
+      },
+      "select": {
+        "country": {
+          "label": "Country of Residence",
+          "placeHolder": "Country of Residence"
+        }
+      }
+    },
+    "KycPersonalInfoNationalId": {
+      "input": {
+        "nationalId": {
+          "label": "National ID Number",
+          "placeholder": "National ID Number"
+        },
+        "passport": {
+          "label": "Passport Number",
+          "placeholder": "Passport Number"
+        }
+      }
+    },
+    "KycPersonalInfoOtherAddress": {
+      "descriptionIdDetails": "Do you have another address?",
+      "heading": "Additional Address",
+      "input": {
+        "address": { "label": "Address", "placeholder": "Address" },
+        "city": { "label": "City", "placeholder": "City" },
+        "postcode": { "label": "Postcode", "placeholder": "Postcode" }
+      },
+      "radio": {
+        "hasResidenceAddressOutsideSaudiArabia": {
+          "label": "I have a residence address outside Saudi Arabia",
+          "options": { "no": { "title": "No" }, "yes": { "title": "Yes" } }
+        }
+      },
+      "select": { "country": { "label": "Country", "placeHolder": "Country" } }
+    }
+  },
+  "investmentExperience": {
+    "page": {
+      "title": "Investor Profile",
+      "description": "An overview of your current portfolio"
+    },
+    "currentInvestments": {
+      "sidebar": {
+        "title": "Current Investments",
+        "subtitle": "An overview of your current portfolio",
+        "infoBox": { "title": "", "description": "" }
+      },
+      "errors": {
+        "max100": "100% of your total assets are already allocated",
+        "input": "Invalid amount",
+        "inputMax100": "You cannot exceed 100%",
+        "shouldBe100": "Please allocate 100% of your total assets"
+      },
+      "body": {
+        "title": "How is your wealth distributed?",
+        "description": "How is your wealth distributed?",
+        "allocatedPercentage": "{{amount}}% allocated",
+        "remainingPercentage": "{{amount}}% remaining",
+        "inputs": {
+          "wealthCash": "Cash",
+          "wealthBonds": "Bonds",
+          "wealthStockEquities": "Equities (Stocks)",
+          "wealthHedgeFunds": "Hedge Funds",
+          "wealthPrivateEquity": "Private Equity",
+          "wealthRealEstate": "Real Estate",
+          "wealthOther": "Other Asset Classes"
+        }
+      }
+    },
+    "holdingInformation": {
+      "sidebar": {
+        "title": "Current Investments",
+        "subtitle": "An overview of your current portfolio",
+        "infoBox": { "title": "", "description": "" }
+      },
+      "body": {
+        "title": "Do you hold any concentrated positions in one or more individual assets that comprise more than 10% of your total wealth (e.g. local or international single stock holdings, or family businesses)?",
+        "yes": "Yes",
+        "no": "No",
+        "details": "Insert details"
+      }
+    },
+    "receivedInvestmentAdvisory": {
+      "sidebar": {
+        "title": "Investment Advisory and Financial Instruments",
+        "subtitle": "Your investment experience over the last five years",
+        "infoBox": { "title": "", "description": "" }
+      },
+      "body": {
+        "receivedInvestmentTitle": "Have you received any investment advisory services from banks or other investment advisors within the last five years?",
+        "investmentInFinancialInstrumentsTitle": "Have you made any investment decisions about financial instruments by yourself in the last five years?",
+        "radios": { "yes": "Yes", "no": "No" }
+      }
+    },
+    "transactionsInformation": {
+      "sidebar": {
+        "title": "Financial Transactions",
+        "subtitle": "Your investment experience over the last five years",
+        "infoBox": { "title": "", "description": "" }
+      },
+      "body": {
+        "title": "Have you conducted any of the following financial transactions in the last five years?",
+        "choices": {
+          "PrivateEquityOrVentureCapital": "Private Equity/Venture Capital",
+          "HedgeFundsOrManagedFutureFunds": "Hedge Funds/Managed Futures Funds",
+          "DerivativesOrCfdOrOptionsOrLeverageCertificates": "Derivatives/Contracts for Differences/Options/Leverage Certificates",
+          "CommoditiesOrCommoditiesCertificates": "Commodities/Commodity Certificates",
+          "NotCarriedOutAny": "I did not conduct any financial transactions in the last five years"
+        }
+      }
+    }
+  },
+  "idVerification": {
+    "page": {
+      "title": "ID Verification",
+      "description": "All investment involves an element of risk. To propose the right portfolio for you, we need to understand your comfort level. Please rate each statement according to how strongly you agree with it."
+    },
+    "questionInfo": {
+      "title": "",
+      "description": "This is to ensure that you are eligible to invest with The Family Office."
+    },
+    "mobileViewMessages": {
+      "bright": "The image should be clear and easy to read.",
+      "corner": "All corners of the document should be visible.",
+      "blur": "The document should occupy the majority of the picture.",
+      "allowedFormat": "Please upload .jpg, .jpeg, .png and pdf files only."
+    },
+    "passportInfoStep": {
+      "heading": "Upload Documents",
+      "description": "Use your webcam to photograph your documents and record a live photo.",
+      "uploadBox": {
+        "title": "Bring your passport information page close to the camera",
+        "primaryCta": "Take a photo",
+        "secondaryCta": "Upload a picture",
+        "tooltipText": "You can upload an image from your computer. Supported files are .jpg, .jpeg, .png and pdf only."
+      }
+    },
+    "passportSignatureStep": {
+      "heading": "Scan the document",
+      "subtitle": "Passport signature page",
+      "description": "Use your webcam to scan the signature page of your passport",
+      "uploadBox": {
+        "title": "Bring your passport signature page close to the camera and click \"take photo\" to capture it.",
+        "primaryCta": "Take a photo",
+        "secondaryCta": "Upload a picture",
+        "tooltipText": "Upload an image from your computer. Supported files are .jpg, .jpeg, .png and pdf only."
+      }
+    },
+    "nationalIdCardFrontStep": {
+      "heading": "Upload Documents",
+      "subtitle": "Front side of your national ID card",
+      "description": "Use your webcam to scan the front side of your national ID card.",
+      "uploadBox": {
+        "title": "Bring the front side of your national ID card close to the camera",
+        "secondaryCta": "Upload a picture",
+        "tooltipText": "You can upload an image from your computer. Supported files are .jpg, .jpeg, .png and pdf only."
+      }
+    },
+    "nationalIdCardBackStep": {
+      "heading": "Upload Documents",
+      "subtitle": "Backside of your national ID card",
+      "description": "Use your webcam to scan the back side of your national ID card",
+      "uploadBox": {
+        "title": "Bring the back of your national ID card closer to the camera",
+        "secondaryCta": "Upload a picture",
+        "tooltipText": "You can upload an image from your computer. Supported files are .jpg, .jpeg, .png and pdf only."
+      }
+    },
+    "livePhotoStep": {
+      "heading": "Live photo",
+      "description": "Position your face inside the oval to start the recording.",
+      "uploadBox": { "title": "Look at the camera" }
+    },
+    "scheduleVideoCall": {
+      "heading": "Schedule a Video Identification Appointment",
+      "description": "Our business support team will verify your identity and guide you to sign your legally binding documents.\nThe earliest available appointment is within 7 business days.",
+      "component": { "type": "Schedule a video call" },
+      "select": {
+        "timeZone": { "label": "Select your time zone" },
+        "availableTimeSlots": {
+          "label": "Select an available time*",
+          "errors": {
+            "unavailable": "No time slots available for selected date. Please pick another date."
+          }
+        }
+      },
+      "availableDate": {
+        "label": "Select an available date*",
+        "placeholder": "DD/MM/YYYY",
+        "errors": {
+          "valid": "Please enter a valid date",
+          "past": "Please enter a valid date"
+        }
+      },
+      "toast": {
+        "calendar": {
+          "error": {
+            "title": "An error occurred while uploading the meeting calendar"
+          }
+        },
+        "scheduleMeeting": {
+          "error": {
+            "title": "Something went wrong, can you please try again."
+          }
+        }
+      }
+    },
+    "errors": {
+      "apiError": {
+        "title": "Connection failed",
+        "description": "An error occurred during verification. Please try again later."
+      },
+      "trulioo": {
+        "FAIL_TO_INITIALIZE": "An error occurred during verification. Please try again later.",
+        "PDF_FILE_SIZE_OVER_4_MB": "The file should not exceed 4MB. Please try again.",
+        "CORRUPT_IMAGE": "An error occurred while processing the image. Please retake the photo.",
+        "FILE_TYPE_INVALID": "The file type is invalid. Please try again.",
+        "CAMERA_UNKNOWN_DEVICE_ISSUE": "An error occurred while capturing the photo. Please try again.",
+        "AUTO_CAPTURE_NOT_SUPPORT": "Image captured is not supported. Please log in using a different device.",
+        "FAIL_TO_AUTO_CAPTURE": "An error occurred while capturing your photo. Please try again.",
+        "MISSING_TOKEN": "An error occurred while capturing your photo. Please try again.",
+        "INVALID_TOKEN": "An error occurred while capturing your photo. Please try again.",
+        "NO_MORE_TOKEN_ATTEMPTS": "An error occurred while capturing your photo. Please try again.",
+        "INVALID_ORIGIN_URL": "An error occurred while capturing your photo. Please try again.",
+        "MISSING_IMAGE": "An error occurred while capturing your photo. Please try again.",
+        "FAIL_TO_GET_LIVENESS_DATA": "An error occurred while capturing your photo. Please try again.",
+        "FAIL_TO_GET_CLASSIFICATION_DATA": "An error occurred while capturing your photo. Please try again.",
+        "FAIL_TO_AUTO_CAPTURE_SEQUENCE_BREAK": "An error occurred while capturing your photo. Please try again.",
+        "FAIL_TO_AUTO_CAPTURE_REPEAT_FAIL": "An error occurred while capturing your photo. Please try again.",
+        "FAIL_TO_PROCESS_CAPTURE": "An error occurred while capturing your photo. Please try again.",
+        "CAMERA_PERMISSION_DENIED": "Camera permission denied"
+      }
+    }
+  },
+  "documentVerification": {
+    "stepper": {
+      "title": "ID Verification",
+      "heading": "Verify ID on your mobile"
+    },
+    "heading": "Verify ID on your mobile",
+    "description1": "We will guide you through the required steps while you use your mobile to photograph your documents and record a live photo.",
+    "description2": "You also have the option to upload photos of your documents if available.",
+    "status": { "complete": "COMPLETE", "required": "REQUIRED" },
+    "statusInfo": {
+      "passportFront": "Passport",
+      "passportSignature": "Passport signature page",
+      "nationalIdFront": "Front side of national ID",
+      "nationalIdBack": "Back side of national ID",
+      "livePhoto": "Live Photo",
+      "callScheduled": "Video Identification"
+    },
+    "toast": {
+      "error": {
+        "title": "An error occurred while complete the verification. Please try again."
+      }
+    },
+    "confirmModal": {
+      "exit": { "title": "Are you sure you want to exit?" },
+      "content": "We are not able to save your ID uploads before the process is complete. If you leave this screen, you will be asked to re-upload your documents.  "
+    }
+  },
+  "completionStep": {
+    "page": {
+      "title": "ID verification complete",
+      "description": "A confirmation that the ID verification is complete once you finish uploading all required documents."
+    },
+    "onboardingIdPlaceholder": "ID:",
+    "heading": "Registration Complete!",
+    "confirmationText1": "Thank you for completing your registration. Your information is being processed. Your dedicated financial advisor will contact you when the process is complete.",
+    "confirmationText2": "You will receive your account opening forms by email so you sign them.",
+    "confirmationText3": "<0>For inquiries, please contact our business support team at <1>{{supportEmail}}</1> quoting your onboarding ID {{onboardingId}}.</0>",
+    "goBackToDashboardCta": "Back to dashboard",
+    "hybridFlow": {
+      "heading": "Upload successful.",
+      "confirmationText1": "We have successfully captured  your documents and live photo.",
+      "confirmationText2": "You can now return to your computer to continue."
+    },
+    "supportEmail": "onboarding@tfoco.com"
+  },
+  "sessionStopped": {
+    "page": {
+      "title": "session stopped",
+      "description": "This page is displayed on hybrid flow when session is ended from desktop."
+    },
+    "heading": "Session Stopped",
+    "description": "To complete ID verification, please click 'Back' on your desktop and restart this step."
+  },
+  "sorryModal": {
+    "heading": "Thank you for your interest!",
+    "contentKSA": "<0><1>Unfortunately, we are unable to process your application at present.</1><1>The Family Office does not yet serve investors who:</1><2><3>Are US citizens or residents, or taxable in the US</3><3>Are citizens of sanctioned countries</3><3>Do not meet the minimum requirements to qualify as clients.</3></2><1>Do not hesitate to contact us again if your situation changes.</1><4>*Please refer to the standard disclaimer on our website.</4><5></5></0>",
+    "contentNonKSA": "<0><1>Unfortunately, we are unable to process your application at present.</1><1>The Family Office does not yet serve investors who:</1><2><3>Are US citizens or residents, or taxable in the US</3><3>Are citizens of sanctioned countries</3><3>Do not meet the minimum requirements to qualify as clients.</3></2><1>Do not hesitate to contact us again if your situation changes.</1><4>*Please refer to the standard disclaimer on our website.</4><5></5></0>",
+    "button": {
+      "exitToDashboard": "Exit to dashboard",
+      "goBack": "Go back",
+      "getSupport": "Get support"
+    },
+    "text": { "description": "", "needHelp": "Do you need help?" }
+  },
+  "supportModal": {
+    "heading": "Contact our business support team",
+    "text": {
+      "description": "If you have any questions, do not hesitate to contact us. We will get back to you as soon as possible."
+    },
+    "textarea": { "placeholder": "Type your message here" },
+    "button": { "submit": "Submit" }
+  },
+  "confirmModal": {
+    "title": "Are you sure you want to go back?",
+    "content": "Your documents cannot be saved before the process is complete. If you leave this screen, you must upload your documents again.",
+    "actions": { "cancel": "Cancel", "goBack": "Yes, go back" }
+  },
+  "qrCodeGenerationModal": {
+    "heading": "Continue on mobile",
+    "title": "Scan the QR code to access the secure link on your mobile.",
+    "linkCTA": "How to scan a QR code"
+  },
+  "howToScanQrModal": {
+    "heading": "How to scan a QR code",
+    "description": "<0><1>Open your camera app and point your device at the QR code.</1><2>Wait for your camera to recognize and scan the QR code.</2><3>Tap the banner or notification when it appears.</3><4>The page will automatically load on your device.</4></0>",
+    "linkCTA": "Ok"
+  },
+  "geoLocationConsentModal": {
+    "heading": "The Family Office needs access to your location",
+    "description": "We need access to your location during the onboarding process for security reasons. Please disable VPN or DNS if activated.",
+    "actions": { "dontAllow": "Don’t Allow", "allow": "Allow" }
+  },
+  "text": {
+    "retakePhoto": "Retake Photo",
+    "reset": "Reset",
+    "takePhoto": "Take Photo"
+  },
+  "toast": {
+    "error": {
+      "title": "An error occurred while attempting verification. Please try again."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "page": { "title": "Document Center", "description": "Document Center" },
+  "heading": "My Documents",
+  "labels": {
+    "name": "Name",
+    "date": "Date",
+    "download": "Download",
+    "view": "View",
+    "info": "Ask about this file",
+    "close": "Close"
+  },
+  "folder": {
+    "invoices": "Invoices",
+    "monthly_reports": "Monthly Reports",
+    "quarterly_reports": "Quarterly Reports",
+    "relationship_review": "Relationship Review",
+    "videos": "Videos"
+  },
+  "label": { 
+    "pdfLoading": "Loading PDF",
+    "pdfNotLoading" : "Unable to load source file."
+    }
+
+}

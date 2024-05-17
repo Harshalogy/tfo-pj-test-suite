@@ -1,0 +1,78 @@
+{
+  "assetAllocationOvertheYears": {
+    "liquidAndIlliquidAfterCommitments": {
+      "descriptionOne": "As illiquid commitments were deployed, the portfolio invested in",
+      "descriptionThree": "of liquid and illiquid asset classes, respectively."
+    },
+    "liquidAndIlliquidBeginning": {
+      "descriptionOne": "At the beginning, the asset allocation was",
+      "descriptionThree": "of liquid and illiquid asset classes, respectively."
+    },
+    "subtitle": "By asset class",
+    "title": "Asset Allocation Over the Years"
+  },
+  "description": "Based on The Investment Policy Statement",
+  "heading": "Asset Allocation",
+  "objectives": {
+    "objectives": {
+      "ObjectiveOneDescriptionOne": "Your first objective for your portfolio is to",
+      "ObjectiveOneDescriptionTwo": "diversify away from local and oil-related markets to minimize risk",
+      "ObjectiveTwoDescriptionOne": "Your second objective is to",
+      "ObjectiveTwoDescriptionThree": "for the next generation",
+      "ObjectiveTwoDescriptionTwo": "preserve wealth"
+    },
+    "title": "Your Objectives"
+  },
+  "page": { "description": "Asset Allocation", "title": "Asset Allocation" },
+  "targetAssetAllocation": {
+    "illiquid": {
+      "capitalGrowth": { "title": "Capital Growth" },
+      "capitalYielding": { "title": "Capital Yielding" },
+      "title": "Illiquid"
+    },
+    "liquid": {
+      "absoluteReturn": { "title": "Absolute Return" },
+      "opportunistic": { "title": "Opportunistic" },
+      "title": "Liquid"
+    },
+    "title": "Target Asset Allocation"
+  },
+  "assetName": {
+    "Alternative Investments": {
+      "description": "Any TFO investments in liquid multi asset class funds",
+      "title": "Alternative Investments"
+    },
+    "Cash": {
+      "description": "Any cash balances that are in transit or in external bank accounts listed within TFO portfolio",
+      "title": "Cash"
+    },
+    "Equities": {
+      "description": "Any TFO investments in liquid equities asset class",
+      "title": "Equities"
+    },
+    "Fixed Income": {
+      "description": "Any TFO investments in the liquid credit asset class through BondVest, SukukVest and other pre-funding vehicles",
+      "title": "Fixed Income"
+    },
+    "Other Illiquid": {
+      "description": "Refers to illiquid TFO investments that tend to target a specific dislocation or theme",
+      "title": "Other Illiquid"
+    },
+    "Others": {
+      "description": "Any TFO investments in the liquid credit asset class through BondVest, SukukVest and other pre-funding vehicles",
+      "title": "Others"
+    },
+    "Private Equity Investments": {
+      "description": "Any equity positions taken in companies that are not publicly traded",
+      "title": "Private Equity Investments"
+    },
+    "Real Estate Investments": {
+      "description": "Any off-market, illiquid investments in the Real Estate asset class",
+      "title": "Real Estate Investments"
+    },
+    "Yielding Investments": {
+      "description": "Refers to a broad category covering any income generating, illiquid investments",
+      "title": "Yielding Investments"
+    }
+  }
+}

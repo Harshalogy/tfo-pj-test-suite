@@ -1,0 +1,27 @@
+{
+  "page": { "title": "Deal Details", "description": "Deal Details" },
+  "summary": {
+    "initialInvestmentDate": "Initial Investment Date",
+    "priceDate": "Price Date",
+    "holdingPeriod": "Holding Period",
+    "sponsorPartner": "Sponsor/Partner",
+    "strategy": "Strategy"
+  },
+  "investmentTable": {
+    "tableHeader": {
+      "bookValue": "Book Value",
+      "marketValue": "Market Value",
+      "initialBookValue": "Initial Book Value",
+      "shares": "Shares",
+      "performanceContribution": "Performance Contribution",
+      "multiple": "Multiple",
+      "netChange": "QTD Net Change",
+      "valueStart": "Value Start",
+      "valueEnd": "Value End",
+      "returnOfCapital": "Return Of Capital",
+      "gainLoss": "Gains/Losses",
+      "income": "Income"
+    }
+  },
+  "gallery": { "title": "Gallery" }
+}

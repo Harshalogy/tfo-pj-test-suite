@@ -1,0 +1,12 @@
+{
+  "page": {
+    "title": "Allocation Details",
+    "description": "Allocation Details"
+  },
+
+  "heading": "Asset Class Listing",
+  "description": "Investments classified according to asset classes",
+  "breadcrumb": {
+    "parent": "Portfolio Summary"
+  }
+}

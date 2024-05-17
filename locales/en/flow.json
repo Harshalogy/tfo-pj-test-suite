@@ -1,0 +1,29 @@
+{
+  "page": {
+    "title": "Select Your Preference",
+    "description": "Select Your Preference"
+  },
+  "heading": "Welcome!",
+  "description": "Do you need help in selecting the right investments for you?",
+  "text": { "alreadyHaveAccount": "Already have an account?" },
+  "button": { "login": "Log In", "continue": "Continue" },
+  "accordion": {
+    "advisory": {
+      "heading": "Yes, I need advice about the right investments for me.",
+      "description": {
+        "one": "Identify your investment goals and risk tolerance",
+        "two": "Receive a personalized proposal and start investing"
+      }
+    },
+    "execution": {
+      "heading": "No, I already know what investments are right for me.",
+      "description": {
+        "one": "Discover our exclusive private market opportunities",
+        "two": "Build your ideal portfolio and start investing"
+      }
+    }
+  },
+  "toast": {
+    "account": { "title": "Your account has been successfully created." }
+  }
+}

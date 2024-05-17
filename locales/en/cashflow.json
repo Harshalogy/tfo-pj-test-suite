@@ -1,0 +1,24 @@
+{
+  "page": { "title": "Cash Flows", "description": "Cash Flows" },
+  "heading": "Cash Flows",
+  "description": "A summary of actual YTD and ITD distributions and capital calls",
+  "actualized": {
+    "title": "ACTUALIZED | USD",
+    "YTDDistribution": "YTD Distribution",
+    "ITDDistribution": "ITD Distribution",
+    "YTDCapitalCall": "YTD Capital Call",
+    "ITDCapitalCall": "ITD Capital Call"
+  },
+  "investmentVehicle": {
+    "title": "BIGGEST INVESTMENTS VEHICLE DISTRIBUTIONS",
+    "tableHeader": {
+      "amount": "Amount",
+      "spv": "SPV",
+      "totalAmount": "Total Amount",
+      "distributionDate": "Distribution Date",
+      "type": "Type",
+      "dealName": "Deal Name",
+      "distributionAmount": "Distribution Amount"
+    }
+  }
+}

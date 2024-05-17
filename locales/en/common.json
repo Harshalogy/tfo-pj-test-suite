@@ -1,0 +1,463 @@
+{
+  "404": {
+    "page": { "title": "Page Not Found", "description": "Page Not Found" },
+    "heading": "The Page You Requested Cannot Be Found",
+    "description": "You may have clicked an expired link or mistyped the address.",
+    "cta": { "dashboard": "Go to the dashboard", "login": "Go to login" }
+  },
+  "tag": {
+    "new": "New"
+  },
+  "button": {
+    "submit": "Submit",
+    "continue": "Continue",
+    "close": "Close",
+    "cancel": "Cancel",
+    "change": "Change",
+    "back": "Back",
+    "next": "Next",
+    "seeMore": "See more",
+    "viewDetails": "View details",
+    "saveAndExit": "Save & Exit",
+    "add": "Add",
+    "exit": "Exit",
+    "acceptAll": "Accept All",
+    "downloadMarketUpdate": "Download market update",
+    "downloadQuarterlyReview": "Download quarterly review",
+    "downloadWhitepaper": "Download whitepaper",
+    "downloadAgain": "Download Again",
+    "completeRegistration": "Complete Registration",
+    "complete": "Complete",
+    "download": "Learn more",
+    "downloadButton": "Download",
+    "capture": "Capture Document",
+    "takePhoto": "Take Photo",
+    "retake": "Retake",
+    "save": "Save",
+    "retry": "retry",
+    "backToProfile": "Back to Profile"
+  },
+  "generic": {
+    "of": "of",
+    "or": "Or",
+    "dollar": " دولار",
+    "please": "Please",
+    "retry": "retry"
+  },
+  "errors": {
+    "required": "This field is required",
+    "email": "Enter a valid email",
+    "alphaAllowed": "Only letters and spaces are allowed",
+    "alphaNumericAllowed": "Only letters and numbers are allowed",
+    "alphaNumericSpaceAllowed": "Only letters, numbers and spaces are allowed",
+    "alphaEnglishAllowed": "Only letters and spaces are allowed.",
+    "alphaEnglishSpecialAllowed": "Only letters, spaces, &, . , / and - are allowed.",
+    "alphaEnglishNumericAllowed": "Only letters and numbers are allowed.",
+    "alphaEnglishNumericSpaceAllowed": "Only letters, numbers and spaces are allowed.",
+    "alphaEnglishNumericSpaceSpecialAllowed": "Only letters, numbers, spaces, &, . , / and - are allowed.",
+    "alphaEnglishNumericDashesAllowed": "Only Latin letters, numbers and dashes are allowed.",
+    "numberAllowed": "Only numbers are allowed",
+    "maxNumberAllowed": "Maximum allowed value is ${max}",
+    "minNumberAllowed": "Minimum value is ${min}",
+    "minChar": "At least ${min} character should be available",
+    "maxChar": "Maximum allowed characters are ${max}",
+    "maxLength": "Maximum allowed length is ${max}",
+    "atleastOne": "Select at least one",
+    "onlyOne": "Select only one",
+    "onlyInteger": "Only integer values allowed",
+    "phoneNumberLength": "Phone number must be of {{digit}} digits",
+    "phoneNumberLengthMax": "Phone number can be of maximum {{digit}} digits",
+    "usernameRegex": "Only letters, numbers, . and - allowed"
+  },
+  "nav": {
+    "heading": "Menu",
+    "links": {
+      "dashboard": "Dashboard",
+      "profile": "Your profile",
+      "signout": "Sign out",
+      "opportunities": "Opportunities",
+      "edit": "Edit",
+      "insights": "Insights",
+      "wealthOverview": "Wealth Overview",
+      "invest": "Invest",
+      "portfolioSimulator": "Portfolio Simulator",
+      "personalizedProposal": "Generate Proposal",
+      "viewProposal": "View Proposal",
+      "unlock": "Unlock",
+      "expandOrCollapse": "Expand or collapse the navigation bar",
+      "myPortfolio": "My Portfolio",
+      "allDeals": "Available",
+      "assetAllocation": "Asset Allocation",
+      "cashFlows": "Cash Flows",
+      "interestedDeals": "Interested",
+      "marketArchive": "Market Archive",
+      "marketIndicators": "Market Indicators",
+      "marketsSimplified": "Market Simplified",
+      "performance": "Performance",
+      "portfolioSummary": "Portfolio Summary",
+      "profitLoss": "Profit and Loss",
+      "setting": "Settings",
+      "totalCommitments": "Total Commitments",
+      "totalInvestments": "Total Investments",
+      "myDocuments": "My Documents",
+      "insightsOverview": "Insights Overview",
+      "scheduleCall": "Schedule a call",
+      "scheduleCallHelp": "Do You Need Help?",
+      "shareInvite": "Invite your friends",
+      "assetClassListing": "Asset Class Listing",
+      "investmentListing": "Investments Listing"
+    }
+  },
+  "help": {
+    "heading": "Need support?",
+    "rmAssignedHeading": "Discuss proposal with your financial advisor",
+    "link": { "support": "Get in touch" },
+    "button": { "whatsApp": "WhatsApp", "email": "Email us" },
+    "subheading": "Get in touch",
+    "contact": "Contact"
+  },
+  "select": {
+    "placeholder": "Please select",
+    "noOptions": "No options",
+    "selectAll": "Select All",
+    "options": {
+      "gender": { "Male": "Male", "Female": "Female" },
+      "title": { "Mr": "Mr.", "Mrs": "Mrs.", "Miss": "Ms." }
+    }
+  },
+  "textarea": { "placeholder": "Type your message here" },
+  "modal": {
+    "feedback": {
+      "title": "We value your feedback",
+      "text": {
+        "rating": "How would you rate your overall experience on our digital platform?",
+        "additionalInfo": "What can we improve to enhance your experience? (Optional)",
+        "uniqueLink": "Receive a unique link to invite your friends and family to join the platform",
+        "thanks": "Thank you for submitting your feedback!"
+      },
+      "option": {
+        "rating": {
+          "Poor": "Poor",
+          "Average": "Average",
+          "Good": "Good",
+          "Excellent": "Excellent"
+        }
+      }
+    },
+    "saveAndExit": {
+      "title": "Would you like to finish later?",
+      "description": "We will save your data so you can resume quickly later."
+    },
+    "verifyPhoneNumber": {
+      "description": "We haven't verified your phone number yet. To keep your account secure,",
+      "cta": "verify your number now."
+    },
+    "rmUpdate": {
+      "description": "Your proposal has been modified by your financial advisor",
+      "cta": "See proposal"
+    },
+    "submitEnquiry": {
+      "title": "Contact our business support team",
+      "description": "Contact us if you have any questions. We will get back to you as soon as possible."
+    },
+    "emailSent": {
+      "title": "Email sent",
+      "description": "We will get back to you as soon as possible at the email address you have provided."
+    },
+    "placeholder": "Select contact reason",
+    "reasons": {
+      "learnMore": {
+        "label": "I want to learn more about available investment products",
+        "value": "support_type_1"
+      },
+      "general": {
+        "label": "I have a general inquiry",
+        "value": "support_type_2"
+      },
+      "technical": {
+        "label": "I need technical support",
+        "value": "support_type_3"
+      }
+    },
+    "description": "We haven't verified your phone number yet. To keep your account secure,",
+    "cta": "verify your number now."
+  },
+  "toast": {
+    "generic": { "error": { "title": "Sorry, something went wrong." } },
+    "enquiry": {
+      "error": { "title": "An error occurred while submitting inquiry." }
+    },
+    "preferences": { "title": "Preference", "description": "Language updated" }
+  },
+  "breadcrumb": {
+    "insights": "Insights",
+    "articles": "Articles",
+    "whitepapers": "Whitepapers",
+    "management-views": "Management View",
+    "quarterly-reviews": "Quarterly Review",
+    "webinars": "Webinars",
+    "market-updates": "Market Updates",
+    "monthly-market-updates": "Monthly Market Updates"
+  },
+  "pagination": { "page": "Page", "of": "of" },
+  "datepicker": {
+    "label": "Select Date",
+    "placeholder": "DD/MM/YYYY",
+    "legends": {
+      "today": "Today",
+      "available-times": "Available Times",
+      "selected": "Selected"
+    }
+  },
+  "disclaimer": {
+    "description": "I acknowledge that these opportunities are for information purposes only and do not constitute an offering. Upon the completion of the risk profile and suitability assessment, specific opportunities will be recommended based on your risk appetite.",
+    "button": "Proceed"
+  },
+  "client": {
+    "ITD": "ITD",
+    "USD": "USD",
+    "YTD": "YTD",
+    "agreeTerms": {
+      "error": "Please agree with the terms and conditions",
+      "termsandConditions": "terms and conditions",
+      "title": "I agree with the"
+    },
+    "and": "and",
+    "annualized": "Annualized",
+    "assetClasses": {
+      "alternativeInvestments": "Alternatives",
+      "cash": "Cash",
+      "equities": "Equities",
+      "fixedIncome": "Fixed Income",
+      "otherIlliquid": "Other Illiquid",
+      "others": "Others",
+      "privateEquityInvestments": "Private Equity",
+      "realEstateInvestments": "Real Estate",
+      "yieldingInvestments": "Yielding",
+      "other": "Others"
+    },
+    "authSignatory": {
+      "error": "Please confirm that you are an authorized signatory of this account",
+      "title": "I confirm that I am an authorized signatory of this account"
+    },
+    "currently": "currently",
+    "deal": "Deal",
+    "deviation": "deviation",
+    "errors": {
+      "noDate": {
+        "button": "Ok",
+        "description": "There isn't any data available yet for what you have selected. Please try again later or reach out to your RM for more information.",
+        "title": "Check back later"
+      }
+    },
+    "downloadPreference": {
+      "bodyText": "Select your download preference",
+      "preferences": {
+        "mySelection": "My selection",
+        "allData": "All data"
+      }
+    },
+    "illiquid": "Illiquid",
+    "liquid": "Liquid",
+    "cash": "Cash",
+    "cashInTransit": "Cash In Transit",
+    "totalAum": "Total Value (AUM)",
+    "months": "Months",
+    "monthsLabel": {
+      "month_10_long_text": "October",
+      "month_10_short_text": "Oct",
+      "month_11_long_text": "November",
+      "month_11_short_text": "Nov",
+      "month_12_long_text": "December",
+      "month_12_short_text": "Dec",
+      "month_1_long_text": "January",
+      "month_1_short_text": "Jan",
+      "month_2_long_text": "February",
+      "month_2_short_text": "Feb",
+      "month_3_long_text": "March",
+      "month_3_short_text": "Mar",
+      "month_4_long_text": "April",
+      "month_4_short_text": "Apr",
+      "month_5_long_text": "May",
+      "month_5_short_text": "May",
+      "month_6_long_text": "June",
+      "month_6_short_text": "Jun",
+      "month_7_long_text": "July",
+      "month_7_short_text": "Jul",
+      "month_8_long_text": "August",
+      "month_8_short_text": "Aug",
+      "month_9_long_text": "September",
+      "month_9_short_text": "Sep"
+    },
+    "no": "No",
+    "no_sponsor": "No Sponsor",
+    "others": "Others",
+    "notFound": {
+      "description": "We couldn’t find what you are looking for",
+      "title": "No result found"
+    },
+    "orderManagementCTAs": {
+      "confirmButtonText": "Confirm",
+      "nextButtonText": "Next",
+      "redeemAmountButtonText": "Redeem Amount",
+      "redeemButtonText": "Redeem",
+      "proceedToCheckout": "Proceed to Checkout"
+    },
+    "program": "Program",
+    "quarters": {
+      "ITD": "ITD",
+      "quarter_1": "Q1",
+      "quarter_2": "Q2",
+      "quarter_3": "Q3",
+      "quarter_4": "Q4"
+    },
+    "regions": {
+      "asia": "Asia",
+      "europe": "Europe",
+      "global": "Global",
+      "northAmerica": "North America",
+      "oceania": "Oceania",
+      "middleEast": "Middle East"
+    },
+    "sortBy": "Sort By",
+    "sortByFilter": "Sort & Filter",
+    "strategy": { "illiquid": "Illiquid", "liquid": "Liquid" },
+    "years": "Years",
+    "yes": "Yes",
+    "investmentCart": { "title": "Investment Cart" },
+    "userOnBoarding": {
+      "addToCart": {
+        "description": {
+          "deal": "You can now add deals to your investment cart for digital subscription",
+          "program": "You can now add deals and programs to your investment cart for digital subscription"
+        },
+        "title": "Add to cart"
+      },
+      "checkout": {
+        "description": "Continue to enter subscription details",
+        "title": "Checkout"
+      },
+      "orderSummary": {
+        "description": "Review the order and click confirm to finalize",
+        "title": "Confirmation"
+      },
+      "programDetails": {
+        "description": "Select Deals you want to subscribe to under the program",
+        "title": "Program Details"
+      },
+      "subscriptionDetails": {
+        "description": "Enter your subscription amount",
+        "title": "Subscription Amount"
+      },
+      "viewCart": {
+        "description": "Access your investment cart by clicking on the icon here",
+        "title": "Investment Cart"
+      }
+    },
+    "clientId": "Client ID",
+    "lang": "العربيّة"
+  },
+  "filters": {
+    "button": {
+      "applyChange": "Apply Changes",
+      "clearAllFilter": "Clear All Filters",
+      "reset": "Clear"
+    },
+    "filterTypes": {
+      "assetClass": { "title": "Asset Class" },
+      "deployed": { "title": "% Deployed" },
+      "investmentVehicle": { "title": "Investment vehicle" },
+      "order": {
+        "options": { "ascending": "Ascending", "descending": "Descending" },
+        "title": "Order"
+      },
+      "region": {
+        "options": {
+          "asia": "Asia",
+          "europe": "Europe",
+          "global": "Global",
+          "northAmerica": "North America",
+          "oceania": "Oceania",
+          "middleEast": "Middle East"
+        },
+
+        "title": "Region"
+      },
+      "sector": { "title": "Sector" },
+      "shariah": {
+        "title": "Sharia’h or Non-Sharia’h",
+        "options": { "shariah": "Sharia’h" }
+      },
+      "sort": {
+        "options": {
+          "alphabetically": "Alphabetically",
+          "investmentVehicle": "Investment vehicle",
+          "recency": "Recency",
+          "region": "Region"
+        },
+        "title": "Sort by"
+      },
+      "sponsor": { "title": "Sponsor" }
+    },
+    "title": "Filters"
+  },
+  "sessionExpireModal": {
+    "title": "Session timeout",
+    "description": "Your session is about to expire because you’ve been inactive for a while.",
+    "message": "For your security, we will automatically sign you out after 1 minute.",
+    "label": { "sec": "sec" },
+    "button": { "logout": "Log me out", "continueSession": "Continue session" }
+  },
+  "labels": {
+    "verified": "Verified",
+    "notVerified": "Not verified",
+    "verifyCall": "We need to verify your phone number to schedule a call."
+  },
+  "accessRestricted": {
+    "title": "Restricted Access",
+    "description": "The proposal you are trying to access is not available.",
+    "assignedDescription": "The proposal you are trying to access is been assigned to",
+    "backToDashboard": "Back to Dashboard"
+  },
+  "shareInviteModal": {
+    "heading": "Want to share the experience?",
+    "title": "Invite your friends and family to start their investment journey.",
+    "label": "Your unique invitation link",
+    "cta": {
+      "cancel": "Cancel",
+      "share": "Share",
+      "copyLink": "Copy Link"
+    },
+    "message": "Link copied to clipboard",
+    "shareHeading": "Or share directly via:",
+    "platform": {
+      "twitter": "Twitter",
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "whatsApp": "Whatsapp",
+      "heading": "You’re invited to join our digital investment platform.",
+      "description": "Explore a new way of investing. Build a 10-year investment strategy within 10 minutes, and access 10 exclusive opportunities and more. Sign up now."
+    }
+  },
+  "portfolioSimulatorWidget": {
+    "button": { "text": "Simulate your portfolio" },
+    "title": "How would a private market portfolio perform with your time horizon and risk tolerance?"
+  },
+  "opportunitiesRMCardWidget": {
+    "description": "Your dedicated financial advisor would be happy to answer your questions and provide further details about this opportunity.",
+    "title": "Interested in this opportunity?"
+  },
+  "capitalProgramInfoModal": {
+    "assetClassExposure": "Asset Class Exposure",
+    "sectorExposure": "Sector Exposure",
+    "geographicalExposure": "Geographical Exposure",
+    "capitalYieldingProgram": {
+      "title": "Capital Yielding",
+      "description": "The capital yielding strategy aims to provide access to select private opportunities in real estate and private credit to generate a long-term, steady income stream."
+    },
+    "capitalGrowthProgram": {
+      "title": "Capital Growth",
+      "description": "The capital growth strategy aims to provide access to co-investment opportunities expected to generate long-term capital appreciation in private equity and real estate alongside top global asset managers."
+    }
+  }
+}

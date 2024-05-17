@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Who Is The Family Office?",
+    "description": "The Family Office is a wealth management firm serving investors, individuals, and families in the Gulf Cooperation Council states since 2004. The Family Office operates in Bahrain and Saudi Arabia and manages $2 billion in tailored portfolio solutions. In 2020, The Family Office has transferred its international subsidiaries in Hong Kong and New York to Petiole Asset Management (AG) in Zürich, who have assumed the asset management activities of The Family Office.",
+    "sortOrder": 1
+  },
+  {
+    "id": 2,
+    "title": "In Which Jurisdictions Is The Family Office Regulated?",
+    "description": "The Family Office and Petiole Asset Management AG are subject to the oversight of six regulators in Bahrain, the Cayman Islands, Hong Kong, Saudi Arabia, Switzerland and the U.S.",
+    "sortOrder": 2
+  },
+  {
+    "id": 3,
+    "title": "Which Geographies Can I Invest in?",
+    "description": "The Family Office offers access to international investment strategies to balance our clients’ exposure to local markets. Taking advantage of our global footprint, we provide clients with access to key international markets and deals across the globe including the U.S., Canada, China, Pan Asia, Europe and more.",
+    "sortOrder": 3
+  },
+  {
+    "id": 4,
+    "title": "What Asset Classes Can I Invest In?",
+    "description": "The Family Office specializes in alternative investments, which include private equity, real estate, private credit, real assets and more.",
+    "sortOrder": 4
+  },
+  {
+    "id": 5,
+    "title": "What Makes The Family Office Unique?",
+    "description": "The Family Office provides clients superior access to world-class managers like BlackRock, Goldman Sachs and the Carlyle Group, offering top-tier alternative investment opportunities.",
+    "sortOrder": 5
+  },
+  {
+    "id": 6,
+    "title": "How Is The Family Office Navigating Investment Decisions during the Uncertainty Brought by the COVID-19 Pandemic?",
+    "description": "The Family Office had positioned portfolios defensively before the COVID-19 pandemic, not because we knew that a pandemic is coming but because the market cycle was over-extended. We monitor our investments closely. Historically, the best returns have been achieved by taking advantage of opportunities that arise during crises.",
+    "sortOrder": 6
+  },
+  {
+    "id": 7,
+    "title": "What Is the Minimum Investment Amount?",
+    "description": "A minimum investment of $300,000 USD is required to start investing with The Family Office. To learn more, please reach out to our financial advisors.",
+    "sortOrder": 7
+  },
+  {
+    "id": 8,
+    "title": "How Can I Start Investing?",
+    "description": "Please schedule an appointment with one of our financial advisors who will walk you through the process.",
+    "sortOrder": 8
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "page": { "title": "Glossary", "description": "Glossary" },
+  "heading": "Glossary",
+  "description": "Definition of terms and words found throughout the app",
+  "searchInput": { "placeHolder": "Search Glossary" }
+}

@@ -1,0 +1,258 @@
+{
+  "page": {
+    "title": "Dashboard",
+    "description": "Dashboard"
+  },
+  "heading": "Hello, {{firstName}}!",
+  "description": "There are a few steps to go through before becoming an investor",
+  "profileCompletion": "Profile Completion",
+  "cta": {
+    "unlockOpportunity": {
+      "title": "Access private market investments",
+      "description": "Complete your investor profile to unlock our exclusive opportunities.",
+      "button": "Unlock opportunities"
+    },
+    "trySimulator": {
+      "title": "Simulate your portfolio",
+      "description": "You can determine your ideal portfolio based on your goals and risk profile.",
+      "button": "Try our simulator"
+    },
+    "disqualifiedPortfolio": {
+      "title": "Thank you for your interest",
+      "description": "At the moment, we have no investment product that fits your needs. We invite you to check our market insights and latest webinars.",
+      "button": "See our latest insights"
+    },
+    "pastWebinar": {
+      "title": "Webinar",
+      "button": {
+        "watchItNow": "Watch it now",
+        "viewAllWebinars": "View all webinars"
+      }
+    },
+    "portfolioIndicator": {
+      "title": "Build your personalized portfolio",
+      "description": "You're on your way to getting your tailored investment strategy.",
+      "completedDescription": "You're just one step away from getting your tailored investment strategy.",
+      "stepper": {
+        "stepOne": {
+          "title": "Investor profile",
+          "activeDesc": "1 minute",
+          "completedDesc": "Reviewing...",
+          "verifiedDesc": "Qualified"
+        },
+        "stepTwo": {
+          "title": "Investment goals",
+          "activeDesc": "3 minutes",
+          "completedDesc": "Completed"
+        },
+        "stepThree": {
+          "title": "Risk assessment",
+          "activeDesc": "3 minutes",
+          "completedDesc": "Completed"
+        }
+      },
+      "button": {
+        "continue": "Continue"
+      }
+    },
+    "kycIndicator": {
+      "title": "Your proposal is accepted",
+      "keepGoingTitle": "You're very close to starting your investment journey with us!",
+      "inplProposalSubmitted": {
+        "title": "Proposal Accepted",
+        "description": "<0>Thank you for submitting your proposal! We are processing your information. Your dedicated financial advisor will contact you soon finalise the process. You can also view your proposal <1>here.</1></0>"
+      },
+      "completedTitle": "Registration Process Completed!",
+      "description": "<0>You are just one step away from investing with us. We just need a few more details about you. You can also view the proposal you accepted <1>here.</1></0>",
+      "completedDescription": "<0>Thank you for completing the registration process. We are currently processing your information. Your dedicated financial advisor will contact you soon to finalize the process. You can also view the proposal you accepted <1>here.</1></0>",
+      "stepper": {
+        "stepOne": {
+          "title": "Personal information",
+          "activeDesc": "2 minutes",
+          "completedDesc": "Step completed"
+        },
+        "stepTwo": {
+          "title": "Investment Experience",
+          "activeDesc": "2 minutes",
+          "completedDesc": "Step completed"
+        },
+        "stepThree": {
+          "title": "ID and Documents Verification",
+          "activeDesc": "3 minutes",
+          "completedDesc": "Step completed"
+        }
+      },
+      "button": {
+        "completeOnboarding": "Complete the process"
+      }
+    },
+    "portfolioCompleted": {
+      "title": "We are creating your proposal",
+      "completedTitle": "Your personalized proposal is ready",
+      "description": "Your dedicated financial advisor will contact you to discuss it in details.",
+      "lastUpdate": "LAST UPDATE:",
+      "generatingProposal": "You are now ready to generate your proposal",
+      "button": {
+        "viewDetails": "View details",
+        "generateProposal": "Generate proposal"
+      },
+      "labels": {
+        "goal": "Your goals",
+        "riskLevel": "Risk level",
+        "investmentAmount": "Investment amount",
+        "timeHorizon": "Time horizon",
+        "installement": "Payments"
+      },
+      "riskLevel": {
+        "conservative": "Conservative",
+        "moderately_conservative": "Moderately Conservative",
+        "moderately_aggressive": "Moderately Aggressive",
+        "aggressive": "Aggressive"
+      },
+      "goal": {
+        "Diversify": "Diversify the portfolio",
+        "MaintainLifestyle": "Maintain lifestyle",
+        "BuildGlobalPortfolio": "Build an international portfolio",
+        "GrowWealth": "Grow wealth",
+        "Other": "Other"
+      },
+      "portfolioGoals": "<0>{{firstGoal}} <1>+{{goalsLength}} more</1></0>",
+      "installement": {
+        "Monthly": "Monthly",
+        "Quarterly": "Quarterly",
+        "SemiAnnually": "Semiannually"
+      }
+    },
+    "relationshipManager": {
+      "title": "Your financial advisor",
+      "button": {
+        "message": "Send a message",
+        "meeting": "Schedule a meeting",
+        "schedule": "Schedule a call",
+        "contact": "Contact",
+        "talkWithExpert": "Talk to our business support team"
+      },
+      "help": {
+        "title": "We're here to help",
+        "description": "Our business support team is ready to help you"
+      }
+    },
+    "buildProposal": {
+      "title": "Not sure where to start?",
+      "description": "We will guide you to start your investment journey.",
+      "button": "Generate your proposal"
+    },
+    "simulatePortfolio": {
+      "button": "Simulate my portfolio",
+      "description": "<0>Use our quick simulator to see what you could make by investing with <1>The Family Office</1>.</0>",
+      "title": "Find the right portfolio for you"
+    },
+    "outsideGCCProposal": {
+      "title": "Thank You For Accepting Your Proposal",
+      "description": "Now that you have accepted your investment proposal, your dedicated financial advisor will contact you about the following steps.",
+      "button": {
+        "scheduleCall": "Or schedule a call now if you have any questions."
+      }
+    },
+    "executionFlow": {
+      "readyToInvestWidget": {
+        "title": "Do you wish to invest?",
+        "description": "To discover and invest in exclusive private market opportunities, you first need to complete your investor profile.",
+        "button": {
+          "cta": "Access opportunities"
+        }
+      },
+      "portfolioSubmittedWidget": {
+        "title": "Thank you for completing your portfolio!",
+        "description": "<0>Now that you have submitted your portfolio, your dedicated financial advisor is processing your information and will contact you soon. In the meantime, you can view your portfolio</0><1>here</1>"
+      },
+      "buildPortfolioStepper": {
+        "title": "Continue building your portfolio",
+        "description": {
+          "step2": "To invest in the opportunities you selected, you need to confirm your subscription amount.",
+          "step3": "You’re just one step away from completing your private market portfolio",
+          "step1": "To invest in the opportunities you selected, you need to confirm your subscription amount."
+        },
+        "stepper": {
+          "stepOne": {
+            "title": "Select opportunities",
+            "completedDesc": "Completed"
+          },
+          "stepTwo": {
+            "title": "Confirm amount",
+            "completedDesc": "Completed"
+          },
+          "stepThree": {
+            "title": "Submit portfolio",
+            "completedDesc": "Completed"
+          }
+        },
+        "button": {
+          "continue": "Continue"
+        }
+      }
+    }
+  },
+  "disclaimer": {
+    "button": "Proceed",
+    "description": "I acknowledge that these opportunities are for information purposes only and do not constitute an offering. Upon the completion of the risk profile and suitability assessment, specific opportunities will be recommended based on your risk appetite."
+  },
+  "tour": {
+    "next": "Next",
+    "done": "Done",
+    "tip": "Tip",
+    "steps": {
+      "first": {
+        "title": "Exclusive Opportunities",
+        "description": "Start your digital investment journey by completing your profile to access exclusive private market opportunities."
+      },
+      "second": {
+        "title": "Portfolio Simulation",
+        "description": "Simulate your portfolio and receive a personalized proposal by answering questions about your goals and risk tolerance."
+      },
+      "third": {
+        "title": "International Partnerships",
+        "description": "Browse our opportunities to uncover private market investments in partnership with top-tier managers like BlackRock, Goldman Sachs and the Carlyle Group."
+      },
+      "fourth": {
+        "title": "Latest Webinars",
+        "description": "Watch some outstanding figures in the investment world discuss recent and noteworthy market events."
+      },
+      "fifth": {
+        "title": "Market Insights",
+        "description": "Learn more about private investments, market updates and latest trends in our Insights section."
+      },
+      "sixth": {
+        "title": "Support",
+        "description": "Get in touch with our business support team for any inquires or help."
+      }
+    }
+  },
+  "cancelReschedule": {
+    "label": {
+      "appointment": "Upcoming call with",
+      "at": "at"
+    },
+    "modal": {
+      "cancelTitle": "Cancel Call",
+      "cancelDescription": "Are you sure you want to cancel this call? It will be removed from your calendar once confirmed."
+    },
+    "button": {
+      "update": "Update Timing",
+      "cancel": "Cancel",
+      "back": "Back",
+      "yesCancel": "Confirm"
+    }
+  },
+  "toast": {
+    "meetingUpdateToast": {
+      "error": {
+        "title": "An error occurred while processing your request"
+      }
+    }
+  },
+  "executionFlow": {
+    "heading": "Hello {{firstName}}!",
+    "description": "Discover world-class opportunities that span over multiple alternative classes like private equity, private debt, real estate, financials and infrastructure."
+  }
+}

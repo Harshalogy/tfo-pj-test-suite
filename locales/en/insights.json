@@ -1,0 +1,128 @@
+{
+  "page": {
+    "index": {
+      "title": "Insights",
+      "description": "Discover the latest market insights and trends from The Family Office",
+      "heading": "Insights",
+      "subheading": "Discover the latest market insights and trends from The Family Office"
+    },
+    "articles": {
+      "title": "Insights",
+      "description": "Read the latest articles on investment and financial market trends and insights",
+      "heading": "Articles",
+      "subheading": "Read the latest articles on investment and financial market trends and insights"
+    },
+    "whitepapers": {
+      "title": "Insights",
+      "description": "Read the latest whitepapers on investment and financial market trends and insights",
+      "heading": "Whitepapers",
+      "subheading": "Read the latest whitepapers on investment and financial market trends and insights",
+      "downloadedWhitepaper": "Thanks for downloading our whitepaper."
+    },
+    "managementViews": {
+      "title": "Insights",
+      "description": "View the latest management views on investment and financial market trends and insights",
+      "heading": "Management Views",
+      "subheading": "View the latest management views on investment and financial market trends and insights"
+    },
+    "quarterlyReviews": {
+      "title": "Insights",
+      "description": "Read the latest quarterly reviews on investment and financial market trends and insights",
+      "heading": "Quarterly Reviews",
+      "subheading": "Read the latest quarterly reviews on investment and financial market trends and insights",
+      "downloadedQuarterlyReview": "Thanks for downloading our quarterly review."
+    },
+    "webinars": {
+      "title": "Insights",
+      "description": "View the latest webinars on investment and financial market trends and insights",
+      "heading": "Webinars",
+      "subheading": "View the latest webinars on investment and financial market trends and insights"
+    },
+    "marketUpdates": {
+      "title": "Insights",
+      "description": "View the latest market updates on investment and financial market trends and insights",
+      "heading": "Market Updates",
+      "subheading": "View the latest market updates on investment and financial market trends and insights",
+      "downloadedMarketUpdate": "Thanks for downloading our market update."
+    },
+    "monthlyMarketUpdates": {
+      "description": "View the latest monthly market updates on investment and financial market trends and insights",
+      "heading": "Monthly Market Updates",
+      "subheading": "View the latest monthly market updates on investment and financial market trends and insights",
+      "title": "Insights"
+    },
+    "podcasts": {
+      "description": "View the latest videos on investment and financial market trends and insights",
+      "heading": "Weekly Market Podcasts",
+      "subheading": "View the latest videos on investment and financial market trends and insights",
+      "title": "Weekly Market Podcasts"
+    },
+    "marketArchive": {
+      "description": "Discover the latest market insights and trends from The Family Office",
+      "heading": "Market Archive",
+      "subheading": "Discover the latest market insights and trends from The Family Office",
+      "title": "Market Archive"
+    }
+  },
+  "heading": "Featured Insights",
+  "label": {
+    "Article": "Articles",
+    "Webinar": "Webinars",
+    "Whitepaper": "Whitepapers",
+    "ManagementView": "Management Views",
+    "MarketUpdate": "Market Updates",
+    "QuarterlyReview": "Quarterly Reviews",
+    "Insights": "Insights",
+    "relatedContent": "Related content",
+    "disclaimer": "Disclaimer",
+    "MonthlyMarketUpdate": "Monthly Market Updates",
+    "Podcast": "Weekly Market Podcasts"
+  },
+  "tag": {
+    "Article": "Article",
+    "Webinar": "Webinar",
+    "Whitepaper": "Whitepaper",
+    "ManagementView": "Management View",
+    "MarketUpdate": "Market Update",
+    "QuarterlyReview": "Quarterly Review",
+    "Insight": "Insight",
+    "MonthlyMarketUpdate": "Monthly Market Update",
+    "Podcast": "Weekly Market Podcasts",
+    "MarketArchive": "Market Archive"
+  },
+  "button": {
+    "viewMarketSimplified": "View Markets Simplified",
+    "viewMarketArchive": "View Markets Archive"
+  },
+  "higlights": { "title": "Highlights" },
+  "marketSimplified": {
+    "title": "Markets Simplified",
+    "label": {
+      "stocks": "Stocks & Bonds",
+      "indices": "Indices",
+      "week": "Week",
+      "stock": "Stock",
+      "fx": "FX",
+      "bonds": "Bonds",
+      "watchlist": "Watchlist",
+      "categories": "Categories"
+    },
+    "marketSimplifiedTable": {
+      "country": "Country",
+      "bonds": "Bonds",
+      "maturity": "Maturity",
+      "close": "Close",
+      "weekChange": "Weeks change",
+      "stocks": "Stocks",
+      "week": "Week",
+      "year": "Year",
+      "name": "Name",
+      "fxValue": "FX Value (vs USD)",
+      "fxStrength": "FX Strength",
+      "company": "Company",
+      "price": "Price",
+      "index": "Index",
+      "level": "Level"
+    }
+  }
+}

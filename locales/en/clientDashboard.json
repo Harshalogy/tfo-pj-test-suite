@@ -1,0 +1,96 @@
+{
+  "page": { "title": "Dashboard", "description": "Dashboard" },
+  "heading": "Client ID #{{clientId}}",
+  "description": "Welcome to your dashboard. Here, you can speak to experts, explore personalized news, education, and investment opportunities.",
+  "relationshipManager": {
+    "title": "Speak to your financial advisor,",
+    "button": "Schedule a call"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "button": "Show portfolio summary",
+    "portfolioMetricesData": {
+      "totalAum": "Total Value (AUM)",
+      "netChange": "Net Change (ITD)",
+      "irr": { "title": "IRR", "disclaimer": "(for fully exited deals)" },
+      "performance": {
+        "title": "Overall Performance",
+        "labels": { "ytd": "YTD", "itd": "ITD", "annualized": "Annualized" }
+      }
+    },
+    "performanceData": {
+      "title": "Performance",
+      "asOf": "as of",
+      "cumulativePerformance": "Cumulative Performance",
+      "periodPerformance": "Period Performance"
+    }
+  },
+  "insights": {
+    "title": "Latest insights",
+    "discalimer": "We've picked a few articles and videos to learn more about The Family Office and our investment strategies.",
+    "button": "See all insights"
+  },
+  "portfolioActivity": {
+    "title": "Portfolio activity",
+    "subTitle": "View expected events for the next 30 days for the expected cash inflows and outflows in your portfolio.",
+    "accordionDetails": {
+      "distributionAccordion": {
+        "title": "Distribution",
+        "description": "A distribution of ${{dealAmount}} from your {{dealName}} should reach your account"
+      },
+      "capitalCallAccordion": {
+        "title": "Capital call",
+        "description": "Funds totaling ${{dealAmount}} are expected to be transferred from your account towards a capital call from {{dealName}}"
+      },
+      "exitAccordion": {
+        "title": {
+          "1": "One deal is exiting",
+          "2": "Two deals are exiting",
+          "3": "Three deals are exiting",
+          "4": "Four deals are exiting",
+          "5": "Five deals are exiting",
+          "6": "Six deals are exiting",
+          "7": "Seven deals are exiting",
+          "8": "Eight deals are exiting",
+          "9": "Nine deals are exiting",
+          "10": "Ten deals are exiting"
+        },
+        "description": "{{dealName}} is expected to exit and distribute funds ${{dealAmount}} to your account"
+      }
+    },
+    "calenderLegends": {
+      "title1": "Distribution",
+      "title2": "Capital call",
+      "title3": "Exit"
+    },
+    "viewMoreBtn": "View more",
+    "viewLessBtn": "View less",
+    "activityNote": "*Any dates or amounts appearing on the Portfolio Activity (above) are based upon a best effort basis, and as such are suggestive, subject to change and should not be deemed final.",
+    "noEventNote": "No events are planned for the next 30 days."
+  },
+  "opportunities": {
+    "title": "Available Opportunities",
+    "button": { "seeMore": "See more", "viewDetails": "View details" },
+    "dealInfo": {
+      "shariah": "Sharia’h",
+      "deal": "Deal",
+      "program": "Program",
+      "expectedReturn": "Expected Return",
+      "expectedExit": "Expected Exit",
+      "assetClass": "Asset class",
+      "country": "Country",
+      "sector": "Sector",
+      "sponsor": "Sponsor",
+      "assetManager": "Asset Manager"
+    }
+  },
+  "cta": {
+    "opportunities": { "button": { "seeMore": "See more" } },
+    "portfolio": {
+      "performanceData": {
+        "asOf": "as of",
+        "periodPerformance": "Period Performance"
+      }
+    }
+  }
+}
