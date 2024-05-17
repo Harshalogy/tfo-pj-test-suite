@@ -1,0 +1,102 @@
+[
+    {
+        "testId": "01",
+        "question": {
+            "1": "I strongly agree",
+            "2": "I neither agree nor disagree",
+            "3": "I neither agree nor disagree",
+            "4": "I neither agree nor disagree",
+            "5": "I neither agree nor disagree",
+            "6": "I neither agree nor disagree",
+            "7": "I agree",
+            "8": "I agree",
+            "9": "I agree"
+        },
+        "expected": {
+            "rawRiskScore": 14,
+            "rawResponsivenessScore": 2,
+            "adjustedScore": 4,
+            "scoreDescription": "Moderately Conservative",
+            "riskScore": 14,
+            "percentage": 57.00000000000001,
+            "responsivenessLevel": "Moderate",
+            "responsivenessLevelDisplay": "Paced Responder",
+            "scoreDescriptionId": "moderately_conservative"
+        }
+    },
+    {
+        "testId": "02",
+        "question": {
+            "1": "I strongly agree",
+            "2": "I strongly agree",
+            "3": "I strongly agree",
+            "4": "I strongly agree",
+            "5": "I strongly agree",
+            "6": "I strongly agree",
+            "7": "I strongly agree",
+            "8": "I strongly agree",
+            "9": "I strongly agree"
+        },
+        "expected": {
+            "rawRiskScore": 14,
+            "rawResponsivenessScore": 2,
+            "adjustedScore": 4,
+            "scoreDescription": "Moderately Conservative",
+            "riskScore": 14,
+            "percentage": 57.00000000000001,
+            "responsivenessLevel": "Moderate",
+            "responsivenessLevelDisplay": "Paced Responder",
+            "scoreDescriptionId": "moderately_conservative"
+        }
+    },
+    {
+        "testId": "03",
+        "question": {
+            "1": "I strongly agree",
+            "2": "I neither agree nor disagree",
+            "3": "I strongly agree",
+            "4": "I neither agree nor disagree",
+            "5": "I neither agree nor disagree",
+            "6": "I neither agree nor disagree",
+            "7": "I neither agree nor disagree",
+            "8": "I strongly disagree",
+            "9": "I strongly disagree"
+        },
+        "expected": {
+            "rawRiskScore": 14,
+            "rawResponsivenessScore": 2,
+            "adjustedScore": 4,
+            "scoreDescription": "Moderately Conservative",
+            "riskScore": 14,
+            "percentage": 57.00000000000001,
+            "responsivenessLevel": "Moderate",
+            "responsivenessLevelDisplay": "Paced Responder",
+            "scoreDescriptionId": "moderately_conservative"
+        }
+    },
+    {
+        "testId": "04",
+        "question": {
+            "1": "I strongly disagree",
+            "2": "I strongly agree",
+            "3": "I strongly disagree",
+            "4": "I strongly agree",
+            "5": "I strongly agree",
+            "6": "I strongly agree",
+            "7": "I strongly agree",
+            "8": "I strongly agree",
+            "9": "I strongly agree"
+        },
+        "expected": {
+            "rawRiskScore": 14,
+            "rawResponsivenessScore": 2,
+            "adjustedScore": 4,
+            "scoreDescription": "Moderately Conservative",
+            "riskScore": 14,
+            "percentage": 57.00000000000001,
+            "responsivenessLevel": "Moderate",
+            "responsivenessLevelDisplay": "Paced Responder",
+            "scoreDescriptionId": "moderately_conservative"
+        }
+    }
+]

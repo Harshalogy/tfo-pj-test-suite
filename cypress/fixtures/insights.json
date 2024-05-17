@@ -1,0 +1,248 @@
+[
+  {
+    "type": "Article",
+    "insights": [
+      {
+        "insightType": "Article",
+        "id": "90532623",
+        "title": "Protecting Wealth From Inflation",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "The investment community is divided on whether inflation is more than just transitory. ",
+        "publishDate": "2021-08-25T00:00:00",
+        "estimatedDuration": "2 min"
+      },
+      {
+        "insightType": "Article",
+        "id": "90387524",
+        "title": "The Merits Of Long-Term Investments",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Good things come to those who wait. This old proverb which originated from a poem by Lady Mary Montgomerie Currie (1843-1905)",
+        "publishDate": "2021-07-19T00:00:00",
+        "estimatedDuration": "3 min"
+      },
+      {
+        "insightType": "Article",
+        "id": "90386872",
+        "title": "Invest In Your Future",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Many look at investing as a surefire way to take charge of one’s financial security.",
+        "publishDate": "2021-06-14T00:00:00",
+        "estimatedDuration": "2 min"
+      },
+      {
+        "insightType": "Article",
+        "id": "88888888",
+        "title": "Lorem Ipsum:Invest In Your Future",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Many look at investing as a surefire way to take charge of one’s financial security",
+        "publishDate": "2021-06-14T00:00:00",
+        "estimatedDuration": "2 min"
+      }
+    ]
+  },
+  {
+    "type": "Webinar",
+    "insights": [
+      {
+        "insightType": "Webinar",
+        "id": "89821411",
+        "title": "Abdulmohsin AlOmran | A Deep-Dive Into Diversification, Retirement, And Asset Protection In Wealth Management",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "During a webinar held on 6 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz,",
+        "publishDate": "2021-10-07T00:00:00",
+        "estimatedDuration": "7 min"
+      },
+      {
+        "insightType": "Webinar",
+        "id": "99999999",
+        "title": "Lorem Ipsum | Abdulmohsin AlOmran",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+        "publishDate": "2021-10-07T00:00:00",
+        "estimatedDuration": "7 min"
+      },
+      {
+        "insightType": "Webinar",
+        "id": "888888888",
+        "title": "Lorem Ipsum | A Deep-Dive Into Diversification",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia, rising inflation after the Covid-19 pandemic,",
+        "publishDate": "2021-10-07T00:00:00",
+        "estimatedDuration": "7 min"
+      },
+      {
+        "insightType": "Webinar",
+        "id": "7777777",
+        "title": "Lorem Ipsum | Protection In Wealth Management",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "During a webinar held on 6 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed ",
+        "publishDate": "2021-10-07T00:00:00",
+        "estimatedDuration": "7 min"
+      }
+    ]
+  },
+  {
+    "type": "Whitepaper",
+    "insights": [
+      {
+        "insightType": "Whitepaper",
+        "id": "90387525",
+        "title": "Technology Adoption And Digitalization - Business Opportunities And Economic Growth Implications",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Technological and digital advancements have revolutionized industries over the past two decades, expanding capabilities and raising efficiency to new levels.",
+        "publishDate": "2021-11-16T00:00:00",
+        "estimatedDuration": "1 min"
+      },
+      {
+        "insightType": "Whitepaper",
+        "id": "90387517",
+        "title": "Change In Lifestyle: Forecasting Consumer Behaviour In MENA & Saudi For 2021",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "The world has evolved at a rapid pace with major improvements in living standards, driven most notably by technological advancements, globalization and economic reforms.",
+        "publishDate": "2021-05-12T00:00:00",
+        "estimatedDuration": "20 Min"
+      },
+      {
+        "insightType": "Whitepaper",
+        "id": "89821185",
+        "title": "Technology Adoption In Wealth Management",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Even as technology spending worldwide is increasing rapidly, wealth management firms have been slow to adopt technology, despite unmistakable trends across all other industries.",
+        "publishDate": "2021-05-10T00:00:00",
+        "estimatedDuration": "1 min"
+      },
+      {
+        "insightType": "Whitepaper",
+        "id": "9999999",
+        "title": "Lorem Ipsum In Wealth Management",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Even as technology spending worldwide is increasing rapidly",
+        "publishDate": "2021-05-10T00:00:00",
+        "estimatedDuration": "1 min"
+      }
+    ]
+  },
+  {
+    "type": "ManagementView",
+    "insights": [
+      {
+        "insightType": "ManagementView",
+        "id": "92325851",
+        "title": "Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ",
+        "publishDate": "2021-12-23T00:58:00",
+        "estimatedDuration": "10 min"
+      },
+      {
+        "insightType": "ManagementView",
+        "id": "92303235",
+        "title": "Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "publishDate": "2021-12-15T00:58:00",
+        "estimatedDuration": "15 min"
+      },
+      {
+        "insightType": "ManagementView",
+        "id": "92331754",
+        "title": "Ali Almuarik Speaks To Argaam About Managing Family Wealth",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Ali Almuarik, Deputy CEO Head of Wealth and Asset Management",
+        "publishDate": "2021-10-10T00:00:00",
+        "estimatedDuration": "1 min"
+      },
+      {
+        "insightType": "ManagementView",
+        "id": "555555555",
+        "title": "Lorem Ipsum Speaks To Argaam About Managing Family Wealth",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "discusses the importance of financial planning for preserving and growing family wealth.",
+        "publishDate": "2021-10-10T00:00:00",
+        "estimatedDuration": "1 min"
+      }
+    ]
+  },
+  {
+    "type": "MonthlyMarketUpdate",
+    "insights": [
+      {
+        "insightType": "MonthlyMarketUpdate",
+        "id": "94462860",
+        "title": "Title Lorem ipsum dolor sit amet",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "publishDate": "2021-12-20T21:00:00",
+        "estimatedDuration": "10 min"
+      },
+      {
+        "insightType": "MonthlyMarketUpdate",
+        "id": "94461030",
+        "title": "Title Lorem ipsum dolor sit amet",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+        "publishDate": "2021-12-16T00:52:00",
+        "estimatedDuration": "10 min"
+      },
+      {
+        "insightType": "MonthlyMarketUpdate",
+        "id": "92445324",
+        "title": "Monthly Market Update | October 2021",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Overview\n\n1. The Federal Reserve (the “Fed”) signals gradual tapering by year-end\n \n2. Central banks keep rates low despite inflationary signs\n \n3.",
+        "publishDate": "2021-11-18T18:00:00",
+        "estimatedDuration": "12 min"
+      },
+      {
+        "insightType": "MonthlyMarketUpdate",
+        "id": "888888888",
+        "title": "Lorem Ipsum | October 2021",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Overview\n\n1. The Federal Reserve (the “Fed”) signals gradual tapering by year-end\n \n2.",
+        "publishDate": "2021-11-18T18:00:00",
+        "estimatedDuration": "12 min"
+      }
+    ]
+  },
+  {
+    "type": "QuarterlyReview",
+    "insights": [
+      {
+        "insightType": "QuarterlyReview",
+        "id": "93612588",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "publishDate": "2021-12-24T00:55:00",
+        "estimatedDuration": "10 min"
+      },
+      {
+        "insightType": "QuarterlyReview",
+        "id": "93612587",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "publishDate": "2021-12-15T00:54:00",
+        "estimatedDuration": "12 min"
+      },
+      {
+        "insightType": "QuarterlyReview",
+        "id": "93612586",
+        "title": "Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Lorem ipsum dolor sit amet",
+        "publishDate": "2021-12-09T00:00:00",
+        "estimatedDuration": "15 min"
+      },
+      {
+        "insightType": "QuarterlyReview",
+        "id": "88888888",
+        "title": "Lorem ipsum sed do eiusmod tempor incididunt ",
+        "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "publishDate": "2021-12-09T00:00:00",
+        "estimatedDuration": "15 min"
+      }
+    ]
+  }
+]

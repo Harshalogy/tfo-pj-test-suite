@@ -1,0 +1,17 @@
+{
+  "env": {
+    "auth0Audience": "https://tfo-dev.eu.auth0.com/api/v2/",
+    "auth0Domain": "tfo-dev.eu.auth0.com",
+    "auth0ClientId": "mopMGKAku2FmPBqH0MPFponQQFSeMVTA",
+    "auth0SessionCookieName": "appSession",
+    "auth0Password": "openIt@12",
+    "auth0CookieSecret": "cd89fe3d05f1ca9093826293929966fbc0caf68d7980c3dc10f4ef22d0aeff14",
+    "auth0ClientSecret": "Hx5C14Qr_XlU56rUVveFFhwv8v-0oMxt28WrkGyb0q2cCiiDr4LYL7RvS4CERxqf",
+    "auth0Scope": "openid profile email",
+    "beBaseUrl": "apimaz-weu-tfo-mvp-dev.azure-api.net",
+    "appData": {
+      "minimumInvestmentAmount": "$300,000"
+    }
+  },
+  "baseUrl": "https://my.tfoco.dev"
+}

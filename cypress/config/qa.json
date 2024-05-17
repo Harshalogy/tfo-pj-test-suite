@@ -1,0 +1,17 @@
+{
+  "env": {
+    "auth0Audience": "https://tfo-qa.eu.auth0.com/api/v2/",
+    "auth0Domain": "tfo-uat.eu.auth0.com",
+    "auth0ClientId": "AWZejjdbi65mSS87zNGCMfgC0qXjgRn1",
+    "auth0SessionCookieName": "appSession",
+    "auth0Password": "openIt@12",
+    "auth0CookieSecret": "cd89fe3d05f1ca9093826293929966fbc0caf68d7980c3dc10f4ef22d0aeff14",
+    "auth0ClientSecret": "EgRywDz9g7r2HmbaKV-E1B2FrxMVERjzDqnZ4XOXV_iABTwbzuD5_fs2F-exJK71",
+    "auth0Scope": "openid profile email",
+    "apiBaseUrl": "https://apimaz-weu-tfo-mvp-qa.azure-api.net",
+    "googleClientId": "umf5SicJaUFgoXXyU0WX0ZMQqopUjXe0",
+    "googleClientSecret":"",
+    "googleRefreshToken":""
+  },
+  "baseUrl": "https://myqa.tfoco.dev"
+}

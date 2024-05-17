@@ -1,0 +1,83 @@
+{
+  "status": "DISQUALIFIED",
+  "opportunities": [
+    {
+      "title": "Sporer and Sons",
+      "country": "HR",
+      "sector": "withdrawal",
+      "component": "mission-critical",
+      "assetClass": "cross-platform",
+      "image": "https://via.placeholder.com/200/1A1A1A99",
+      "isShariahCompliant": true,
+      "description": "At laudantium et maiores amet.\nEt placeat voluptatem velit enim.",
+      "sponsor": "Skiles Group",
+      "expectedExit": "2022",
+      "id": "86a1323f-11a0-4275-8400-d3069e9f0a6a"
+    },
+    {
+      "title": "Zieme - Bergstrom",
+      "country": "TR",
+      "sector": "Bedfordshire",
+      "component": "brand",
+      "assetClass": "Soft",
+      "image": "https://via.placeholder.com/200/1A1A1A99",
+      "isShariahCompliant": true,
+      "description": "Iusto error dolor culpa quisquam debitis reiciendis nihil quos.\nDolores maiores veritatis est dicta esse id.",
+      "sponsor": "Bednar Inc",
+      "expectedExit": "2022",
+      "id": "ef31c835-0d01-488e-8985-239aa566e131"
+    },
+    {
+      "title": "Hoppe - Prosacco",
+      "country": "CW",
+      "sector": "sensor",
+      "component": "Outdoors",
+      "assetClass": "Internal",
+      "image": "https://via.placeholder.com/200/1A1A1A99",
+      "isShariahCompliant": true,
+      "description": "Sint porro eius.\nRerum sit consequatur omnis odit in expedita numquam.",
+      "sponsor": "Ward - Monahan",
+      "expectedExit": "2022",
+      "id": "545be7d9-566c-4217-8f1c-7031df84fee7"
+    },
+    {
+      "title": "Dach and Sons",
+      "country": "FJ",
+      "sector": "productize",
+      "component": "neural",
+      "assetClass": "Loaf",
+      "image": "https://via.placeholder.com/200/1A1A1A99",
+      "isShariahCompliant": false,
+      "description": "Reprehenderit incidunt necessitatibus facere optio qui.\nRepellendus voluptate eum aut ratione ipsum earum veritatis.",
+      "sponsor": "Tremblay Group",
+      "expectedExit": "2022",
+      "id": "2667072f-9efe-4d57-88f5-874bd43785f5"
+    },
+    {
+      "title": "Konopelski, Bechtelar and Lind",
+      "country": "UG",
+      "sector": "Chief",
+      "component": "motivating",
+      "assetClass": "card",
+      "image": "https://via.placeholder.com/200/1A1A1A99",
+      "isShariahCompliant": true,
+      "description": "Doloribus nemo mollitia rerum.\nQui perspiciatis est non earum facere.",
+      "sponsor": "Shields - Labadie",
+      "expectedExit": "2022",
+      "id": "48b9a934-1a9e-4fe4-bf8b-3e1ae977cbd1"
+    },
+    {
+      "title": "Konopelski - Koepp",
+      "country": "MF",
+      "sector": "Direct",
+      "component": "Small",
+      "assetClass": "Pizza",
+      "image": "https://via.placeholder.com/200/1A1A1A99",
+      "isShariahCompliant": false,
+      "description": "Ratione consequatur sunt eaque earum consequuntur.\nOfficiis placeat perferendis doloribus debitis porro quia rerum ipsa quis.",
+      "sponsor": "Schroeder Group",
+      "expectedExit": "2022",
+      "id": "2e054ddf-1f6c-4db3-b625-8bccc8d19e98"
+    }
+  ]
+}

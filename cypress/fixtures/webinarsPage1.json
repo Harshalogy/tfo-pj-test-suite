@@ -1,0 +1,106 @@
+{
+  "page": 1,
+  "totalCount": 31,
+  "data": [
+    {
+      "insightType": "Webinar",
+      "id": "89821411",
+      "title": "Abdulmohsin AlOmran | A Deep-Dive Into Diversification, Retirement, And Asset Protection In Wealth Management",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 6 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888882",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management1",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888883",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management2",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888884",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management3",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888885",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management4",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888886",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management5",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888887",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management6",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888888",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management7",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888889",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management8",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    },
+    {
+      "insightType": "Webinar",
+      "id": "88888890",
+      "title": "Lorem Ipsum | A Deep-Dive Into Lorem Ipsum In Wealth Management9",
+      "bannerImage": "https://via.placeholder.com/200/1A1A1A99",
+      "cardImage": "https://via.placeholder.com/200/1A1A1A99",
+      "description": "During a webinar held on 39 October, The Family Office Founder and CEO Abdulmohsin Al Omran discussed with Mohammed Albaz, Bahrain Bureau Senior Reporter at Sky News Arabia,",
+      "publishDate": "2021-10-07T00:00:00",
+      "estimatedDuration": "7 min"
+    }
+  ]
+}
