@@ -1,0 +1,102 @@
+{
+  "page": { "title": "Subscription", "description": "Subscription" },
+  "investmentCart": {
+    "heading": "Investment cart",
+    "description": {
+      "dealAndProgram": "Please select the programs and deals to continue.",
+      "deal": "Please select the deals you wish to proceed with",
+      "program": "Please select the programs to continue."
+    },
+    "moreInfoDropdown": {
+      "expectedReturn": "Expected Return",
+      "expectedExit": "Expected Exit",
+      "assetClass": "Asset Class",
+      "country": "Country",
+      "sector": "Sector",
+      "sponsor": "Sponsor",
+      "assetManager": ""
+    },
+    "button": { "moreInfo": "More info" },
+    "tag": { "shariah": "Sharia’h" },
+    "removeModal": { "message": "Are you sure you want to remove this deal?" },
+    "emptyCart": {
+      "description": "There are no deals in your investment cart",
+      "title": "Your investment cart is empty"
+    },
+    "expireDeal": { "title": "Deal is no longer available" },
+    "expireProgram": { "title": "Program is no longer available" }
+  },
+  "subscriptionDetails": {
+    "heading": "Subscription Details",
+    "description": {
+      "deal": "Please enter your desired commitment amount and concentration for your selected deal",
+      "dealAndProgram": "Please enter your desired commitment amount and concentration for your selected Program & Deal",
+      "program": "Please enter your desired commitment amount and concentration for your selected Program"
+    },
+    "subscriptionAmount": "*Subscription Amount",
+    "totalSubcriptionAmount": "Total Subscription Amount",
+    "checkboxLabel": "I do not wish to pre-fund the total commitment amount",
+    "numberosDeals": {
+      "heading": "Number of deals you wish to subscribe to:",
+      "fiveDeals": "Five deals (20% concentration)",
+      "tenDeals": "10 deals (10% concentration)",
+      "twentyDeals": "20 deals (5% concentration)"
+    },
+    "formSection": {
+      "subscriptionAmount": {
+        "placeholder": "Minimum is",
+        "errorMessages": {
+          "minDeal": "The minimum for this deal is",
+          "maxDeal": "The maximum for this deal is",
+          "enterAmount": "Please enter a subscription amount"
+        }
+      }
+    },
+    "note": {
+      "title": "Note:",
+      "description": "A higher number of deals increases diversification but extends the deployment period"
+    },
+    "contentrationDetailPopup": {
+      "title": "{{concentration}}% concentration",
+      "description": "Up to {{concentration}}% of the commitment amount will be allocated to each deal"
+    }
+  },
+  "programDetails": {
+    "headng": "Program Details",
+    "description": "Select the deals that interest you from the following, if any (optional)",
+    "programDeals": "Deals under this program:",
+    "noDealInProgram" : "No available deals under the program",
+    "selectedCountText": "Deals selected",
+    "note": {
+      "title": "Note:",
+      "description": "You can proceed with fewer deals than your selected concentration."
+    },
+    "newDealPopup": {
+      "title": "New Deal",
+      "description": "New deal that will be part of the program allocation by default."
+    },
+    "noProgramSelected": "No deals selected under this program"
+  },
+  "orderSummary": {
+    "heading": "Order Summary",
+    "description": "Please review your desired commitment amount per selected deal before confirming your order",
+    "dealImmediateInvestment": "Deal immediate investment",
+    "totalImmediateInvestment": "Total Immediate Investment",
+    "disclaimer": {
+      "title": "* Disclaimer",
+      "description": "The Investor understands and agrees that the allocation of shares of the names Portfolio or Class in the Fund is on a non-guaranteed, best-efforts basis, upon acceptance of the Investor’s Commitment Offer Form by the Company. The Company, the Investment Manager and their respective affiliates are not liable if the Investor receives either a lower allocation of Shares in the named Portfolio or Class or none at all. The Investor also acknowledges that the actual value of Holding Cost levied depends on the state on which the Shares in the corresponding Portfolio or Class are registered as having been allocated to the Investor."
+    },
+    "totalInvestmentAmount": "Total Investment Amount"
+  },
+  "confirmation": {
+    "heading": "Confirmation",
+    "successMsg": "Thank you! Your subscription has been logged.",
+    "emailConfirmationText": "Your subscription form has been sent to your registered email for your signature.",
+    "processText": "Your order will be processed after the subscription form is signed.",
+    "disclaimer": {
+      "title": "* Disclaimer:",
+      "description": "The Investor understands and agrees that the allocation of shares of the names Portfolio or Class in the Fund is on a non-guaranteed, best-efforts basis, upon acceptance of the Investor’s Commitment Offer Form by the Company. The Company, the Investment Manager and their respective affiliates are not liable if the Investor receives either a lower allocation of Shares in the named Portfolio or Class or none at all. The Investor also acknowledges that the actual value of Holding Cost levied depends on the state on which the Shares in the corresponding Portfolio or Class are registered as having been allocated to the Investor."
+    },
+    "opportunitiesCTA": "Back to opportunities"
+  }
+}

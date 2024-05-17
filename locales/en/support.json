@@ -1,0 +1,45 @@
+{
+  "page": { "title": "Help", "description": "View FAQs and support details" },
+  "heading": "Get support",
+  "subheading": "Start your global investment journey with no doubts or unclear points.",
+  "card": {
+    "talkWithExperts": {
+      "title": "Talk to our business support team",
+      "description": "Request a call at your convenience"
+    },
+    "scheduleMeeting": {
+      "title": "Schedule a meeting",
+      "description": "Talk to your financial advisor"
+    },
+    "contactClientService": {
+      "title": "Contact our business support team",
+      "description": "Send a message to our business support team"
+    },
+    "talkWithRelationshipMananger": {
+      "title": "Schedule a call with",
+      "description": "Request a call at your convenience"
+    },
+    "contactRelationshipManager": {
+      "title": "Send a message to",
+      "description": "He will get back to you as soon as possible"
+    }
+  },
+  "headings": { "faqs": "FAQs", "contacts": "Our contacts" },
+  "text": {
+    "email": "Email",
+    "whatsapp": "Whatsapp",
+    "openChat": "Open a new chat",
+    "saudiContact": "Saudi contact",
+    "bahrainContact": "Bahrain contact"
+  },
+  "modal": {
+    "getSupport": {
+      "title": "Get Support",
+      "description": "Start your global investment journey with no doubts or uncertainties.",
+      "contactYou": "Let us contact you",
+      "contactUs": "Or contact us",
+      "yourFinancialAdvisor": "Your financial advisor",
+      "contactFinancialAdvisor": "Speak to your financial advisor"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "page": {
+    "title": "Simulate Portfolio",
+    "description": "Simulate your portfolio"
+  },
+  "controls": {
+    "heading": "Simulate your Portfolio",
+    "input": {
+      "investmentAmount": {
+        "label": "Investment Amount",
+        "placeholder": "Investment Amount",
+        "tooltip": "The amount of money you can commit towards your investment up-front. The Family Office specialises in alternative investments, which require a minimum starting investment on {{minInvestmentAmount}} to ensure a diversified portfolio.",
+        "minHint": "Minimum investment amount is $300,000.",
+        "maxHint": "Maximum investment amount is $20,000,000.",
+        "minimumAmount": "Minimum investment amount is $300,000"
+      }
+    },
+    "slider": {
+      "timeHorizon": { "label": "Time Horizon" },
+      "riskTolerance": {
+        "label": "Risk tolerance",
+        "level": {
+          "1": { "name": "Very \nConservative" },
+          "2": { "name": "Conservative" },
+          "3": { "name": "Balanced" },
+          "4": { "name": "Aggressive" },
+          "5": { "name": "Very \nAggressive" }
+        }
+      }
+    },
+    "checkbox": {
+      "shariahCompliant": {
+        "label": "Make my portfolio Shariah compliant",
+        "tooltip": "Based on our clients’ requests, most of our solutions can be customized to include Shariah-compliant investments only."
+      }
+    },
+    "mobileMenu": {
+      "shariahCompliant": "Shariah Compliant",
+      "nonShariahCompliant": "Conventional"
+    },
+    "button": { "simulate": "Simulate" }
+  },
+  "projections": {
+    "heading": "Your Projections",
+    "summary": "<0>{{firstName}}, your portfolio could be worth <1>{{projectedValue}}</1> in <1>{{years}}</1> {{yearsText}} with an average yearly income of <1>{{averageIncome}}</1> which translates to <1>{{cumulativeYieldPaidOut}}</1> paid out over <1>{{years}}</1> years.<2/><2/>This means a <1>{{roi}}</1> total return (Portfolio Value + Cumulative Yield) on your initial investment, with an average annual total return of <1>{{expectedReturn}}</1> and an average annual yield payout of <1>{{expectedYield}}</1>.</0>",
+    "summaryWithZeroYield": "<0>{{firstName}}, your portfolio could be worth <1>{{projectedValue}}</1> in <1>{{years}}</1> {{yearsText}} with an average yearly income of <1>{{averageIncome}}</1>.<2/><2/>This means a <1>{{roi}}</1> total return on your initial investment, with an average annual return of <1>{{expectedReturn}}</1>.</0>"
+  },
+  "allocations": {
+    "heading": "Your Illustrative Allocation",
+    "summary": "<0>Your goals can be achieved with a <1>{{recommendedStrategy}}</1> portfolio focused on <1>{{count}}</1> investment strategy.<2/><2/>This portfolio is built with <1>long-term opportunities</1> that offer <1>growth and diversification</1>.</0>",
+    "summaries": "<0>Your goals can be achieved with a <1>{{recommendedStrategy}}</1> portfolio focused on <1>{{count}}</1> investment strategies.<2/><2/>This portfolio is built with <1>long-term opportunities</1> that offer <1>growth and diversification</1>.</0>",
+    "strategy": {
+      "capitalYielding": "Capital Yielding",
+      "capitalGrowth": "Capital Growth",
+      "opportunistic": "Opportunistic",
+      "absoluteReturn": "Liquid",
+      "balanced": "Balanced"
+    },
+    "categorization": {
+      "Capital Yielding": "Capital Yielding",
+      "Capital Growth": "Capital Growth",
+      "Opportunistic": "Opportunistic",
+      "Absolute Return": "Absolute return"
+    },
+    "capitalGrowth": {
+      "title": "Capital Growth",
+      "description": "Illiquid investments aiming to generate long-term capital appreciation."
+    },
+    "capitalYielding": {
+      "title": "Capital Yielding",
+      "description": "Illiquid investments aiming to generate a long-term, steady income stream."
+    },
+    "opportunistic": {
+      "title": "Opportunistic",
+      "description": "Investments into predominantly liquid funds based on gaps in the market."
+    },
+    "absoluteReturn": {
+      "title": "Absolute return",
+      "description": "Investments into predominantly liquid funds based on gaps in the market."
+    },
+    "sampleDeals": {
+      "assetClass": "Asset class",
+      "country": "Country",
+      "sponsor": "Sponsor",
+      "sector": "Sector"
+    },
+    "assetClassHeading": "Main asset classes within the strategy:"
+  },
+  "tooltip": {
+    "totalValue": "Total value",
+    "portfolioValue": "Portfolio value",
+    "absoluteReturn": "Absolute return",
+    "relativeReturn": "Relative return",
+    "yieldThisYear": "Yield this year",
+    "cumulativeYield": "Cumulative yield",
+    "annualYield": "Annual yield",
+    "year": {
+      "Year 0": "Current year",
+      "Year 1": "Year 1",
+      "Year 2": "Year 2",
+      "Year 3": "Year 3",
+      "Year 4": "Year 4",
+      "Year 5": "Year 5",
+      "Year 6": "Year 6",
+      "Year 7": "Year 7",
+      "Year 8": "Year 8",
+      "Year 9": "Year 9",
+      "Year 10": "Year 10",
+      "Year 11": "Year 11",
+      "Year 12": "Year 12",
+      "Year 13": "Year 13",
+      "Year 14": "Year 14",
+      "Year 15": "Year 15",
+      "Year 16": "Year 16",
+      "Year 17": "Year 17",
+      "Year 18": "Year 18",
+      "Year 19": "Year 19",
+      "Year 20": "Year 20",
+      "Year 21": "Year 21",
+      "Year 22": "Year 22",
+      "Year 23": "Year 23",
+      "Year 24": "Year 24",
+      "Year 25": "Year 25"
+    }
+  },
+  "legends": {
+    "portfolioValue": "Portfolio Value",
+    "cumulativeYieldPaidOut": "Cumulative Yield Paid Out"
+  },
+  "footer": {
+    "button": { "startInvesting": "Build your personalized portfolio" }
+  },
+  "disclaimer": "*All information, figures, calculations, graphs and other numerical representations appearing in this presentation have not been audited and may be subject to change over time. Furthermore, certain valuations (including valuations of investments) appearing in this presentation are subject to change as they may be based on either estimates or historical figures that do not reflect the latest valuation. Although all information and opinions expressed in this presentation were obtained from sources believed to be reliable and in good faith, no representation or warranty, express or implied, is made as to their accuracy or completeness. The information contained herein is not a substitute for a thorough due diligence investigation. Past performance is not indicative of and does not guarantee future performance."
+}

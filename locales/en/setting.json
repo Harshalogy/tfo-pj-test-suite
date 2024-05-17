@@ -1,0 +1,32 @@
+{
+  "heading": "Settings",
+  "language": {
+    "ar": "العربيّة",
+    "en": "English",
+    "subTitle": "Select the preferred language",
+    "title": "Preferred language"
+  },
+  "more": {
+    "button": {
+      "disclaimer": "Disclaimer",
+      "privacyPolicy": "Privacy Policy",
+      "terms": "Term & Condition"
+    },
+    "title": "More"
+  },
+  "page": { "description": "Settings", "title": "Settings" },
+  "password": { "button": "Change Password", "title": "Password" },
+  "rmDetail": {
+    "options": {
+      "call": "Call",
+      "email": "Email",
+      "scheduleMeeting": "Schedule a meeting"
+    },
+    "title": "Your Financial Advisor"
+  },
+  "viewAccount": {
+    "placeholder": "Client ID #{{clientId}} viewing",
+    "subTitle": "Viewing:",
+    "title": "Viewing Account"
+  }
+}

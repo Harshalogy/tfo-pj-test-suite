@@ -1,0 +1,116 @@
+{
+  "page": {
+    "title": "Schedule a meeting",
+    "description": "Schedule a meeting with a financial advisor or our business support team"
+  },
+  "rmAssigned": {
+    "header": {
+      "title": "Schedule a meeting",
+      "subtitle": "Keep in touch with your financial advisor"
+    }
+  },
+  "updateCall": {
+    "header": {
+      "title": "Updating our call details"
+    }
+  },
+  "header": {
+    "title": "Schedule a call",
+    "subtitle": "Contact our business support team"
+  },
+  "labels": {
+    "phoneNumber": "Phone number*",
+    "callDetails": "Call details",
+    "date": "Date*",
+    "timeZone": "Time Zone*",
+    "time": "Time*",
+    "meetingType": "Meeting type*",
+    "email": "Email*",
+    "reason": "Reason",
+    "callSpecifications": "Call Specifications",
+    "relationshipManager": "Your financial advisor",
+    "attachedDeal": "Attached opportunity",
+    "attached": "Attached"
+  },
+  "tag": { "shariah": "Sharia'h" },
+  "text": {
+    "missing": "Missing",
+    "notSpecified": "Not specified",
+    "required": "* Indicates a required field"
+  },
+  "success": {
+    "title": "Call scheduled",
+    "description": "Thank you for contacting us. We will send an e-mail with the details of your call and look forward to speaking to you."
+  },
+  "button": {
+    "edit": "Edit",
+    "call": "Schedule a call",
+    "close": "Close",
+    "update": "Update Details"
+  },
+  "toast": {
+    "calendar": {
+      "error": { "title": "An error occurred while fetching meeting calendar." }
+    },
+    "scheduleMeeting": {
+      "error": {
+        "title": "An error occurred while scheduling meeting.",
+        "wrongNumber": "Please enter a valid phone number and try again"
+      }
+    },
+    "updateMeeting": {
+      "error": { "title": "An error occurred while updating meeting." }
+    },
+    "relationshipManager": {
+      "error": {
+        "title": "An error occurred while fetching your dedicated financial advisor's details."
+      }
+    }
+  },
+  "timeZone": {
+    "label": "Select your time zone*",
+    "options": {
+      "arabicStandardTime": "Arabic Standard Time GMT+03:00",
+      "arabianStandardTime": "Arabian Standard Time GMT+04:00"
+    }
+  },
+  "availableTimeSlots": {
+    "label": "Select an available time*",
+    "errors": {
+      "unavailable": "No time slots are available for current date. Please try picking another date."
+    }
+  },
+  "phoneNumber": { "errors": { "inValid": "Please enter valid number." } },
+  "availableDate": {
+    "label": "Select an available date*",
+    "placeholder": "DD/MM/YYYY",
+    "errors": {
+      "valid": "Please enter a correct date",
+      "past": "Please enter current or future date"
+    }
+  },
+  "calendarLegends": {
+    "today": "Today",
+    "availableTimes": "Available Times",
+    "selected": "Selected"
+  },
+  "meetingType": {
+    "label": "Meeting type",
+    "options": {
+      "phoneCall": "Phone call",
+      "virtualMeeting": "Virtual meeting"
+    }
+  },
+  "callReason": {
+    "label": "Call reason",
+    "options": {
+      "TFO": "I want to know more about The Family Office",
+      "portfolio": "I want to discuss my simulated portfolio",
+      "proposal": "I want to discuss my suggested proposal",
+      "other": "Other",
+      "opportunity": "I want to discuss the offered opportunities"
+    }
+  },
+  "additionalInfo": { "label": "Additional Info" },
+  "noTimeSlots": "No slots available on this date"
+}

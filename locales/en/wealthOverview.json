@@ -1,0 +1,23 @@
+{
+  "seo": {
+    "page": { "title": "Wealth Overview", "description": "Wealth Overview" }
+  },
+  "heading": "Wealth Overview",
+  "button": {
+    "add": "Add",
+    "addAsset": "Add an Asset",
+    "addLiability": "Add a Liability",
+    "addPortfolioYield": "Add a Portfolio Yield"
+  },
+  "label": {
+    "geography": "Geography",
+    "simulatedNetWorth": "Simulated Net Worth",
+    "portfolioAllocation": "Portfolio Allocation",
+    "assets": "Assets",
+    "liabilities": "Liabilities",
+    "portfolioYield": "Portfolio Yield",
+    "gettingStarted": "Getting Started",
+    "netWorth": "Net Worth",
+    "noData": "No Data"
+  }
+}

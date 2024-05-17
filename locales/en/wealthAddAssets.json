@@ -1,0 +1,42 @@
+{
+  "seo": {
+    "page": {
+      "title": "Add your assets and liabilities",
+      "description": "You automatically sync your accounts or manually enter."
+    }
+  },
+  "restoreModal": {
+    "title": "Restore Form",
+    "body": "Do you want to continue from where you left?",
+    "buttons": { "no": "No", "yes": "Yes", "purge": "Remove previous data" }
+  },
+  "steps": {
+    "addAssetsOrLiabilities": {
+      "title": "Add your assets and liabilities",
+      "description": "You automatically sync your accounts or manually enter.",
+      "header": { "assets": "Assets", "liabilities": "Liabilities" }
+    },
+    "addBankAccount": {
+      "title": "Add your bank account",
+      "description": "Enter manually or auto-fill details by securely linking your bank account"
+    },
+    "fillDetails": {
+      "title": "Bank account details",
+      "description": "Add all details of your bank account on the right",
+      "inputs": {
+        "bankName": { "label": "Bank Name", "placeholder": "Bank Name" },
+        "accountType": {
+          "label": "Account Type",
+          "placeholder": "Account Type"
+        },
+        "country": { "label": "Country", "placeholder": "Country" },
+        "currency": { "label": "Currency", "placeholder": "Currency" },
+        "balance": { "label": "Balance", "placeholder": "Balance" },
+        "interestRate": {
+          "label": "Interest Rate",
+          "placeholder": "Interest Rate"
+        }
+      }
+    }
+  }
+}

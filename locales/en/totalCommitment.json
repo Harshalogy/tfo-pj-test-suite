@@ -1,0 +1,19 @@
+{
+  "page": { "title": "Total Commitments", "description": "Total Commitments" },
+  "heading": "Total Commitments",
+  "description": "An overview of commitments to your illiquid programs as of {{toDate}}",
+  "totalCommitted": "Total Committed",
+  "totalUncalled": "Total Uncalled",
+  "deployed": "Deployed",
+  "commitmentsList": {
+    "title": "Commitments List",
+    "tableBody": {
+      "committed": "Committed",
+      "called": "Called",
+      "uncalled": "Uncalled",
+      "strategy": "Strategy",
+      "committedDate": "Committed Date",
+      "button": "View Related Investments"
+    }
+  }
+}

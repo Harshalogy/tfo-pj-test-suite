@@ -1,0 +1,26 @@
+{
+  "page": { "title": "Total Investments", "description": "Total Investments" },
+  "heading": "Total Investments",
+  "description": "Information about your individual investments as of {{valuationDate}}.",
+  "holdingPeriod": { "title": "Avg. Holding Period" },
+  "totalInvestment": { "title": "Total Investments" },
+  "yourPortfolio": { "title": "Sector composition of your portfolio" },
+  "regions": { "title": "Your investment locations" },
+  "yourInvestments": {
+    "title": "Your investments",
+    "table": {
+      "tableHeader": {
+        "investmentName": "Investment name",
+        "assetClass": "Asset Class",
+        "dealName": "Deal Name",
+        "spv": "SPV",
+        "investmentDate": "Investment Date",
+        "investmentAmount": "Investment Amount",
+        "marketValue": "Market Value",
+        "performanceContribution": "Performance Contribution(%)",
+        "region": "Region"
+      }
+    },
+    "button": { "viewAllInvestment": "View all investments" }
+  }
+}
